@@ -633,6 +633,39 @@
         "https://www.pebsp.com/fundacao-cecierj-abre-7-165-vagas-de-graduacao-semipresenciais-e-a-distancia-em-8-instituicoes-publicas-dcs/"
       ],
       "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ifsertaope-94-2026-ads",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (UAB)",
+      "instituicao": "IFSertãoPE · EaD/UAB",
+      "estado": "PE",
+      "tipo": "Graduação",
+      "area": "ADS / Desenvolvimento de Sistemas",
+      "edital": "Edital nº 94/2026 (UAB)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-07-18",
+      "inscricaoFim": "2026-08-01",
+      "cargaHoraria": "2,5 anos (item 3.1.1)",
+      "vagas": "150 (30 por polo)",
+      "mensalidade": "Gratuito (instituição federal, programa UAB/CAPES)",
+      "taxa": "Sem taxa (item 4.9)",
+      "certificado": "Diploma de Tecnólogo em ADS",
+      "polos": "Afrânio, Cedro, Floresta, Garanhuns e São José do Egito (todos em PE)",
+      "pePodeParticipar": "Sim. Sem exigência de residência na cidade do polo; matrícula pede comprovante de residência (item 9.3). Todos os polos ficam em Pernambuco",
+      "atividadesPresenciais": "Sim. Comparecimento ao polo para avaliações, seminários, tutorias e laboratório, em sua maioria aos sábados e/ou domingos (item 3.1.7), com frequência obrigatória (item 3.1.2). Quantidade de encontros não informada. Polo mais próximo de Recife: Garanhuns (~230 km)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Sim, no polo escolhido (item 3.1.7)",
+      "processoSeletivo": "Notas do ENEM 2021–2025 (Linguagens e Matemática) ou histórico escolar (Português e Matemática do último ano do EM), item 2.1. Resultado final 20/08/2026; matrículas 20–27/08; remanescentes 27–30/08/2026",
+      "viabilidade": "B",
+      "linkEdital": "https://ifsertaope.edu.br/ead/wp-content/uploads/sites/9/2026/07/Edital-No94.2026-Alunos-Graduacao-EAD-2026-UAB-2.pdf",
+      "linkInscricao": "https://selecao.ifsertaope.edu.br",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Edital encerrado (inscrições até 01/08/2026), registrado como referência: é a única graduação EaD de TI com polos em Pernambuco encontrada até agora. Próxima oferta ainda não anunciada; acompanhar ifsertaope.edu.br/ead. Viabilidade B pelos encontros presenciais obrigatórios aos fins de semana no polo.",
+      "fontes": [
+        "https://ifsertaope.edu.br/ead/wp-content/uploads/sites/9/2026/07/Edital-No94.2026-Alunos-Graduacao-EAD-2026-UAB-2.pdf",
+        "https://www.pebsp.com/ifsertaope-lanca-processo-seletivo-para-graduacao-em-analise-de-sistemas-e-logistica-a-distancia-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
     }
   ],
   "verificacoes": [
@@ -640,7 +673,7 @@
       "data": "2026-10-11",
       "novas": 19,
       "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA, CEDERJ/CECIERJ, IFCE UAB IA, UEG, IF Baiano Alagoinhas",
-      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE)."
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Vestibular UEG 2027/1 encerrado em 21/09, sem curso EaD de TI confirmado; não incluído."
     }
   ]
 }
