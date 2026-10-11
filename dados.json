@@ -167,6 +167,39 @@
     },
     {
       "area": "Informática",
+      "atividadesPresenciais": "NÃO INFORMADO — edital não detalha encontros presenciais; matrícula com documentos originais em local/data a definir (itens 6.3 e 9.7)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "cargaHoraria": "3 semestres (turno noturno, Quadro 2)",
+      "certificado": "Diploma de técnico de nível médio",
+      "curso": "Técnico em Informática (subsequente EaD)",
+      "dataVerificacao": "2026-10-11",
+      "edital": "Edital nº 25/2026, de 25/08/2026",
+      "estado": "BA",
+      "fontes": [
+        "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-2027-santa-ines/",
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital_EaD.pdf"
+      ],
+      "inscricaoFim": "2026-10-16",
+      "inscricaoInicio": "2026-08-31",
+      "instituicao": "IF Baiano · Campus Santa Inês",
+      "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital_EaD.pdf",
+      "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/328/",
+      "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
+      "observacoes": "Requisito: ensino médio concluído até a matrícula (itens 1.4 e 1.5). Edital tem inconsistências (item 2.2 fala em horário diurno, Quadro 2 indica noturno; menções a 2026). Logística presencial não confirmada para residente de PE (Santa Inês fica no sudoeste da Bahia).",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO — edital não impõe restrição de residência; matrícula exige comprovante de residência ou declaração de domicílio (item 9.7.1, VI)",
+      "polos": "Campus Santa Inês (BA)",
+      "primeiraDeteccao": "2026-10-11",
+      "processoSeletivo": "Manifestação de interesse por ordem de inscrição, sem prova (itens 1.7 e 8.1); desempate por maior idade (8.4). Heteroidentificação presencial 03–06/11/2026 para cotas PPI (item 10.8). Resultado final 19/11/2026; edital de matrícula 04/12/2026; aulas previstas para março/2027",
+      "provasPresenciais": "NÃO INFORMADO",
+      "situacao": "PRAZO ENCERRANDO",
+      "taxa": "Sem taxa (item 4.11)",
+      "tipo": "Técnico",
+      "vagas": "40 (Campus Santa Inês)",
+      "viabilidade": "C",
+      "id": "ifbaiano-25-2026-santaines-informatica"
+    },
+    {
+      "area": "Informática",
       "atividadesPresenciais": "Sim. Item 2.2: um encontro presencial semanal, à noite, em dia definido pela Coordenação",
       "aulasSincronas": "NÃO INFORMADO",
       "cargaHoraria": "18 meses (Quadro 2)",
@@ -329,6 +362,41 @@
       "id": "ifbaiano-39-2026-itaberaba-informatica"
     },
     {
+      "area": "Inteligência Artificial",
+      "atividadesPresenciais": "Sim: 20% da carga horária presencial no polo escolhido, com frequência mínima de 75% nos encontros obrigatórios (item 1.1.4.1)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "cargaHoraria": "1,5 ano (carga horária em horas NÃO INFORMADA no edital)",
+      "certificado": "Diploma de técnico de nível médio (IFNMG)",
+      "curso": "Técnico em Inteligência Artificial (subsequente, EaD)",
+      "dataVerificacao": "2026-10-11",
+      "edital": "Edital nº 1631/2026 – Processo Seletivo 1/2027, cursos técnicos concomitantes/subsequentes (análise curricular), atualizado com 1ª retificação",
+      "estado": "MG",
+      "fontes": [
+        "https://ifnmg.edu.br/processoseletivo/26-portal/ensino/41607-1-processo-seletivo-2027-cursos-tecnicos-concomitante-subsequente-com-selecao-por-analise-desempenho",
+        "https://ifnmg.edu.br/mais-noticias-portal/735-portal-noticias-2026/41695-processo-seletivo-1-2027-abertas-as-inscricoes-para-cursos-tecnicos-concomitantes-e-subsequentes-presenciais-e-ead",
+        "https://blog.pensarcursos.com.br/wp-content/uploads/2026/09/EDITAL-1631-CONCOMITANTE_SUBSEQUENTE-ANALISE-CURRICULAR-Atualizado-com-1a-Retificacao-1.pdf",
+        "https://www.pebsp.com/curso-tecnico-inteligencia-artificial-ifnmg-ead-2026-2027/"
+      ],
+      "inscricaoFim": "2026-10-23",
+      "inscricaoInicio": "2026-09-24",
+      "instituicao": "Instituto Federal do Norte de Minas Gerais (IFNMG)",
+      "linkEdital": "https://ifnmg.edu.br/processoseletivo/26-portal/ensino/41607-1-processo-seletivo-2027-cursos-tecnicos-concomitante-subsequente-com-selecao-por-analise-desempenho",
+      "linkInscricao": "https://ifnmg.edu.br/processoseletivo/26-portal/ensino/41607-1-processo-seletivo-2027-cursos-tecnicos-concomitante-subsequente-com-selecao-por-analise-desempenho",
+      "mensalidade": "Gratuito (instituição pública federal)",
+      "observacoes": "Classificado como D: há encontros presenciais obrigatórios (20% da carga horária, frequência mínima de 75%) e todos os polos ficam em MG/GO, o que exigiria deslocamentos frequentes a partir de PE. O portal ifnmg.edu.br não respondeu durante a verificação; os dados vêm do texto do Edital 1631 (com 1ª retificação) em cópia publicada por portal de terceiros e da página oficial do processo seletivo citada nele. Confira no portal oficial antes de qualquer decisão.",
+      "pePodeParticipar": "O edital não traz regra de residência, mas não há polo em PE ou no Nordeste; o polo é escolhido na inscrição",
+      "polos": "Somente MG e GO: Cabeceira Grande, Arinos, Buritis, Uruana de Minas, Flores de Goiás (GO), Unidade Ceadi, Montes Claros, Várzea da Palma, Corinto, Joaquim Felício, Buritizeiro e polos de Araçuaí (não especificados)",
+      "primeiraDeteccao": "2026-10-11",
+      "processoSeletivo": "Análise do desempenho no 1º e 2º anos do Ensino Médio (Português peso 1, Matemática peso 2, Geografia 1, História 1). Resultado final em 04/12/2026; matrículas a partir de 07/12/2026 (presencial ou on-line, conforme edital de cada campus)",
+      "provasPresenciais": "NÃO INFORMADO no edital (pode haver, conforme os PPCs)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "taxa": "R$ 9,00 (pagamento até 26/10/2026). Isenção para quem cursou/cursa o 3º ano do EM em escola pública ou está no CadÚnico (pedidos de 24/09 a 05/10/2026, já encerrados)",
+      "tipo": "Técnico",
+      "vagas": "640 (Arinos 200, incluindo polo Flores de Goiás/GO; Ceadi-Reitoria 160; Pirapora 160; Araçuaí 120; Montes Claros 40)",
+      "viabilidade": "D",
+      "id": "ifnmg-1631-2026-ia"
+    },
+    {
       "area": "Desenvolvimento Web / Sistemas",
       "atividadesPresenciais": "Sim. Anexo I, nota 1: encontros presenciais e avaliações obrigatoriamente presenciais no campus ou polo; frequência não especificada. Item 51.1: quem não comparecer às atividades presenciais nem acessar o AVA até o 10º dia letivo é considerado desistente",
       "aulasSincronas": "NÃO INFORMADO",
@@ -467,9 +535,9 @@
   "verificacoes": [
     {
       "data": "2026-10-11",
-      "fontesConsultadas": "UFMS/FAPEC, IF Baiano, IFRN, IFCE Q-Seleção, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, UnB/Cebraspe, Secti-PE, EV.G, PEBSP, VestibulandoWeb",
-      "novas": 14,
-      "resumo": "14 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano Bom Jesus da Lapa, 1 curso livre EV.G). Varredura sob demanda: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos em Informática/Redes do IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba. IFCE IA encerrou em 08/10. Seletivos IFMA e IFPB 2027 são presenciais. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e curso 'IA para Todos os Pernambucanos' (Secti-PE)."
+      "novas": 16,
+      "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb",
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE)."
     }
   ]
 }

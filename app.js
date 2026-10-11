@@ -61,24 +61,40 @@
   function renderRuler(){
     const svg = $('#ruler'), W = 1000, L = 30, R = 970, span = 60, x = d => L + (R-L) * (d/span);
     const css = getComputedStyle(document.documentElement), col = v => css.getPropertyValue(v).trim();
-    let out = `<line x1="${L}" y1="70" x2="${R}" y2="70" stroke="${col('--line')}" stroke-width="2"/>`;
+    // Agrupa por data de encerramento: um marcador por dia, com instituições e total de cursos
+    const porData = {};
+    state.opps.filter(o => ['aberta','prazo'].includes(phase(o).k) && o.viabilidade !== 'D')
+      .forEach(o => { const d = daysTo(o.inscricaoFim); if (d === null || d > span) return; (porData[d] ||= []).push(o); });
+    const grupos = Object.keys(porData).map(Number).sort((a,b) => a-b).map(d => {
+      const g = porData[d].sort(sortOpps), insts = [...new Set(g.map(o => o.instituicao.split(' · ')[0]))];
+      const dt = new Date(today().getTime() + d*DAY).toLocaleDateString('pt-BR', {day:'2-digit', month:'2-digit'});
+      const curto = c => c.replace(/^(Tecnologia|Técnico) em /, '').replace(/\s*\(.*\)$/, '');
+      const nome = g.length === 1 ? `${insts[0]} · ${curto(g[0].curso)}` : `${insts.join(', ')} · ${g.length} cursos`;
+      const label = `${dt} · ${nome.length > 44 ? nome.slice(0,43) + '…' : nome}`;
+      return {d, o: g[0], label, w: label.length * 6.9 + 10};
+    });
+    // Distribui os rótulos em faixas, sem sobreposição
+    const faixas = [];
+    grupos.forEach(gr => {
+      const cx = x(gr.d); gr.cx = cx; gr.tx = Math.min(cx - 4, W - gr.w);
+      let f = faixas.findIndex(fim => gr.tx > fim + 12); if (f < 0){ f = faixas.length; faixas.push(0); }
+      faixas[f] = gr.tx + gr.w; gr.f = f;
+    });
+    const n = Math.max(faixas.length, 1), axisY = 24 + n * 20 + 8, H = axisY + 34;
+    svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+    let out = `<line x1="${L}" y1="${axisY}" x2="${R}" y2="${axisY}" stroke="${col('--line')}" stroke-width="2"/>`
+            + `<rect x="${x(0)}" y="${axisY-4}" width="${x(7)-x(0)}" height="8" fill="${col('--vD-soft')}"/>`;
     for (let d = 0; d <= span; d += 7){
       const dt = new Date(today().getTime() + d*DAY);
-      out += `<line x1="${x(d)}" y1="64" x2="${x(d)}" y2="76" stroke="${col('--line')}" stroke-width="1.5"/>`
-           + `<text x="${x(d)}" y="96" text-anchor="middle" font-size="12" font-family="JetBrains Mono, monospace" fill="${col('--muted')}">${d===0?'hoje':dt.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'})}</text>`;
+      out += `<line x1="${x(d)}" y1="${axisY-6}" x2="${x(d)}" y2="${axisY+6}" stroke="${col('--line')}" stroke-width="1.5"/>`
+           + `<text x="${x(d)}" y="${axisY+26}" text-anchor="middle" font-size="12" font-family="JetBrains Mono, monospace" fill="${col('--muted')}">${d===0?'hoje':dt.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'})}</text>`;
     }
-    out += `<rect x="${x(0)}" y="66" width="${x(7)-x(0)}" height="8" fill="${col('--vD-soft')}"/>`;
-    const items = state.opps.filter(o => ['aberta','prazo'].includes(phase(o).k)).map(o => ({o, d: daysTo(o.inscricaoFim)})).filter(i => i.d !== null && i.d <= span).sort((a,b)=>a.d-b.d)
-      .filter(function(i){ const k = i.o.edital ? `${i.o.instituicao}|${i.o.edital}|${i.d}` : i.o.id; if (this[k]) { this[k].n++; return false; } i.n = 1; this[k] = i; return true; }, {});
-    const lanes = [];
-    items.forEach(({o,d,n}) => {
-      const cx = x(d); let lane = lanes.findIndex(e => cx - e > 150); if (lane < 0){ lane = lanes.length; lanes.push(0); } lanes[lane] = cx;
-      const y = 48 - (lane % 3) * 16, c = col('--v' + (o.viabilidade||'C'));
-      const label = n > 1 ? `${o.instituicao} · ${n} cursos` : (o.curso.length > 22 ? o.curso.slice(0,21)+'…' : o.curso);
-      out += `<g style="cursor:pointer" data-id="${esc(o.id)}"><line x1="${cx}" y1="${y+4}" x2="${cx}" y2="70" stroke="${c}" stroke-width="1.5"/><circle cx="${cx}" cy="70" r="6" fill="${c}"/>`
-           + `<text x="${Math.min(cx+6, W-150)}" y="${y}" font-size="12.5" font-weight="600" font-family="Public Sans, sans-serif" fill="${col('--ink')}">${esc(label)}</text></g>`;
+    grupos.forEach(gr => {
+      const y = 24 + gr.f * 20, c = col('--v' + (gr.o.viabilidade||'C'));
+      out += `<g style="cursor:pointer" data-id="${esc(gr.o.id)}"><line x1="${gr.cx}" y1="${y+5}" x2="${gr.cx}" y2="${axisY}" stroke="${c}" stroke-width="1.5"/><circle cx="${gr.cx}" cy="${axisY}" r="6" fill="${c}"/>`
+           + `<text x="${gr.tx}" y="${y}" font-size="12.5" font-weight="600" font-family="Public Sans, sans-serif" fill="${col('--ink')}">${esc(gr.label)}</text></g>`;
     });
-    if (!items.length) out += `<text x="${W/2}" y="40" text-anchor="middle" font-size="14" fill="${col('--muted')}" font-family="Public Sans, sans-serif">Sem prazos de encerramento nos próximos 60 dias</text>`;
+    if (!grupos.length) out += `<text x="${W/2}" y="20" text-anchor="middle" font-size="14" fill="${col('--muted')}" font-family="Public Sans, sans-serif">Sem prazos de encerramento nos próximos 60 dias</text>`;
     svg.innerHTML = out;
     svg.querySelectorAll('g[data-id]').forEach(g => g.addEventListener('click', () => select(g.dataset.id)));
   }

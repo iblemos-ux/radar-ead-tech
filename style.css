@@ -114,3 +114,4 @@ dl.fields dd a{color:var(--accent)}
 .refresh{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:flex-end}
 .btn:disabled{opacity:.6;cursor:progress}
 @media (max-width:600px){.topright{justify-items:start}.lastcheck{text-align:left}.refresh{justify-content:flex-start}}
+.wrap > *{min-width:0}
