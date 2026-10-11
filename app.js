@@ -192,6 +192,7 @@
     const ph = phase(o), fim = daysTo(o.inscricaoFim), ini = daysTo(o.inscricaoInicio), m = state.mine[o.id] || {};
     const irmaos = state.opps.filter(x => o.edital && x.edital === o.edital && x.instituicao === o.instituicao).sort(byPriority);
     const alerts = [];
+    if (ph.k === 'enc') alerts.push(['', 'Edital encerrado, mantido como registro de referência. Serve para acompanhar a próxima turma desta instituição.']);
     if (via(o) === 'D') alerts.push(['bad', 'Classificada como incompatível com participação a partir de Pernambuco.']);
     else if (/obrigat/i.test(o.atividadesPresenciais || '') || /^sim/i.test(o.provasPresenciais || '') || /^sim/i.test(o.atividadesPresenciais || '')) alerts.push(['', 'Há exigência presencial a considerar. Confira a seção de elegibilidade.']);
     const prazo = ph.k === 'enc' ? 'Inscrições encerradas' : ph.k === 'futura' && ini > 0 ? `Abre em ${plural(ini, 'dia', 'dias')}` : fim === null ? 'Prazo não informado' : fim === 0 ? 'Encerra hoje' : `Faltam ${plural(fim, 'dia', 'dias')}`;

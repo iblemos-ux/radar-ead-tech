@@ -666,6 +666,72 @@
         "https://www.pebsp.com/ifsertaope-lanca-processo-seletivo-para-graduacao-em-analise-de-sistemas-e-logistica-a-distancia-dcs/"
       ],
       "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ifce-5-2026-ia",
+      "curso": "Tecnologia em Inteligência Artificial (UAB)",
+      "instituicao": "IFCE · CREAD/UAB",
+      "estado": "CE",
+      "tipo": "Graduação",
+      "area": "Inteligência Artificial",
+      "edital": "Edital nº 5/2026 CREAD/GABR/REITORIA-IFCE",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-25",
+      "inscricaoFim": "2026-10-08",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "150 (25 por polo)",
+      "mensalidade": "Gratuito (instituição federal, programa UAB)",
+      "taxa": "Sem taxa",
+      "certificado": "Diploma de Tecnólogo em Inteligência Artificial",
+      "polos": "Caucaia, Fortaleza, Horizonte, Itapipoca, Maracanaú e Maranguape (CE)",
+      "pePodeParticipar": "Inscrição permitida (sem regra de residência informada), mas os encontros presenciais obrigatórios no polo tornam inviável a partir de PE",
+      "atividadesPresenciais": "Sim. Encontros presenciais e virtuais obrigatórios durante a semana, preferencialmente à noite, no polo escolhido; frequência não informada",
+      "aulasSincronas": "Sim, encontros virtuais obrigatórios (frequência não informada)",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "Nota de uma edição do ENEM 2021–2025 (média das 4 áreas e redação), fase única. Polo escolhido na inscrição, sem troca",
+      "viabilidade": "D",
+      "linkEdital": "https://qselecao.ifce.edu.br/download.aspx?cod_arquivo_download=74704",
+      "linkInscricao": "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9563",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Edital encerrado, mantido como registro de referência: o IFCE oferta graduação EaD em IA via UAB. Encontros presenciais em dias úteis à noite no Ceará tornam o curso incompatível com residência em PE. Acompanhar próximas edições, caso surjam polos mais próximos.",
+      "fontes": [
+        "https://www.pebsp.com/mais-de-5800-vagas-cursos-vestibulares-gratuitos-outubro-2026/ifce-abre-150-vagas-gratuitas-o-curso-de-graduacao-em-tecnologia-em-inteligencia-artificial-a-distancia-dcs",
+        "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9563"
+      ],
+      "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ueg-ead-2025-2-sistemas-internet",
+      "curso": "Tecnologia em Desenvolvimento de Sistemas para Internet (UAB)",
+      "instituicao": "UEG · Vestibular EaD",
+      "estado": "GO",
+      "tipo": "Graduação",
+      "area": "Desenvolvimento Web / Sistemas",
+      "edital": "Vestibular EaD 2025/2",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "",
+      "inscricaoFim": "2025-04-24",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "150",
+      "mensalidade": "Gratuito (universidade estadual, programa UAB)",
+      "taxa": "R$ 50,00",
+      "certificado": "Diploma de Tecnólogo",
+      "polos": "Polos de apoio presencial UAB em Goiás (lista não informada na notícia oficial)",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO. Inscrição online, mas prova e encontros presenciais nas cidades dos polos em Goiás",
+      "atividadesPresenciais": "Sim. Encontros presenciais obrigatórios nos polos UAB",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Sim. Prova objetiva e redação nas cidades com vagas (18/05/2025)",
+      "processoSeletivo": "Vestibular com prova objetiva e redação, fase única; cotas para escola pública, negros, indígenas e PcD. Resultado final 01/07/2025",
+      "viabilidade": "D",
+      "linkEdital": "https://www.ueg.br/noticia/69599",
+      "linkInscricao": "https://www.vestibular.ueg.br",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Registro de referência: a UEG oferta periodicamente graduação tecnológica EaD em TI via UAB. O vestibular 2027/1 (inscrições até 21/09/2026, prova presencial em 18/10/2026) não teve curso EaD de TI confirmado. Prova e encontros presenciais em Goiás tornam a oferta incompatível com residência em PE.",
+      "fontes": [
+        "https://www.ueg.br/noticia/69599",
+        "https://vestibulares.estrategia.com/portal/noticias/vestibular-ueg-2027-1-ultimo-dia-do-periodo-de-inscricoes-e-hoje-21/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
     }
   ],
   "verificacoes": [
@@ -673,7 +739,7 @@
       "data": "2026-10-11",
       "novas": 19,
       "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA, CEDERJ/CECIERJ, IFCE UAB IA, UEG, IF Baiano Alagoinhas",
-      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Vestibular UEG 2027/1 encerrado em 21/09, sem curso EaD de TI confirmado; não incluído."
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2)."
     }
   ]
 }
