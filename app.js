@@ -260,7 +260,7 @@
         <td class="c-op"><div class="op-name">${esc(inst(o))}${campus(o) ? ` <span class="op-meta">· ${esc(campus(o))}</span>` : ''}</div><div class="op-meta">${esc(o.curso)}</div></td>
         <td class="c-uf">${esc(o.estado)}</td>
         <td class="c-tipo">${esc(o.tipo)}</td>
-        <td class="c-dl"><span class="dl-date">${o.inscricaoInicio ? esc(fmtDM(parse(o.inscricaoInicio))) + ' a ' : 'até '}${esc(fmt(o.inscricaoFim))}</span></td>
+        <td class="c-dl"><span class="dl-date">${parse(o.inscricaoInicio) ? esc(parse(o.inscricaoInicio).getFullYear() === parse(o.inscricaoFim)?.getFullYear() ? fmtDM(parse(o.inscricaoInicio)) : fmt(o.inscricaoInicio)) + ' a ' : 'até '}${esc(fmt(o.inscricaoFim))}</span></td>
       </tr>`).join('') : '<tr class="empty-row"><td colspan="5">Os editais encerrados aparecerão aqui.</td></tr>';
     $$('#refs tr[data-id]').forEach(tr => tr.addEventListener('click', () => select(tr.dataset.id, true)));
   }
