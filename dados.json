@@ -530,14 +530,83 @@
       "vagas": "300 (30 por polo, 10 polos)",
       "viabilidade": "B",
       "id": "ufms-344-2026-ia"
+    },
+    {
+      "id": "ifgoiano-cerfor13-2026-ads",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (EaD, UAB)",
+      "instituicao": "IF Goiano · Cerfor/UAB",
+      "estado": "GO",
+      "tipo": "Graduação",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "edital": "Edital Cerfor nº 13/2026",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-09",
+      "inscricaoFim": "2026-10-27",
+      "cargaHoraria": "2.000 horas, com 200 h de extensão (Documento Explicativo de Funcionamento). Duração: NÃO INFORMADO no edital",
+      "vagas": "450 (ampla concorrência); um único polo por candidato",
+      "mensalidade": "Não há (oferta pública UAB)",
+      "taxa": "Gratuita (item 4.1)",
+      "certificado": "Diploma de graduação tecnológica",
+      "polos": "Campi Catalão, Hidrolândia, Ipameri e Porangatu; polos Águas Lindas de Goiás, Aragarças, Doverlândia, Itapirapuã, Jussara, Mineiros e Santa Fé de Goiás (todos em GO)",
+      "pePodeParticipar": "Inscrição permitida: o edital não exige residência no município do polo. Porém o vínculo é com polo em GO, onde ocorrem as avaliações presenciais",
+      "atividadesPresenciais": "Sim: 10% da carga horária nos polos, com no mínimo uma avaliação presencial por disciplina; extensão (200 h) presencial junto à comunidade, local definido por projeto (Documento Explicativo de Funcionamento)",
+      "aulasSincronas": "Sim: 10% da carga horária, via Meet ou YouTube, em dia e horário do plano de ensino. Gravação: NÃO INFORMADO",
+      "provasPresenciais": "Sim, ao menos uma avaliação presencial por disciplina no polo",
+      "processoSeletivo": "Ordem cronológica de inscrição (data e hora até o segundo), classificação por polo (itens 2.3, 2.4 e 7.1 a 7.4). Resultado preliminar 29/10, final e 1ª chamada 03/11, matrícula online via GOV.BR 04 a 06/11/2026 (itens 3.5 a 3.9 e 8.1)",
+      "viabilidade": "D",
+      "linkEdital": "https://ps.ifgoiano.edu.br/media/anexos_edital/EDITAL_CERFOR_N%C2%BA_13_-_SELE%C3%87%C3%83O_DE_ESTUDANTES_CURSO_TADS.pdf",
+      "linkInscricao": "https://ps.ifgoiano.edu.br/edital/visualizar/700/",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Classificado como D pelas avaliações presenciais em todas as disciplinas em polos de Goiás, longe de PE. Seleção por ordem de inscrição: quem se inscreve primeiro tem prioridade. Requisito: ensino médio completo e cadastro GOV.BR. Frequência mínima não informada no documento explicativo.",
+      "fontes": [
+        "https://ps.ifgoiano.edu.br/edital/visualizar/700/",
+        "https://ps.ifgoiano.edu.br/media/anexos_edital/Documento_Explicativo_Funcionamento_-_TADS_-_EAD.pdf",
+        "https://ps.ifgoiano.edu.br/media/anexos_edital/EDITAL_CERFOR_N%C2%BA_13_-_SELE%C3%87%C3%83O_DE_ESTUDANTES_CURSO_TADS.pdf",
+        "https://www.pebsp.com/instituto-federal-abre-450-vagas-para-analise-e-desenvolvimento-de-sistemas-ead/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ifce-22-2026-informatica-internet",
+      "curso": "Técnico Subsequente em Informática para Internet (EaD)",
+      "instituicao": "IFCE · Campi Limoeiro do Norte, Maranguape e Paracuru",
+      "estado": "CE",
+      "tipo": "Técnico",
+      "area": "Desenvolvimento Web / Programação",
+      "edital": "Edital nº 22/2026 DI/PROEN/REITORIA-IFCE (Processo Seletivo 2027.1 Subsequentes) e Retificação 01 do Anexo I (05/10/2026)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-09-25",
+      "inscricaoFim": "2026-10-23",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "115 na listagem original: Limoeiro do Norte 40 (noturno), Maranguape 40 (noturno), Paracuru 35 (vespertino). A Retificação 01 do Anexo I pode ter alterado: PENDENTE DE CONFIRMAÇÃO",
+      "mensalidade": "Não há (instituição federal)",
+      "taxa": "NÃO INFORMADO na página oficial do processo: PENDENTE DE CONFIRMAÇÃO",
+      "certificado": "Diploma de técnico de nível médio",
+      "polos": "Campi Limoeiro do Norte, Maranguape e Paracuru (CE)",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO: o PDF do edital não pôde ser lido nesta verificação",
+      "atividadesPresenciais": "Fonte secundária (PEBSP) informa 20% presencial e 80% online, com dias e horários dos encontros no Anexo I: PENDENTE DE CONFIRMAÇÃO no edital",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "PENDENTE DE CONFIRMAÇÃO no edital",
+      "viabilidade": "C",
+      "linkEdital": "https://qselecao.ifce.edu.br/download.aspx?cod_arquivo_download=74657",
+      "linkInscricao": "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9543",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Curso e prazo confirmados na página oficial do Q-Seleção. Se os encontros presenciais de 20% nos campi do Ceará se confirmarem, a classificação tende a D. Conferir Anexo I retificado (encontros) e cronograma (Anexo III). O UAB 2026.2 do IFCE em Tecnologia em Inteligência Artificial encerrou em 08/10/2026 e não foi registrado.",
+      "fontes": [
+        "https://qselecao.ifce.edu.br/",
+        "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9543",
+        "https://www.pebsp.com/ifce-oferece-2-366-vagas-em-cursos-tecnicos-gratuitos-para-quem-ja-concluiu-o-ensino-medio-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-11",
-      "novas": 16,
-      "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb",
-      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE)."
+      "novas": 18,
+      "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA",
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO."
     }
   ]
 }
