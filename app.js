@@ -33,7 +33,7 @@
   }
   const isOpen = o => ['aberta', 'prazo'].includes(phase(o).k);
   const phaseRank = { prazo: 0, aberta: 0, futura: 1, enc: 3 };
-  const tipoRank = { 'Graduação': 0, 'Técnico': 1, 'FIC': 2, 'Livre': 2, 'Extensão': 2 };
+  const tipoRank = { 'Graduação': 0, 'Especialização': 0, 'Técnico': 1, 'FIC': 2, 'Livre': 2, 'Extensão': 2 };
   const byPriority = (a, b) => (phaseRank[phase(a).k] - phaseRank[phase(b).k]) || via(a).localeCompare(via(b))
     || ((tipoRank[a.tipo] ?? 3) - (tipoRank[b.tipo] ?? 3)) || ((daysTo(a.inscricaoFim) ?? 9999) - (daysTo(b.inscricaoFim) ?? 9999));
 

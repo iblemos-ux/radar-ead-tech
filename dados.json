@@ -732,6 +732,73 @@
         "https://vestibulares.estrategia.com/portal/noticias/vestibular-ueg-2027-1-ultimo-dia-do-periodo-de-inscricoes-e-hoje-21/"
       ],
       "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ufma-ageufma22-2026-esp-dados-ia",
+      "curso": "Especialização em Análise de Dados e Inteligência Artificial (UAB)",
+      "instituicao": "UFMA · STED/UAB",
+      "estado": "MA",
+      "tipo": "Especialização",
+      "area": "Ciência de Dados / Inteligência Artificial",
+      "edital": "Edital AGEUFMA nº 22/2026",
+      "situacao": "PRAZO ENCERRANDO",
+      "inscricaoInicio": "2026-09-29",
+      "inscricaoFim": "2026-10-13",
+      "cargaHoraria": "420 h com TCC; 18 meses (itens 1.6 e 2.2)",
+      "vagas": "150 (25 por polo)",
+      "mensalidade": "Gratuito (programa UAB); edital não prevê mensalidade",
+      "taxa": "R$ 100,00, boleto até 14/10/2026 (itens 5.2 e 5.10). Isenção CadÚnico já encerrada (29/09 a 01/10)",
+      "certificado": "Certificado de especialização lato sensu",
+      "polos": "Açailândia, Arari, Barra do Corda, Bom Jesus das Selvas, Nina Rodrigues e Paraibano (MA)",
+      "pePodeParticipar": "Não. Exige residência no município do polo ou a até 100 km dele, com comprovante (itens 3.4 e 5.8d); requisito eliminatório (item 7.1)",
+      "atividadesPresenciais": "Sim. Exige disponibilidade para encontros presenciais no polo (item 3.3); frequência não informada",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "NÃO INFORMADO",
+      "processoSeletivo": "Sem prova: análise curricular de 0 a 90 pontos (formação, qualificação e experiência), itens 6.1–6.6. Requisito: graduação em Engenharias, Ciências Exatas ou Tecnologias. Resultado final até 12/11/2026; início das aulas em novembro de 2026",
+      "viabilidade": "D",
+      "linkEdital": "https://pub-d670cbd1bfb2414bbd4e279fc25d0b80.r2.dev/concursos/1391/publicacoes/2026/09/065708d0-13d4-40c9-bf7e-63f1fe62f44f.pdf",
+      "linkInscricao": "https://www.fsaduconcursos.org.br",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Classificada como D pela exigência de residência a até 100 km de um polo no Maranhão (item 3.4), eliminatória. Mantida como referência: a UFMA oferta especialização EaD em dados e IA via UAB.",
+      "fontes": [
+        "https://www.horabrasil.com.br/2026/10/07/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-recebe-inscricoes-ate-13-10/",
+        "https://pub-d670cbd1bfb2414bbd4e279fc25d0b80.r2.dev/concursos/1391/publicacoes/2026/09/065708d0-13d4-40c9-bf7e-63f1fe62f44f.pdf",
+        "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "ifmg-formiga-936-2026-esp-ia",
+      "curso": "Especialização em Inteligência Artificial Aplicada à Estratégia e Inovação Empresarial",
+      "instituicao": "IFMG · Campus Formiga",
+      "estado": "MG",
+      "tipo": "Especialização",
+      "area": "Inteligência Artificial",
+      "edital": "Edital nº 936/2026",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-08-24",
+      "inscricaoFim": "2026-09-30",
+      "cargaHoraria": "Mínimo de 390 h (item 1.3.1); início a partir de 16/11/2026",
+      "vagas": "200 (90 de ampla concorrência)",
+      "mensalidade": "Gratuito",
+      "taxa": "R$ 120,00 via GRU (item 3.6); isenção CadÚnico de 24 a 30/08/2026",
+      "certificado": "Certificado de especialização lato sensu",
+      "polos": "Não se aplica (Moodle, totalmente a distância)",
+      "pePodeParticipar": "Sim. Edital sem exigência de residência; aceita graduados de qualquer área (item 2.1). Parte das vagas é reservada a quem trabalha em instituições públicas de Formiga e região (A3 a A6)",
+      "atividadesPresenciais": "Não. Curso 'totalmente a distância', com horário de estudo definido pelo aluno (item 1.3)",
+      "aulasSincronas": "Não informado; o edital diz que o aluno define o próprio horário de estudo (item 1.3)",
+      "provasPresenciais": "Não previstas no edital",
+      "processoSeletivo": "Sorteio em etapa única (item 5.1.1), transmitido ao vivo em 20/10/2026. Matrículas de 28/10 a 04/11/2026",
+      "viabilidade": "A",
+      "linkEdital": "https://formiga.ifmg.edu.br/documents/2026/Edital_936.pdf",
+      "linkInscricao": "https://formiga.ifmg.edu.br",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Registro de referência: inscrições encerradas em 30/09/2026. É o perfil ideal para quem mora em PE (100% a distância, sem residência, seleção por sorteio, graduação em qualquer área). Acompanhar o portal do IFMG Formiga para a próxima turma.",
+      "fontes": [
+        "https://formiga.ifmg.edu.br/documents/2026/Edital_936.pdf",
+        "https://www.pebsp.com/ifmg-oferece-200-vagas-em-especializacao-gratuita-em-inteligencia-artificial-curso-e-100-ead-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
     }
   ],
   "verificacoes": [
@@ -739,7 +806,7 @@
       "data": "2026-10-11",
       "novas": 19,
       "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA, CEDERJ/CECIERJ, IFCE UAB IA, UEG, IF Baiano Alagoinhas",
-      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2)."
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A)."
     }
   ]
 }
