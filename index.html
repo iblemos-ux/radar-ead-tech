@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar EaD Tech</title>
+<meta name="description" content="Editais gratuitos de tecnologia a distância em instituições públicas, triados para quem estuda a partir de Pernambuco.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f4fd1'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='white' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='2.5' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Radar <span>EaD</span> Tech</h1>
+      <p>Editais gratuitos de tecnologia a distância em instituições públicas, triados para quem estuda a partir de Pernambuco.</p>
+    </div>
+    <div class="lastcheck" id="lastcheck">Carregando dados…</div>
+  </header>
+
+  <section class="summary" aria-label="Resumo executivo">
+    <div class="k"><span class="label">Inscrições abertas</span><span class="n" id="s-open">–</span><small id="s-open-sub">&nbsp;</small></div>
+    <div class="k"><span class="label">Viáveis de PE (A/B)</span><span class="n" id="s-pe">–</span><small>elegibilidade confirmada no edital</small></div>
+    <div class="k"><span class="label">Prazo mais próximo</span><span class="n" id="s-next">–</span><small id="s-next-sub">&nbsp;</small></div>
+    <div class="k"><span class="label">Novas em 7 dias</span><span class="n" id="s-new">–</span><small>detectadas pelo monitor</small></div>
+  </section>
+
+  <section class="ruler" aria-label="Régua de prazos">
+    <div class="ruler-head">
+      <h2 style="font-size:17px">Encerramento das inscrições · próximos 60 dias</h2>
+      <div class="legend"><span><i style="background:var(--vA)"></i>A</span><span><i style="background:var(--vB)"></i>B</span><span><i style="background:var(--vC)"></i>C</span><span><i style="background:var(--vD)"></i>D</span></div>
+    </div>
+    <div class="ruler-scroll"><svg id="ruler" viewBox="0 0 1000 120" role="img" aria-label="Régua com os prazos de encerramento"></svg></div>
+  </section>
+
+  <div class="filters" role="search">
+    <input type="search" id="q" placeholder="Buscar curso, instituição, estado ou edital" aria-label="Buscar">
+    <select id="f-sit" aria-label="Situação">
+      <option value="">Todas as situações</option>
+      <option value="abertas">Inscrições abertas</option>
+      <option value="prazo">Prazo encerrando (≤7 dias)</option>
+      <option value="futuras">Inscrições futuras</option>
+      <option value="encerradas">Encerradas</option>
+    </select>
+    <select id="f-via" aria-label="Viabilidade">
+      <option value="">Toda viabilidade</option>
+      <option value="A">A · Alta</option><option value="B">B · Condicionada</option>
+      <option value="C">C · Pendente</option><option value="D">D · Incompatível</option>
+    </select>
+    <select id="f-tipo" aria-label="Tipo">
+      <option value="">Todos os tipos</option>
+      <option>Graduação</option><option>Técnico</option><option>FIC</option><option>Livre</option><option>Extensão</option>
+    </select>
+    <select id="f-mine" aria-label="Meu acompanhamento">
+      <option value="">Todo acompanhamento</option>
+      <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar D e encerradas</label>
+  </div>
+
+  <div class="main">
+    <div class="list" id="list" aria-live="polite"></div>
+    <aside class="sheet" id="sheet" aria-label="Ficha do edital"></aside>
+  </div>
+
+  <details class="log" id="logbox">
+    <summary>Histórico de verificações do monitor</summary>
+    <ol id="log"></ol>
+  </details>
+  <footer class="foot">Dados atualizados diariamente por varredura automatizada em fontes oficiais. Confira sempre o edital antes de se inscrever. Seu acompanhamento fica salvo apenas neste navegador.</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
