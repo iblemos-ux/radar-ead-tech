@@ -206,14 +206,29 @@
   renderAll();
 
   // Carrega o arquivo de dados que a varredura diária atualiza no repositório
-  fetch('dados.json?v=' + Date.now(), {cache: 'no-store'})
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(dados => {
-      state.opps = dados.oportunidades || [];
-      state.log = (dados.verificacoes || []).slice().sort((a,b) => String(b.data).localeCompare(String(a.data)));
-      const first = state.opps.filter(o => o.viabilidade !== 'D' && phase(o).k !== 'enc').sort(sortOpps)[0];
-      state.sel = first?.id || null;
-      renderAll();
-    })
-    .catch(() => { state.erro = true; renderSummary(); });
+  function carregar(manual){
+    const btn = $('#refresh'), msg = $('#refresh-msg'), antes = new Set(state.opps.map(o => o.id));
+    btn.disabled = true; btn.textContent = 'Atualizando…';
+    return fetch('dados.json?v=' + Date.now(), {cache: 'no-store'})
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(dados => {
+        state.erro = false;
+        state.opps = dados.oportunidades || [];
+        state.log = (dados.verificacoes || []).slice().sort((a,b) => String(b.data).localeCompare(String(a.data)));
+        if (!state.opps.some(o => o.id === state.sel)){
+          const first = state.opps.filter(o => o.viabilidade !== 'D' && phase(o).k !== 'enc').sort(sortOpps)[0];
+          state.sel = first?.id || null;
+        }
+        renderAll();
+        if (manual){
+          const novas = state.opps.filter(o => !antes.has(o.id)).length;
+          const hora = new Date().toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'});
+          msg.textContent = novas ? `${novas} nova(s) oportunidade(s) · ${hora}` : `Sem novidades · conferido às ${hora}`;
+        }
+      })
+      .catch(() => { state.erro = true; renderSummary(); if (manual) msg.textContent = 'Não foi possível atualizar. Verifique a internet e tente de novo.'; })
+      .finally(() => { btn.disabled = false; btn.textContent = 'Atualizar agora'; });
+  }
+  $('#refresh').addEventListener('click', () => carregar(true));
+  carregar(false);
 })();

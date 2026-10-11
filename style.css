@@ -110,3 +110,7 @@ dl.fields dd a{color:var(--accent)}
 .legend i{width:10px;height:10px;border-radius:50%;display:inline-block}
 @media (prefers-reduced-motion:no-preference){.item{transition:border-color .15s}}
 .foot{font-size:12.5px;color:var(--muted);text-align:center;padding-top:8px}
+.topright{display:grid;justify-items:end;gap:8px;min-width:0}
+.refresh{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:flex-end}
+.btn:disabled{opacity:.6;cursor:progress}
+@media (max-width:600px){.topright{justify-items:start}.lastcheck{text-align:left}.refresh{justify-content:flex-start}}
