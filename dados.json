@@ -599,14 +599,48 @@
         "https://www.pebsp.com/ifce-oferece-2-366-vagas-em-cursos-tecnicos-gratuitos-para-quem-ja-concluiu-o-ensino-medio-dcs/"
       ],
       "primeiraDeteccao": "2026-10-11"
+    },
+    {
+      "id": "cederj-2027-1-2026-sistemas-computacao",
+      "curso": "Tecnologia em Sistemas de Computação (EaD)",
+      "instituicao": "UFF · Consórcio CEDERJ (Fundação CECIERJ)",
+      "estado": "RJ",
+      "tipo": "Graduação",
+      "area": "Sistemas de Computação / Programação",
+      "edital": "Edital de Seleção Vestibular CEDERJ 2027/1",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-09-21",
+      "inscricaoFim": "2026-10-29",
+      "cargaHoraria": "Graduação tecnológica — carga horária NÃO INFORMADA no edital consultado",
+      "vagas": "645 (distribuição por polo no Anexo 2 do edital)",
+      "mensalidade": "Gratuito (consórcio de instituições públicas)",
+      "taxa": "R$ 95,50 (boleto ou PIX, item 3.1.1); pedidos de isenção foram de 14 a 20/09/2026 (prazo encerrado)",
+      "certificado": "Diploma de tecnólogo pela UFF",
+      "polos": "Polos regionais no estado do Rio de Janeiro (endereços no Anexo 4 do edital)",
+      "pePodeParticipar": "Edital não estabelece exigência de residência, mas todas as etapas presenciais ocorrem em polos do RJ",
+      "atividadesPresenciais": "Sim: provas presenciais aos sábados e domingos no polo, conforme calendário acadêmico (item 2.2); etapa 2 da matrícula com entrega física de documentos no polo em até 30 dias após o início das aulas (item 12.1.2)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Sim: prova de seleção presencial em 06/12/2026, 10h–13h, preferencialmente no município do polo (item 5.4.4); avaliações do curso presenciais no polo (item 2.2)",
+      "processoSeletivo": "Nota do Enem (resultado em 13/11/2026; classificados dispensados da prova, item 9.5) ou prova objetiva de 45 questões + redação, com conteúdos específicos de Matemática e Física (item 5.2.2)",
+      "viabilidade": "D",
+      "linkEdital": "https://www.cecierj.edu.br/wp-content/uploads/2026/09/Edital-de-Selecao-2027.1-Final.pdf",
+      "linkInscricao": "https://cecierj.edu.br/consorcio-cederj/vestibular/2027-1/",
+      "dataVerificacao": "2026-10-11",
+      "observacoes": "Pagamento da taxa até 30/10/2026. Matrícula etapa 1 online de 08 a 10/01/2027. Classificado como D porque o curso exige provas presenciais periódicas em polos no RJ e entrega presencial de documentos, incompatível com participação a partir de PE sem deslocamentos frequentes.",
+      "fontes": [
+        "https://www.cecierj.edu.br/wp-content/uploads/2026/09/Edital-de-Selecao-2027.1-Final.pdf",
+        "https://cecierj.edu.br/cederj/fundacao-cecierj-abre-inscricoes-para-o-vestibular-cederj-2027-1-com-7-165-vagas-em-cursos-superiores-gratuitos/",
+        "https://www.pebsp.com/fundacao-cecierj-abre-7-165-vagas-de-graduacao-semipresenciais-e-a-distancia-em-8-instituicoes-publicas-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-11"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-11",
-      "novas": 18,
-      "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA",
-      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade."
+      "novas": 19,
+      "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA, CEDERJ/CECIERJ, IFCE UAB IA",
+      "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE)."
     }
   ]
 }
