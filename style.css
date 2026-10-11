@@ -213,3 +213,10 @@ dl.fields > :nth-last-child(-n+2){border-bottom:0}
 .tip{position:fixed;z-index:20;max-width:300px;background:var(--hdr);color:var(--hdr-ink);border-radius:6px;padding:8px 10px;font-size:12.5px;line-height:1.45;pointer-events:none;box-shadow:0 4px 14px rgba(0,0,0,.18)}
 .tip b{display:block;font-size:13px}
 @media (prefers-reduced-motion:no-preference){.g-row,.table tbody tr,.course{transition:background-color .12s,border-color .12s}}
+.table.refs .c-dl .dl-date{font-weight:500}
+@media (min-width:721px){
+  #table{table-layout:fixed}
+  #table th:nth-child(1){width:64px} #table th:nth-child(3){width:64px} #table th:nth-child(4){width:120px} #table th:nth-child(5){width:150px}
+  .table.refs{table-layout:fixed}
+  .table.refs th:nth-child(1){width:64px} .table.refs th:nth-child(3){width:64px} .table.refs th:nth-child(4){width:130px} .table.refs th:nth-child(5){width:200px}
+}

@@ -122,7 +122,7 @@
     const q = $('#q').value.trim().toLowerCase(), sit = $('#f-sit').value, v = $('#f-via').value, tipo = $('#f-tipo').value, mine = $('#f-mine').value, hide = $('#f-hide').checked;
     return state.opps.filter(o => {
       const ph = phase(o).k, m = state.mine[o.id]?.status || 'none';
-      if (hide && !v && sit !== 'encerradas' && (via(o) === 'D' || ph === 'enc')) return false;
+      if (hide && sit !== 'encerradas' && ph === 'enc') return false;
       if (q && ![o.curso, o.instituicao, o.estado, o.edital, o.area].join(' ').toLowerCase().includes(q)) return false;
       if (sit === 'abertas' && !(ph === 'aberta' || ph === 'prazo')) return false;
       if (sit === 'prazo' && !(ph === 'prazo')) return false;
@@ -251,11 +251,25 @@
       : '<li><span></span><span class="sub">O monitor registra aqui cada execução, inclusive as sem novidades.</span></li>';
   }
 
+  // ---------- registros de referência (encerrados) ----------
+  function renderRefs() {
+    const list = state.opps.filter(o => phase(o).k === 'enc').sort((a, b) => String(b.inscricaoFim).localeCompare(String(a.inscricaoFim)));
+    $('#refs-sub').textContent = list.length ? `${plural(list.length, 'edital encerrado mantido', 'editais encerrados mantidos')} para acompanhar as próximas turmas de cada instituição.` : 'Nenhum edital encerrado registrado ainda.';
+    $('#refs').innerHTML = list.length ? list.map(o => `<tr data-id="${esc(o.id)}" aria-current="${o.id === state.sel}">
+        <td><span class="grade g-${esc(via(o))}" title="${esc(VIAB[via(o)])}">${esc(via(o))}</span></td>
+        <td class="c-op"><div class="op-name">${esc(inst(o))}${campus(o) ? ` <span class="op-meta">· ${esc(campus(o))}</span>` : ''}</div><div class="op-meta">${esc(o.curso)}</div></td>
+        <td class="c-uf">${esc(o.estado)}</td>
+        <td class="c-tipo">${esc(o.tipo)}</td>
+        <td class="c-dl"><span class="dl-date">${o.inscricaoInicio ? esc(fmtDM(parse(o.inscricaoInicio))) + ' a ' : 'até '}${esc(fmt(o.inscricaoFim))}</span></td>
+      </tr>`).join('') : '<tr class="empty-row"><td colspan="5">Os editais encerrados aparecerão aqui.</td></tr>';
+    $$('#refs tr[data-id]').forEach(tr => tr.addEventListener('click', () => select(tr.dataset.id, true)));
+  }
+
   function select(id, scroll) {
-    state.sel = id; renderGantt(); renderTable(); renderSheet();
+    state.sel = id; renderGantt(); renderTable(); renderSheet(); renderRefs();
     if (scroll && matchMedia('(max-width:1060px)').matches) $('#sheet').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
-  function renderAll() { renderKpis(); renderGantt(); renderTable(); renderSheet(); renderLog(); }
+  function renderAll() { renderKpis(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
 
   // ---------- eventos ----------
   ['#q', '#f-sit', '#f-via', '#f-tipo', '#f-mine', '#f-hide'].forEach(s => $(s).addEventListener('input', renderTable));

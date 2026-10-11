@@ -86,7 +86,7 @@
           <option value="">Todo acompanhamento</option>
           <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
         </select>
-        <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar D e encerradas</label>
+        <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar encerradas</label>
       </div>
       <div class="table-scroll">
         <table class="table" id="table">
@@ -105,6 +105,21 @@
     </div>
 
     <aside class="panel sheet" id="sheet" aria-label="Ficha do edital"></aside>
+  </section>
+
+  <section class="panel" aria-labelledby="refs-title">
+    <div class="panel-head">
+      <div>
+        <h2 id="refs-title">Registros de referência</h2>
+        <p class="sub" id="refs-sub">Editais encerrados mantidos para acompanhar as próximas turmas de cada instituição.</p>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table class="table refs">
+        <thead><tr><th scope="col">Viab.</th><th scope="col">Instituição e curso</th><th scope="col">UF</th><th scope="col">Tipo</th><th scope="col">Inscrições foram</th></tr></thead>
+        <tbody id="refs"></tbody>
+      </table>
+    </div>
   </section>
 
   <details class="panel log">
