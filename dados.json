@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11",
+  "atualizadoEm": "2026-10-12",
   "oportunidades": [
     {
       "area": "Inteligência Artificial",
@@ -996,9 +996,48 @@
         "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/07/Edital-No-11-Cursos-subsequentes-EaD-Campus-Governador-Mangabeira.pdf"
       ],
       "observacoes": "Registro de referência. Inscrições online de 03/08 a 02/10/2026, sem taxa (item 4.11). Polos no Recôncavo Baiano. O IF Baiano publica editais de subsequentes EaD anualmente (ciclo ago–out para ingresso no ano seguinte)."
+    },
+    {
+      "id": "ifsuldeminas-machado-34-2026-fic-ti",
+      "curso": "13 cursos FIC EaD de TI (Python, SQL e Banco de Dados, Git & GitHub, Lógica de Programação, Desenvolvimento Web com HTML e CSS, N8N Automação, Linux, entre outros)",
+      "instituicao": "IFSULDEMINAS · Campus Machado",
+      "estado": "MG",
+      "tipo": "FIC",
+      "area": "Programação, Banco de Dados/SQL, Desenvolvimento Web, Automação",
+      "edital": "Edital nº 34/2026/GAB-MCH/MCH-DG/MCH/IFSULDEMINAS, de 26/05/2026",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-05-26",
+      "inscricaoFim": "2026-06-07",
+      "cargaHoraria": "30 horas por curso",
+      "vagas": "150 por curso (1.950 no total), com lista de espera",
+      "mensalidade": "Gratuito (item 1.2)",
+      "taxa": "Sem taxa de inscrição (item 1.2)",
+      "certificado": "Sim, gratuito, com aproveitamento mínimo de 60% (item 1.3)",
+      "polos": "Não se aplica (100% online)",
+      "pePodeParticipar": "Sim: edital aberto a qualquer interessado com 16 anos ou mais, CPF, e-mail e acesso à internet, sem restrição de residência",
+      "atividadesPresenciais": "Não: cursos a distância, não presenciais",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Não",
+      "processoSeletivo": "Ordem de inscrição (item 3.1); excedentes em lista de espera (item 2.7)",
+      "viabilidade": "A",
+      "linkEdital": "https://portal.mch.ifsuldeminas.edu.br/attachments/article/4856/Edital%2034_2026_.pdf",
+      "linkInscricao": "https://portal.mch.ifsuldeminas.edu.br/cursos-de-extensao",
+      "dataVerificacao": "2026-10-12",
+      "observacoes": "Registro de referência. Turma única com aulas de 08/06 a 26/06/2026. O IFSULDEMINAS publica com frequência editais FIC EaD de TI em vários campi (ex.: FIC Fundamentos de IA do Campus Inconfidentes, Edital 50/2026); acompanhar a página de extensão do Campus Machado para novas turmas.",
+      "fontes": [
+        "https://portal.mch.ifsuldeminas.edu.br/attachments/article/4856/Edital%2034_2026_.pdf",
+        "https://www.pebsp.com/ifsuldeminas-abre-1-950-vagas-em-13-cursos-gratuitos-de-ti-ead-inscricoes-ate-7-de-junho/"
+      ],
+      "primeiraDeteccao": "2026-10-12"
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-12",
+      "novas": 1,
+      "fontesConsultadas": "IF Baiano (Itapetinga/Potiraguá Edital 12/2026, Guanambi), IF Sudeste MG EaD 2027.1, IFCE/UAB, UFMA, UEG, UFRPE, IFPE, IFPB (PSCT 2027 subsequentes), IFMA, UnB EaD, UNIVESP, IFSULDEMINAS (Inconfidentes, Muzambinho, Machado), Secti-PE, IF Goiano/Cerfor, PEBSP, Hora Brasil, VestibulandoWeb, F5 Cariri",
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +1 registro de referência: 13 cursos FIC EaD de TI do IFSULDEMINAS Machado (Edital 34/2026, encerrado em 07/06, A). Edital 12/2026 do IF Baiano Itapetinga (técnicos EaD no polo Potiraguá, até 16/10) não registrado: cursos ofertados não confirmados no texto do edital. IFPB PSCT 2027: sem curso EaD de TI. Seguem pendentes, por portais oficiais inacessíveis: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) e 'IA para Todos' da Secti-PE."
+    },
     {
       "data": "2026-10-11",
       "novas": 25,
