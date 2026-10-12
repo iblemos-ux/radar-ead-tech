@@ -1064,14 +1064,47 @@
         "https://www.pebsp.com/vestibulinho-etec-2027-oferece-1-620-vagas-para-cursos-tecnicos-gratuitos-e-100-ead-em-3-areas-promissoras-dcs/"
       ],
       "primeiraDeteccao": "2026-10-12"
+    },
+    {
+      "id": "etepac-ead-2026-2-desenvolvimento-sistemas",
+      "curso": "Técnico em Desenvolvimento de Sistemas (EaD semipresencial, concomitante e subsequente)",
+      "instituicao": "SEE-PE · Etepac (ETE Prof. Antônio Carlos Gomes da Costa)",
+      "estado": "PE",
+      "tipo": "Técnico",
+      "area": "Desenvolvimento de Sistemas",
+      "edital": "Processo seletivo cursos técnicos EaD Etepac 2026 (número NÃO INFORMADO na notícia oficial)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-07-03",
+      "inscricaoFim": "2026-07-10",
+      "cargaHoraria": "Cerca de 1 ano e meio",
+      "vagas": "8.979 no total (11 cursos); vagas do curso NÃO INFORMADO",
+      "mensalidade": "Gratuito (rede estadual)",
+      "taxa": "NÃO INFORMADO",
+      "certificado": "Diploma de técnico de nível médio",
+      "polos": "Etepac e polos presenciais de EaD em ETEs e Erems de Pernambuco (lista PENDENTE DE CONFIRMAÇÃO)",
+      "pePodeParticipar": "Sim — oferta da Secretaria de Educação de Pernambuco",
+      "atividadesPresenciais": "Sim — encontros presenciais um dia por semana no polo",
+      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO",
+      "provasPresenciais": "Sim — prova objetiva (Português e Matemática) de 15 a 22/07/2026, em local escolhido na inscrição",
+      "processoSeletivo": "Etapa única: prova objetiva de Língua Portuguesa e Matemática. Concomitante: 2º ano do ensino médio; subsequente: ensino médio concluído. Inscrição só online (SisSel/SEE).",
+      "viabilidade": "B",
+      "linkEdital": "https://drive.google.com/file/d/1Rkw6HQEOe9GrRbCH0CkeQHt4p_b3xJeS/view",
+      "linkInscricao": "https://sisacad.educacao.pe.gov.br/sissel/",
+      "dataVerificacao": "2026-10-12",
+      "observacoes": "Registro de referência. Oferta confirmada na notícia oficial da SEE-PE (03/07/2026, atualizada em 07/07). Edital completo hospedado no Google Drive indicado pela SEE, não lido nesta verificação. Viabilidade B: curso em Pernambuco, mas com encontro presencial semanal no polo. Periodicidade: a SEE-PE abriu seleções semelhantes em dez/2025 (5.850 vagas, 11 cursos técnicos EaD, ingresso 2026) e jul/2026, o que sugere ofertas semestrais; próxima seleção NÃO CONFIRMADA.",
+      "fontes": [
+        "https://portal.educacao.pe.gov.br/secretaria-de-educacao-de-pernambuco-anuncia-processo-seletivo-para-cursos-tecnicos-ead-da-etepac-2/",
+        "https://www.diariodepernambuco.com.br/vida-urbana/2026/07/11718016-pernambuco-abre-processo-seletivo-com-quase-9-mil-vagas-para-cursos-tecnicos.html"
+      ],
+      "primeiraDeteccao": "2026-10-12"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-12",
-      "novas": 2,
-      "fontesConsultadas": "IF Baiano (Itapetinga/Potiraguá Edital 12/2026, Guanambi), IF Sudeste MG EaD 2027.1, IFCE/UAB, UFMA, UEG, UFRPE, IFPE, IFPB (PSCT 2027 subsequentes), IFMA, UnB EaD, UNIVESP, IFSULDEMINAS (Inconfidentes, Muzambinho, Machado), Secti-PE, IF Goiano/Cerfor, PEBSP, Hora Brasil, VestibulandoWeb, F5 Cariri, Centro Paula Souza/Vestibulinho Etec (Portaria 5320/2026), Agência SP, IFRS Bento Gonçalves, IFG Anápolis, IFSC, IFPI, PEBSP (especializações 09/10)",
-      "resumo": "06h58: nenhuma oportunidade nova aberta. +1 registro de referência: 13 cursos FIC EaD de TI do IFSULDEMINAS Machado (Edital 34/2026, encerrado em 07/06, A). Edital 12/2026 do IF Baiano Itapetinga (técnicos EaD no polo Potiraguá, até 16/10) não registrado: cursos ofertados não confirmados no texto do edital. IFPB PSCT 2027: sem curso EaD de TI. Seguem pendentes, por portais oficiais inacessíveis: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) e 'IA para Todos' da Secti-PE. 12h58: +1 oportunidade aberta: Técnico em Desenvolvimento de Sistemas on-line do Centro Paula Souza/Etec (Portaria 5320/2026, 720 vagas, inscrições até 03/11, taxa R$ 50, prova presencial em SP em 06/12, B). Cursos de extensão EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) não registrados: página oficial inacessível, só fonte secundária."
+      "novas": 3,
+      "fontesConsultadas": "IF Baiano (Itapetinga/Potiraguá Edital 12/2026, Guanambi), IF Sudeste MG EaD 2027.1, IFCE/UAB, UFMA, UEG, UFRPE, IFPE, IFPB (PSCT 2027 subsequentes), IFMA, UnB EaD, UNIVESP, IFSULDEMINAS (Inconfidentes, Muzambinho, Machado), Secti-PE, IF Goiano/Cerfor, PEBSP, Hora Brasil, VestibulandoWeb, F5 Cariri, Centro Paula Souza/Vestibulinho Etec (Portaria 5320/2026), Agência SP, IFRS Bento Gonçalves, IFG Anápolis, IFSC, IFPI, PEBSP (especializações 09/10), Portal Educação PE (Etepac), Diario de Pernambuco, PEBSP (17h58), IFSULDEMINAS Poços de Caldas",
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +1 registro de referência: 13 cursos FIC EaD de TI do IFSULDEMINAS Machado (Edital 34/2026, encerrado em 07/06, A). Edital 12/2026 do IF Baiano Itapetinga (técnicos EaD no polo Potiraguá, até 16/10) não registrado: cursos ofertados não confirmados no texto do edital. IFPB PSCT 2027: sem curso EaD de TI. Seguem pendentes, por portais oficiais inacessíveis: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) e 'IA para Todos' da Secti-PE. 12h58: +1 oportunidade aberta: Técnico em Desenvolvimento de Sistemas on-line do Centro Paula Souza/Etec (Portaria 5320/2026, 720 vagas, inscrições até 03/11, taxa R$ 50, prova presencial em SP em 06/12, B). Cursos de extensão EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) não registrados: página oficial inacessível, só fonte secundária. 17h58: nenhuma oportunidade nova aberta. +1 registro de referência: Técnico em Desenvolvimento de Sistemas EaD semipresencial da SEE-PE/Etepac (seleção de 03 a 10/07/2026, encontro presencial semanal, B); a SEE-PE tem feito seleções semestrais (dez/2025 e jul/2026). FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível."
     },
     {
       "data": "2026-10-11",
