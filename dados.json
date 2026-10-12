@@ -1029,14 +1029,49 @@
         "https://www.pebsp.com/ifsuldeminas-abre-1-950-vagas-em-13-cursos-gratuitos-de-ti-ead-inscricoes-ate-7-de-junho/"
       ],
       "primeiraDeteccao": "2026-10-12"
+    },
+    {
+      "id": "cps-etec-5320-2026-desenvolvimento-sistemas",
+      "curso": "Técnico em Desenvolvimento de Sistemas (on-line)",
+      "instituicao": "Centro Paula Souza · Etecs (Vestibulinho 1º sem. 2027)",
+      "estado": "SP",
+      "tipo": "Técnico",
+      "area": "Desenvolvimento de Sistemas",
+      "edital": "Portaria CEETEPS-Presidência nº 5320/2026 (Vestibulinho Etec 1º semestre 2027)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-09-02",
+      "inscricaoFim": "2026-11-03",
+      "cargaHoraria": "NÃO INFORMADO na portaria (portais de notícia citam 1.200 h em 3 semestres — PENDENTE DE CONFIRMAÇÃO)",
+      "vagas": "720 (46 reservadas a PcD) — Art. 17, III e Art. 19",
+      "mensalidade": "Gratuito (rede pública estadual)",
+      "taxa": "R$ 50,00 por inscrição (Art. 14); pedido de redução de taxa já encerrado",
+      "certificado": "Diploma de Técnico em Desenvolvimento de Sistemas (Centro Paula Souza)",
+      "polos": "Etecs polo no Estado de São Paulo (escolhida na inscrição); portaria não lista municípios; CPS pode remanejar o estudante de polo (Art. 8º, §3º)",
+      "pePodeParticipar": "Sim, em princípio: a portaria não exige residência em SP. Mas a prova de ingresso e os exames finais são presenciais em Etec de SP",
+      "atividadesPresenciais": "Exames finais de terminalidade presenciais na Etec polo escolhida (Art. 8º, §3º); demais atividades a distância em AVA",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Sim: exame de ingresso presencial em 06/12/2026, 13h30, na Etec indicada pelo candidato (Art. 25 e 26) e exames finais presenciais no polo",
+      "processoSeletivo": "Prova objetiva (50 questões) em 06/12/2026; gabarito 09/12; classificação 11/01/2027; matrícula on-line 15 e 18/01/2027 (Art. 10, 36 e 37). Requisito: ensino médio concluído ou cursando a partir da 2ª série (Art. 5º)",
+      "viabilidade": "B",
+      "linkEdital": "https://assets.fatvestibulares.com.br/vestibulinhoetec/documentos/1SEM-27/Portaria-CEETEPS-Presidencia-5320-2026.pdf",
+      "linkInscricao": "https://vestibulinho.etec.sp.gov.br/",
+      "dataVerificacao": "2026-10-12",
+      "observacoes": "Curso técnico on-line do Centro Paula Souza. Exige pelo menos duas viagens a SP (prova de ingresso em 06/12/2026 e exames finais presenciais no polo), por isso B. Matrícula e convocações on-line, por e-mail (Art. 10, §1º; Art. 37). Até 5 inscrições por candidato, cada uma com taxa; não é permitida mais de uma inscrição para o mesmo curso on-line em Etecs diferentes (Art. 13, §4º). Escolher polo na capital ou região com acesso fácil por aeroporto. Duração e existência de aulas síncronas: pendentes no Manual do Candidato.",
+      "fontes": [
+        "https://assets.fatvestibulares.com.br/vestibulinhoetec/documentos/1SEM-27/Portaria-CEETEPS-Presidencia-5320-2026.pdf",
+        "https://www.cps.sp.gov.br/etec/vestibulinho/",
+        "https://www.agenciasp.sp.gov.br/etecs-abrem-inscricoes-89-mil-vagas-2027/",
+        "https://www.pebsp.com/vestibulinho-etec-2027-oferece-1-620-vagas-para-cursos-tecnicos-gratuitos-e-100-ead-em-3-areas-promissoras-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-12"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-12",
-      "novas": 1,
-      "fontesConsultadas": "IF Baiano (Itapetinga/Potiraguá Edital 12/2026, Guanambi), IF Sudeste MG EaD 2027.1, IFCE/UAB, UFMA, UEG, UFRPE, IFPE, IFPB (PSCT 2027 subsequentes), IFMA, UnB EaD, UNIVESP, IFSULDEMINAS (Inconfidentes, Muzambinho, Machado), Secti-PE, IF Goiano/Cerfor, PEBSP, Hora Brasil, VestibulandoWeb, F5 Cariri",
-      "resumo": "06h58: nenhuma oportunidade nova aberta. +1 registro de referência: 13 cursos FIC EaD de TI do IFSULDEMINAS Machado (Edital 34/2026, encerrado em 07/06, A). Edital 12/2026 do IF Baiano Itapetinga (técnicos EaD no polo Potiraguá, até 16/10) não registrado: cursos ofertados não confirmados no texto do edital. IFPB PSCT 2027: sem curso EaD de TI. Seguem pendentes, por portais oficiais inacessíveis: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) e 'IA para Todos' da Secti-PE."
+      "novas": 2,
+      "fontesConsultadas": "IF Baiano (Itapetinga/Potiraguá Edital 12/2026, Guanambi), IF Sudeste MG EaD 2027.1, IFCE/UAB, UFMA, UEG, UFRPE, IFPE, IFPB (PSCT 2027 subsequentes), IFMA, UnB EaD, UNIVESP, IFSULDEMINAS (Inconfidentes, Muzambinho, Machado), Secti-PE, IF Goiano/Cerfor, PEBSP, Hora Brasil, VestibulandoWeb, F5 Cariri, Centro Paula Souza/Vestibulinho Etec (Portaria 5320/2026), Agência SP, IFRS Bento Gonçalves, IFG Anápolis, IFSC, IFPI, PEBSP (especializações 09/10)",
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +1 registro de referência: 13 cursos FIC EaD de TI do IFSULDEMINAS Machado (Edital 34/2026, encerrado em 07/06, A). Edital 12/2026 do IF Baiano Itapetinga (técnicos EaD no polo Potiraguá, até 16/10) não registrado: cursos ofertados não confirmados no texto do edital. IFPB PSCT 2027: sem curso EaD de TI. Seguem pendentes, por portais oficiais inacessíveis: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) e 'IA para Todos' da Secti-PE. 12h58: +1 oportunidade aberta: Técnico em Desenvolvimento de Sistemas on-line do Centro Paula Souza/Etec (Portaria 5320/2026, 720 vagas, inscrições até 03/11, taxa R$ 50, prova presencial em SP em 06/12, B). Cursos de extensão EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) não registrados: página oficial inacessível, só fonte secundária."
     },
     {
       "data": "2026-10-11",
