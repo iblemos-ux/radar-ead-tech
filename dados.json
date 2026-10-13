@@ -741,7 +741,7 @@
       "tipo": "Especialização",
       "area": "Ciência de Dados / Inteligência Artificial",
       "edital": "Edital AGEUFMA nº 22/2026",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "inscricaoInicio": "2026-09-29",
       "inscricaoFim": "2026-10-13",
       "cargaHoraria": "420 h com TCC; 18 meses (itens 1.6 e 2.2)",
@@ -758,8 +758,8 @@
       "viabilidade": "D",
       "linkEdital": "https://pub-d670cbd1bfb2414bbd4e279fc25d0b80.r2.dev/concursos/1391/publicacoes/2026/09/065708d0-13d4-40c9-bf7e-63f1fe62f44f.pdf",
       "linkInscricao": "https://www.fsaduconcursos.org.br",
-      "dataVerificacao": "2026-10-11",
-      "observacoes": "Classificada como D pela exigência de residência a até 100 km de um polo no Maranhão (item 3.4), eliminatória. Mantida como referência: a UFMA oferta especialização EaD em dados e IA via UAB.",
+      "dataVerificacao": "2026-10-13",
+      "observacoes": "Classificada como D pela exigência de residência a até 100 km de um polo no Maranhão (item 3.4), eliminatória. Mantida como referência: a UFMA oferta especialização EaD em dados e IA via UAB. Atualização 13/10/2026: inscrições encerradas em 13/10/2026, às 17h (prazo do edital).",
       "fontes": [
         "https://www.horabrasil.com.br/2026/10/07/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-recebe-inscricoes-ate-13-10/",
         "https://pub-d670cbd1bfb2414bbd4e279fc25d0b80.r2.dev/concursos/1391/publicacoes/2026/09/065708d0-13d4-40c9-bf7e-63f1fe62f44f.pdf",
@@ -1203,8 +1203,8 @@
     {
       "data": "2026-10-13",
       "novas": 0,
-      "resumo": "06h58: nenhuma oportunidade nova aberta. +3 registros de referência: Técnicos EaD em Desenvolvimento de Sistemas e Informática para Internet/Informática do IF Sudeste MG (Edital 19/2026, encerrado em 15/05, C) e FIC Aplicações da IA na Educação Profissional do IFB (Chamada 11/2026, encerrada em 15/09, B). Alerta de 3 dias: técnicos EaD do IF Baiano (Valença, Santa Inês, Bom Jesus da Lapa, Itaberaba) encerram em 16/10. Não registrados (só fonte secundária/portal inacessível): IFMT Edital 140/2026 (Técnico em Redes EaD Cuiabá, encerrado em 14/09, com encontros presenciais), cursos on-line de IA da USP (IA generativa em marketing, até 08/12) e FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3 até 18/10). Sem mudanças em UFMS 344/2026 e IFRN 55/2026. 12h58: nenhuma novidade. Edital 21/2026 do IF Baiano Alagoinhas (técnicos EaD até 16/10) sem curso de TI. Não registrados (só fonte secundária): extensões EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) e extensão 'Introdução ao Uso de Banco de Dados e SQL' do IFSP São José do Rio Preto (Edital 41/2026, encerrado em 12/08). FIC IA do IFSULDEMINAS Inconfidentes e 'IA para Todos' da Secti-PE seguem sem confirmação oficial.",
-      "fontesConsultadas": "PEBSP (técnicos EaD, especializações 09/10, roundup outubro, USP), IF Sudeste MG (Edital 19/2026), IFB (Chamadas 4 e 11/2026), IFMT, IFSULDEMINAS Inconfidentes, Secti-PE, UnB EaD 2027 (VestibulandoWeb), UFMS, IFRN, IFPE, Hora Brasil, IF Baiano Alagoinhas (Edital 21/2026), PEBSP (IFRS Bento 11/10, IFSP São José do Rio Preto, IF Sudeste MG 2027.1, IFCE IA), VestibulandoWeb (UFMS, UnB UAB), UEG, UFRPE, Secti-PE"
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +3 registros de referência: Técnicos EaD em Desenvolvimento de Sistemas e Informática para Internet/Informática do IF Sudeste MG (Edital 19/2026, encerrado em 15/05, C) e FIC Aplicações da IA na Educação Profissional do IFB (Chamada 11/2026, encerrada em 15/09, B). Alerta de 3 dias: técnicos EaD do IF Baiano (Valença, Santa Inês, Bom Jesus da Lapa, Itaberaba) encerram em 16/10. Não registrados (só fonte secundária/portal inacessível): IFMT Edital 140/2026 (Técnico em Redes EaD Cuiabá, encerrado em 14/09, com encontros presenciais), cursos on-line de IA da USP (IA generativa em marketing, até 08/12) e FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3 até 18/10). Sem mudanças em UFMS 344/2026 e IFRN 55/2026. 12h58: nenhuma novidade. Edital 21/2026 do IF Baiano Alagoinhas (técnicos EaD até 16/10) sem curso de TI. Não registrados (só fonte secundária): extensões EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) e extensão 'Introdução ao Uso de Banco de Dados e SQL' do IFSP São José do Rio Preto (Edital 41/2026, encerrado em 12/08). FIC IA do IFSULDEMINAS Inconfidentes e 'IA para Todos' da Secti-PE seguem sem confirmação oficial. 17h58: nenhuma oportunidade nova. Especialização UFMA (Análise de Dados e IA) passou a INSCRIÇÕES ENCERRADAS (prazo 13/10, 17h). Descartados: especialização em IA Aplicada do IFG Anápolis (Edital 44/2026, presencial) e especialização em IA da UEM/Unicentro (só servidores do PR, encerrada). Extensões EaD do IFRS Bento Gonçalves seguem sem confirmação em fonte oficial (site do IFRS inacessível).",
+      "fontesConsultadas": "PEBSP (técnicos EaD, especializações 09/10, roundup outubro, USP), IF Sudeste MG (Edital 19/2026), IFB (Chamadas 4 e 11/2026), IFMT, IFSULDEMINAS Inconfidentes, Secti-PE, UnB EaD 2027 (VestibulandoWeb), UFMS, IFRN, IFPE, Hora Brasil, IF Baiano Alagoinhas (Edital 21/2026), PEBSP (IFRS Bento 11/10, IFSP São José do Rio Preto, IF Sudeste MG 2027.1, IFCE IA), VestibulandoWeb (UFMS, UnB UAB), UEG, UFRPE, Secti-PE; 17h58: PEBSP (especializações 09/10, IFRS Bento 11/10, IFG Anápolis, UEM/Unicentro, IF Baiano), VestibulandoWeb (UnB EaD 2027), buscas IFPE/UAB/IF EaD"
     },
     {
       "data": "2026-10-12",
