@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12",
+  "atualizadoEm": "2026-10-13",
   "oportunidades": [
     {
       "area": "Inteligência Artificial",
@@ -1097,9 +1097,115 @@
         "https://www.diariodepernambuco.com.br/vida-urbana/2026/07/11718016-pernambuco-abre-processo-seletivo-com-quase-9-mil-vagas-para-cursos-tecnicos.html"
       ],
       "primeiraDeteccao": "2026-10-12"
+    },
+    {
+      "estado": "MG",
+      "tipo": "Técnico",
+      "edital": "Edital nº 19/2026 – Processo Seletivo 2026-2 Cursos Técnicos EaD (Reitoria IF Sudeste MG)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-04-22",
+      "inscricaoFim": "2026-05-15",
+      "cargaHoraria": "1,5 ano (item 4)",
+      "mensalidade": "Gratuito",
+      "taxa": "Isento — homologação gratuita (item 5.14)",
+      "certificado": "Diploma de técnico de nível médio",
+      "pePodeParticipar": "Sem restrição de residência no edital; item 5.8 vincula o candidato ao município de oferta do curso",
+      "atividadesPresenciais": "Sim — item 4: os cursos EaD têm carga horária presencial conforme o PPC (datas e frequência não detalhadas), no campus em MG",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO (item 5.8 cita prova no município do curso, mas a seleção é por sorteio)",
+      "processoSeletivo": "Sorteio público em 24/06/2026 transmitido no YouTube (itens 6.1–6.3); concomitante (2º/3º ano do EM) ou subsequente. Inscrição só online no Portal do Candidato com login gov.br (item 5.1). Matrícula definida em edital próprio (item 11).",
+      "viabilidade": "C",
+      "linkEdital": "https://www.ifsudestemg.edu.br/editais/reitoria/processo-seletivo/2026-2/cursos-tecnicos/edital-n-o-19-2026-processo-seletivo-2026-2-cursos-tecnicos-ead/edital_19_ps_2026-2_-_tecnico_conc_sub-_ead-docx_-284-29_assinado.pdf",
+      "linkInscricao": "https://candidato.ifsudestemg.edu.br",
+      "dataVerificacao": "2026-10-13",
+      "primeiraDeteccao": "2026-10-13",
+      "fontes": [
+        "https://www.ifsudestemg.edu.br/editais/reitoria/processo-seletivo/2026-2/cursos-tecnicos/edital-n-o-19-2026-processo-seletivo-2026-2-cursos-tecnicos-ead/edital_19_ps_2026-2_-_tecnico_conc_sub-_ead-docx_-284-29_assinado.pdf",
+        "https://www.pebsp.com/desenvolvimento-de-sistemas-instituto-federal-abre-360-vagas-para-curso-tecnico-ead-nessa-area-promissora/"
+      ],
+      "id": "ifsudestemg-19-2026-desenvolvimento-sistemas",
+      "curso": "Técnico em Desenvolvimento de Sistemas (EaD, concomitante/subsequente)",
+      "instituicao": "IF Sudeste MG · Campi Cataguases, São João Nepomuceno e Ubá",
+      "area": "Desenvolvimento de Sistemas",
+      "vagas": "120 por campus (360 no total) (item 4)",
+      "polos": "Campi Cataguases, São João Nepomuceno e Ubá (MG)",
+      "observacoes": "Registro de referência. Viabilidade C: sem restrição de residência, mas há carga horária presencial em campus de MG com frequência não detalhada no edital; se os encontros forem frequentes, passa a D. Periodicidade: o IF Sudeste MG abre processos seletivos de técnicos EaD por semestre (2026-2 neste edital; vagas complementares de Informática para Internet pelo Edital 33/2026, inscrições 28–31/08/2026, conforme PEBSP) e já anunciou seleção EaD 2027.1."
+    },
+    {
+      "estado": "MG",
+      "tipo": "Técnico",
+      "edital": "Edital nº 19/2026 – Processo Seletivo 2026-2 Cursos Técnicos EaD (Reitoria IF Sudeste MG)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-04-22",
+      "inscricaoFim": "2026-05-15",
+      "cargaHoraria": "1,5 ano (item 4)",
+      "mensalidade": "Gratuito",
+      "taxa": "Isento — homologação gratuita (item 5.14)",
+      "certificado": "Diploma de técnico de nível médio",
+      "pePodeParticipar": "Sem restrição de residência no edital; item 5.8 vincula o candidato ao município de oferta do curso",
+      "atividadesPresenciais": "Sim — item 4: os cursos EaD têm carga horária presencial conforme o PPC (datas e frequência não detalhadas), no campus em MG",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO (item 5.8 cita prova no município do curso, mas a seleção é por sorteio)",
+      "processoSeletivo": "Sorteio público em 24/06/2026 transmitido no YouTube (itens 6.1–6.3); concomitante (2º/3º ano do EM) ou subsequente. Inscrição só online no Portal do Candidato com login gov.br (item 5.1). Matrícula definida em edital próprio (item 11).",
+      "viabilidade": "C",
+      "linkEdital": "https://www.ifsudestemg.edu.br/editais/reitoria/processo-seletivo/2026-2/cursos-tecnicos/edital-n-o-19-2026-processo-seletivo-2026-2-cursos-tecnicos-ead/edital_19_ps_2026-2_-_tecnico_conc_sub-_ead-docx_-284-29_assinado.pdf",
+      "linkInscricao": "https://candidato.ifsudestemg.edu.br",
+      "dataVerificacao": "2026-10-13",
+      "primeiraDeteccao": "2026-10-13",
+      "fontes": [
+        "https://www.ifsudestemg.edu.br/editais/reitoria/processo-seletivo/2026-2/cursos-tecnicos/edital-n-o-19-2026-processo-seletivo-2026-2-cursos-tecnicos-ead/edital_19_ps_2026-2_-_tecnico_conc_sub-_ead-docx_-284-29_assinado.pdf",
+        "https://www.pebsp.com/desenvolvimento-de-sistemas-instituto-federal-abre-360-vagas-para-curso-tecnico-ead-nessa-area-promissora/"
+      ],
+      "id": "ifsudestemg-19-2026-informatica-internet",
+      "curso": "Técnico em Informática para Internet e Técnico em Informática (EaD, concomitante/subsequente)",
+      "instituicao": "IF Sudeste MG · Campi Barbacena, Cataguases, Rio Pomba, São João del-Rei e Bom Sucesso",
+      "area": "Informática / Desenvolvimento Web",
+      "vagas": "120 por curso/campus (item 4): Informática para Internet em Barbacena, Cataguases, Rio Pomba e São João del-Rei; Informática em Bom Sucesso",
+      "polos": "Campi Barbacena, Cataguases, Rio Pomba, São João del-Rei e Bom Sucesso (MG)",
+      "observacoes": "Registro de referência. Viabilidade C: sem restrição de residência, mas há carga horária presencial em campus de MG com frequência não detalhada no edital; se os encontros forem frequentes, passa a D. Periodicidade: o IF Sudeste MG abre processos seletivos de técnicos EaD por semestre (2026-2 neste edital; vagas complementares de Informática para Internet pelo Edital 33/2026, inscrições 28–31/08/2026, conforme PEBSP) e já anunciou seleção EaD 2027.1."
+    },
+    {
+      "id": "ifb-cp11-2026-fic-ia",
+      "curso": "Formação Inicial em Aplicações da Inteligência Artificial na Educação Profissional",
+      "instituicao": "IFB · Diretoria de Educação a Distância",
+      "estado": "DF",
+      "tipo": "FIC",
+      "area": "Inteligência Artificial",
+      "edital": "Chamada Pública nº 11/2026 (FI em IA e em Neurociência na Educação – Seleção 2026.2)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-04",
+      "inscricaoFim": "2026-09-15",
+      "cargaHoraria": "40 h; aulas de 21/09 a 12/12/2026 (itens 2.1, 3.1, 5.1)",
+      "vagas": "500 (item 3.1)",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa",
+      "certificado": "Certificado de 40 h para concluintes (item 5.1)",
+      "polos": "Não se aplica (100% a distância, item 1.6)",
+      "pePodeParticipar": "Sim — sem restrição de residência; inscrição e matrícula online (\"Não haverá matrícula presencial\", item 4.11)",
+      "atividadesPresenciais": "Nenhuma mencionada (item 1.6)",
+      "aulasSincronas": "Sim — exige disponibilidade para aulas síncronas (item 3.2b); dias, horários, frequência mínima e gravação não informados",
+      "provasPresenciais": "Não",
+      "processoSeletivo": "Ordem de envio do formulário com documentação completa (item 1.2); requisitos: ensino médio completo, 18+ anos, internet (item 3.2). Não exige atuar na educação.",
+      "viabilidade": "B",
+      "linkEdital": "https://www.ifb.edu.br/attachments/article/48407/Chamada%20P%C3%BAblica%2011_2026%20-%20FI%20em%20IA%20e%20em%20Neuroci%C3%AAncia%20na%20Educa%C3%A7%C3%A3o_Sele%C3%A7%C3%A3o%202026.2.pdf",
+      "linkInscricao": "https://forms.gle/PqRCPFyi885B7s2MA (encerrado)",
+      "dataVerificacao": "2026-10-13",
+      "observacoes": "Registro de referência. Viabilidade B por causa das aulas síncronas obrigatórias. Periodicidade: o IFB ofertou o mesmo curso na Chamada Pública nº 4/2026 (1º semestre) e na nº 11/2026 (2º semestre), o que indica oferta semestral; próxima turma NÃO CONFIRMADA.",
+      "fontes": [
+        "https://www.ifb.edu.br/attachments/article/48407/Chamada%20P%C3%BAblica%2011_2026%20-%20FI%20em%20IA%20e%20em%20Neuroci%C3%AAncia%20na%20Educa%C3%A7%C3%A3o_Sele%C3%A7%C3%A3o%202026.2.pdf",
+        "https://www.ifb.edu.br/attachments/article/45712/Chamada%20P%C3%BAblica%204.2026%20-%20FI%20em%20IA%20e%20FI%20em%20Neuroci%C3%AAncia%20na%20Educa%C3%A7%C3%A3o.pdf",
+        "https://www.pebsp.com/?p=50121"
+      ],
+      "primeiraDeteccao": "2026-10-13"
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-13",
+      "novas": 0,
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +3 registros de referência: Técnicos EaD em Desenvolvimento de Sistemas e Informática para Internet/Informática do IF Sudeste MG (Edital 19/2026, encerrado em 15/05, C) e FIC Aplicações da IA na Educação Profissional do IFB (Chamada 11/2026, encerrada em 15/09, B). Alerta de 3 dias: técnicos EaD do IF Baiano (Valença, Santa Inês, Bom Jesus da Lapa, Itaberaba) encerram em 16/10. Não registrados (só fonte secundária/portal inacessível): IFMT Edital 140/2026 (Técnico em Redes EaD Cuiabá, encerrado em 14/09, com encontros presenciais), cursos on-line de IA da USP (IA generativa em marketing, até 08/12) e FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3 até 18/10). Sem mudanças em UFMS 344/2026 e IFRN 55/2026.",
+      "fontesConsultadas": "PEBSP (técnicos EaD, especializações 09/10, roundup outubro, USP), IF Sudeste MG (Edital 19/2026), IFB (Chamadas 4 e 11/2026), IFMT, IFSULDEMINAS Inconfidentes, Secti-PE, UnB EaD 2027 (VestibulandoWeb), UFMS, IFRN, IFPE, Hora Brasil"
+    },
     {
       "data": "2026-10-12",
       "novas": 3,
