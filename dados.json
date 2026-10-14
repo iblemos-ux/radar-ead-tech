@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13",
+  "atualizadoEm": "2026-10-14",
   "oportunidades": [
     {
       "area": "Inteligência Artificial",
@@ -1369,6 +1369,19 @@
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-14",
+      "resumo": "06h58: nenhuma oportunidade nova de TI. IF Sudeste MG Edital 36/2026 (técnicos EaD 2027/1, inscrições até 19/10) sem curso de TI; IFSertãoPE Edital 115/2026 (subsequentes) sem TI; especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) fora da área. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram em 16/10). Sem alertas de 7/3/1 dia hoje.",
+      "novas": 0,
+      "fontesConsultadas": [
+        "pebsp.com",
+        "vestibulandoweb.com.br",
+        "ifsudestemg.edu.br",
+        "ifsertaope.edu.br",
+        "ingresso.ifbaiano.edu.br",
+        "estudante.ifpb.edu.br"
+      ]
+    },
     {
       "data": "2026-10-13",
       "novas": 2,
