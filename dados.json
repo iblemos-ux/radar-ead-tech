@@ -1197,14 +1197,82 @@
         "https://www.pebsp.com/?p=50121"
       ],
       "primeiraDeteccao": "2026-10-13"
+    },
+    {
+      "instituicao": "IFRS · Campus Bento Gonçalves",
+      "estado": "RS",
+      "tipo": "Extensão",
+      "edital": "Cursos de extensão do Projeto Extensionista III (ADS) – notícia oficial de 09/10/2026 (sem número de edital)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-13",
+      "inscricaoFim": "2026-10-27",
+      "cargaHoraria": "20 horas (aulas de 02/11 a 07/12/2026)",
+      "vagas": "NÃO INFORMADO",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa (NÃO INFORMADO no texto oficial; página de cursos indica cursos gratuitos)",
+      "certificado": "Certificado de conclusão de extensão (mínimo 75% de frequência/atividades e 60% de aproveitamento)",
+      "polos": "Não se aplica (100% a distância pelo Moodle)",
+      "pePodeParticipar": "Sim — aberto à comunidade externa, sem restrição de residência no texto oficial",
+      "atividadesPresenciais": "Nenhuma informada (curso on-line; só o curso de corte a laser, não registrado aqui, é híbrido)",
+      "aulasSincronas": "Não — ambiente virtual disponível 24 horas; prazo final improrrogável para entregas em 07/12/2026",
+      "provasPresenciais": "Não — avaliações no ambiente virtual",
+      "processoSeletivo": "Inscrição por formulário on-line; critério de seleção e limite de vagas NÃO INFORMADOS",
+      "viabilidade": "A",
+      "linkEdital": "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
+      "linkInscricao": "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
+      "dataVerificacao": "2026-10-13",
+      "primeiraDeteccao": "2026-10-13",
+      "fontes": [
+        "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
+        "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
+        "https://www.pebsp.com/?p=51104"
+      ],
+      "id": "ifrs-bento-ext-2026-ia-local",
+      "curso": "Introdução à utilização de modelos e arquiteturas de inteligência artificial para uso local",
+      "area": "Inteligência Artificial",
+      "observacoes": "Curso de extensão ministrado por estudantes de ADS do campus. Pré-requisito: conhecimento básico de informática e internet. Fonte oficial: notícia do IFRS Bento (09/10/2026) e site de cursos do campus. Número de vagas e critério de seleção não informados: inscrever-se cedo."
+    },
+    {
+      "instituicao": "IFRS · Campus Bento Gonçalves",
+      "estado": "RS",
+      "tipo": "Extensão",
+      "edital": "Cursos de extensão do Projeto Extensionista III (ADS) – notícia oficial de 09/10/2026 (sem número de edital)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-13",
+      "inscricaoFim": "2026-10-27",
+      "cargaHoraria": "20 horas (aulas de 02/11 a 07/12/2026)",
+      "vagas": "NÃO INFORMADO",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa (NÃO INFORMADO no texto oficial; página de cursos indica cursos gratuitos)",
+      "certificado": "Certificado de conclusão de extensão (mínimo 75% de frequência/atividades e 60% de aproveitamento)",
+      "polos": "Não se aplica (100% a distância pelo Moodle)",
+      "pePodeParticipar": "Sim — aberto à comunidade externa, sem restrição de residência no texto oficial",
+      "atividadesPresenciais": "Nenhuma informada (curso on-line; só o curso de corte a laser, não registrado aqui, é híbrido)",
+      "aulasSincronas": "Não — ambiente virtual disponível 24 horas; prazo final improrrogável para entregas em 07/12/2026",
+      "provasPresenciais": "Não — avaliações no ambiente virtual",
+      "processoSeletivo": "Inscrição por formulário on-line; critério de seleção e limite de vagas NÃO INFORMADOS",
+      "viabilidade": "A",
+      "linkEdital": "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
+      "linkInscricao": "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
+      "dataVerificacao": "2026-10-13",
+      "primeiraDeteccao": "2026-10-13",
+      "fontes": [
+        "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
+        "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
+        "https://www.pebsp.com/?p=51104"
+      ],
+      "id": "ifrs-bento-ext-2026-python-dados",
+      "curso": "Python na prática: gráficos e visualização de dados",
+      "area": "Programação / Ciência de Dados",
+      "observacoes": "Curso de extensão ministrado por estudantes de ADS do campus. Pré-requisito: conhecimento básico de informática e internet. Fonte oficial: notícia do IFRS Bento (09/10/2026) e site de cursos do campus. Número de vagas e critério de seleção não informados: inscrever-se cedo."
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-13",
-      "novas": 0,
-      "resumo": "06h58: nenhuma oportunidade nova aberta. +3 registros de referência: Técnicos EaD em Desenvolvimento de Sistemas e Informática para Internet/Informática do IF Sudeste MG (Edital 19/2026, encerrado em 15/05, C) e FIC Aplicações da IA na Educação Profissional do IFB (Chamada 11/2026, encerrada em 15/09, B). Alerta de 3 dias: técnicos EaD do IF Baiano (Valença, Santa Inês, Bom Jesus da Lapa, Itaberaba) encerram em 16/10. Não registrados (só fonte secundária/portal inacessível): IFMT Edital 140/2026 (Técnico em Redes EaD Cuiabá, encerrado em 14/09, com encontros presenciais), cursos on-line de IA da USP (IA generativa em marketing, até 08/12) e FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3 até 18/10). Sem mudanças em UFMS 344/2026 e IFRN 55/2026. 12h58: nenhuma novidade. Edital 21/2026 do IF Baiano Alagoinhas (técnicos EaD até 16/10) sem curso de TI. Não registrados (só fonte secundária): extensões EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) e extensão 'Introdução ao Uso de Banco de Dados e SQL' do IFSP São José do Rio Preto (Edital 41/2026, encerrado em 12/08). FIC IA do IFSULDEMINAS Inconfidentes e 'IA para Todos' da Secti-PE seguem sem confirmação oficial. 17h58: nenhuma oportunidade nova. Especialização UFMA (Análise de Dados e IA) passou a INSCRIÇÕES ENCERRADAS (prazo 13/10, 17h). Descartados: especialização em IA Aplicada do IFG Anápolis (Edital 44/2026, presencial) e especialização em IA da UEM/Unicentro (só servidores do PR, encerrada). Extensões EaD do IFRS Bento Gonçalves seguem sem confirmação em fonte oficial (site do IFRS inacessível).",
-      "fontesConsultadas": "PEBSP (técnicos EaD, especializações 09/10, roundup outubro, USP), IF Sudeste MG (Edital 19/2026), IFB (Chamadas 4 e 11/2026), IFMT, IFSULDEMINAS Inconfidentes, Secti-PE, UnB EaD 2027 (VestibulandoWeb), UFMS, IFRN, IFPE, Hora Brasil, IF Baiano Alagoinhas (Edital 21/2026), PEBSP (IFRS Bento 11/10, IFSP São José do Rio Preto, IF Sudeste MG 2027.1, IFCE IA), VestibulandoWeb (UFMS, UnB UAB), UEG, UFRPE, Secti-PE; 17h58: PEBSP (especializações 09/10, IFRS Bento 11/10, IFG Anápolis, UEM/Unicentro, IF Baiano), VestibulandoWeb (UnB EaD 2027), buscas IFPE/UAB/IF EaD"
+      "novas": 2,
+      "resumo": "06h58: nenhuma oportunidade nova aberta. +3 registros de referência: Técnicos EaD em Desenvolvimento de Sistemas e Informática para Internet/Informática do IF Sudeste MG (Edital 19/2026, encerrado em 15/05, C) e FIC Aplicações da IA na Educação Profissional do IFB (Chamada 11/2026, encerrada em 15/09, B). Alerta de 3 dias: técnicos EaD do IF Baiano (Valença, Santa Inês, Bom Jesus da Lapa, Itaberaba) encerram em 16/10. Não registrados (só fonte secundária/portal inacessível): IFMT Edital 140/2026 (Técnico em Redes EaD Cuiabá, encerrado em 14/09, com encontros presenciais), cursos on-line de IA da USP (IA generativa em marketing, até 08/12) e FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3 até 18/10). Sem mudanças em UFMS 344/2026 e IFRN 55/2026. 12h58: nenhuma novidade. Edital 21/2026 do IF Baiano Alagoinhas (técnicos EaD até 16/10) sem curso de TI. Não registrados (só fonte secundária): extensões EaD do IFRS Bento Gonçalves (IA uso local e Python/visualização de dados, até 27/10) e extensão 'Introdução ao Uso de Banco de Dados e SQL' do IFSP São José do Rio Preto (Edital 41/2026, encerrado em 12/08). FIC IA do IFSULDEMINAS Inconfidentes e 'IA para Todos' da Secti-PE seguem sem confirmação oficial. 17h58: nenhuma oportunidade nova. Especialização UFMA (Análise de Dados e IA) passou a INSCRIÇÕES ENCERRADAS (prazo 13/10, 17h). Descartados: especialização em IA Aplicada do IFG Anápolis (Edital 44/2026, presencial) e especialização em IA da UEM/Unicentro (só servidores do PR, encerrada). Extensões EaD do IFRS Bento Gonçalves seguem sem confirmação em fonte oficial (site do IFRS inacessível). 23h15 (execução extra): +2 oportunidades abertas confirmadas no site oficial do IFRS Bento Gonçalves: extensões EaD 'IA para uso local' e 'Python na prática: gráficos e visualização de dados' (20 h, gratuitas, inscrições de 13 a 27/10, A). Sem outras novidades de TI (roundup de especializações do PEBSP de 09/10 sem cursos de TI além da UFMA).",
+      "fontesConsultadas": "PEBSP (técnicos EaD, especializações 09/10, roundup outubro, USP), IF Sudeste MG (Edital 19/2026), IFB (Chamadas 4 e 11/2026), IFMT, IFSULDEMINAS Inconfidentes, Secti-PE, UnB EaD 2027 (VestibulandoWeb), UFMS, IFRN, IFPE, Hora Brasil, IF Baiano Alagoinhas (Edital 21/2026), PEBSP (IFRS Bento 11/10, IFSP São José do Rio Preto, IF Sudeste MG 2027.1, IFCE IA), VestibulandoWeb (UFMS, UnB UAB), UEG, UFRPE, Secti-PE; 17h58: PEBSP (especializações 09/10, IFRS Bento 11/10, IFG Anápolis, UEM/Unicentro, IF Baiano), VestibulandoWeb (UnB EaD 2027), buscas IFPE/UAB/IF EaD; 23h15: IFRS Bento (notícia oficial e site de cursos), PEBSP (especializações 09/10, IFNMG, IFRS), buscas IFPE/UFPI/FIC"
     },
     {
       "data": "2026-10-12",
