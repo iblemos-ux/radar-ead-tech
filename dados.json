@@ -1404,7 +1404,7 @@
   "verificacoes": [
     {
       "data": "2026-10-14",
-      "resumo": "06h58: nenhuma oportunidade nova de TI. IF Sudeste MG Edital 36/2026 (técnicos EaD 2027/1, inscrições até 19/10) sem curso de TI; IFSertãoPE Edital 115/2026 (subsequentes) sem TI; especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) fora da área. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram em 16/10). Sem alertas de 7/3/1 dia hoje. 12h58: +1 oportunidade aguardando confirmação oficial: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (Edital 50/2026, Turma 3, inscrições até 18/10; portal oficial e SUAP inacessíveis à leitura automática, C). IFTO Araguatins Edital 33/2026 (vagas remanescentes de ADS EaD, encerrado em 28/09) não registrado por falta de acesso à página oficial. Sem prorrogação localizada para os técnicos EaD do IF Baiano.",
+      "resumo": "06h58: nenhuma oportunidade nova de TI. IF Sudeste MG Edital 36/2026 (técnicos EaD 2027/1, inscrições até 19/10) sem curso de TI; IFSertãoPE Edital 115/2026 (subsequentes) sem TI; especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) fora da área. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram em 16/10). Sem alertas de 7/3/1 dia hoje. 12h58: +1 oportunidade aguardando confirmação oficial: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (Edital 50/2026, Turma 3, inscrições até 18/10; portal oficial e SUAP inacessíveis à leitura automática, C). IFTO Araguatins Edital 33/2026 (vagas remanescentes de ADS EaD, encerrado em 28/09) não registrado por falta de acesso à página oficial. Sem prorrogação localizada para os técnicos EaD do IF Baiano. 17h58: nenhuma novidade de TI. IFSC (5 especializações 2027/1, até 20/10) sem curso EaD de TI; IF Baiano Itapetinga Edital 12/2026 (técnicos EaD, até 16/10) sem TI; FURG vagas remanescentes só presenciais; UnB/UAB 2027/1 sem computação. IFSULDEMINAS Inconfidentes FIC IA ainda sem confirmação oficial.",
       "novas": 1,
       "fontesConsultadas": [
         "pebsp.com",
@@ -1415,7 +1415,11 @@
         "estudante.ifpb.edu.br",
         "f5cariri.com.br",
         "horabrasil.com.br",
-        "pebsp.com/ifto-37-vagas-remanescentes-ads-ead"
+        "pebsp.com/ifto-37-vagas-remanescentes-ads-ead",
+        "ifsc.edu.br",
+        "ingresso.ifbaiano.edu.br/concursos/subsequente-ead-2027-itapetinga",
+        "psvo.furg.br",
+        "ifg.edu.br"
       ]
     },
     {
