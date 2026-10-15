@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14",
+  "atualizadoEm": "2026-10-15",
   "oportunidades": [
     {
       "id": "ifsuldeminas-inconfidentes-50-2026-fic-ia",
@@ -26,8 +26,8 @@
       "viabilidade": "C",
       "linkEdital": "https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais",
       "linkInscricao": "https://suap.ifsuldeminas.edu.br/inscricoesfic/efetuar_inscricao/4141/",
-      "dataVerificacao": "2026-10-14",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever.",
+      "dataVerificacao": "2026-10-15",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever. 15/10: nova tentativa de confirmação; portal de extensão do campus continua inacessível à leitura automática.",
       "fontes": [
         "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html",
         "https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/"
@@ -1535,6 +1535,18 @@
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-15",
+      "resumo": "06h58: nenhuma oportunidade nova de TI. Especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) seguem fora da área; IFPE Edital 41/2026 sem nome divulgado do técnico EaD do polo Recife. Sem prorrogação localizada para os técnicos EaD do IF Baiano. Alertas: 1 dia para os técnicos EaD do IF Baiano (encerram em 16/10) e 3 dias para o FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial).",
+      "novas": 0,
+      "fontesConsultadas": [
+        "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
+        "https://www.pebsp.com/?p=50256",
+        "https://www.pebsp.com/?p=49755",
+        "https://portaldeprefeitura.com.br/oportunidades/ifpe-abre-selecao-com-4585-vagas-para-cursos-tecnicos-e-superiores/633986/",
+        "https://selecoes.ead.ifpe.edu.br/data/files/edital_222026.pdf"
+      ]
+    },
     {
       "data": "2026-10-14",
       "resumo": "06h58: nenhuma oportunidade nova de TI. IF Sudeste MG Edital 36/2026 (técnicos EaD 2027/1, inscrições até 19/10) sem curso de TI; IFSertãoPE Edital 115/2026 (subsequentes) sem TI; especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) fora da área. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram em 16/10). Sem alertas de 7/3/1 dia hoje. 12h58: +1 oportunidade aguardando confirmação oficial: FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (Edital 50/2026, Turma 3, inscrições até 18/10; portal oficial e SUAP inacessíveis à leitura automática, C). IFTO Araguatins Edital 33/2026 (vagas remanescentes de ADS EaD, encerrado em 28/09) não registrado por falta de acesso à página oficial. Sem prorrogação localizada para os técnicos EaD do IF Baiano. 17h58: nenhuma novidade de TI. IFSC (5 especializações 2027/1, até 20/10) sem curso EaD de TI; IF Baiano Itapetinga Edital 12/2026 (técnicos EaD, até 16/10) sem TI; FURG vagas remanescentes só presenciais; UnB/UAB 2027/1 sem computação. IFSULDEMINAS Inconfidentes FIC IA ainda sem confirmação oficial. 23h30 (manual, a pedido): +4 do Ingresso IFPE 2027.1 (Edital 41/2026, inscrições de 14/10 a 12/11): ADS PRESENCIAL em Paulista (B, Região Metropolitana do Recife), Garanhuns, Palmares e Belo Jardim (D, distantes). O único curso EaD do processo é um técnico subsequente no polo Recife (30 vagas, encontros quinzenais aos sábados, item 1.2), com nome ainda não divulgado nas fontes acessíveis.",
