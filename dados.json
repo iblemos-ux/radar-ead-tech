@@ -1572,7 +1572,7 @@
   "verificacoes": [
     {
       "data": "2026-10-15",
-      "resumo": "06h58: nenhuma oportunidade nova de TI. Especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) seguem fora da área; IFPE Edital 41/2026 sem nome divulgado do técnico EaD do polo Recife. Sem prorrogação localizada para os técnicos EaD do IF Baiano. Alertas: 1 dia para os técnicos EaD do IF Baiano (encerram em 16/10) e 3 dias para o FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 12h58: +1 aguardando confirmação oficial: Técnico Subsequente EaD em Manutenção e Suporte em Informática do IFPE (polo Recife, Edital 41/2026, inscrições até 12/11; nome do curso só em fonte secundária, PDF do edital inacessível, C). IF Sudeste MG Edital 36/2026 confirmado sem curso de TI (quadro completo de 1.680 vagas). IFFar Edital 296/2026 (técnicos EaD em Redes, Informática para Internet e Manutenção e Suporte, encerrado em 09/10) não registrado por falta de acesso à página oficial. Sem outras novidades de TI.",
+      "resumo": "06h58: nenhuma oportunidade nova de TI. Especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) seguem fora da área; IFPE Edital 41/2026 sem nome divulgado do técnico EaD do polo Recife. Sem prorrogação localizada para os técnicos EaD do IF Baiano. Alertas: 1 dia para os técnicos EaD do IF Baiano (encerram em 16/10) e 3 dias para o FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 12h58: +1 aguardando confirmação oficial: Técnico Subsequente EaD em Manutenção e Suporte em Informática do IFPE (polo Recife, Edital 41/2026, inscrições até 12/11; nome do curso só em fonte secundária, PDF do edital inacessível, C). IF Sudeste MG Edital 36/2026 confirmado sem curso de TI (quadro completo de 1.680 vagas). IFFar Edital 296/2026 (técnicos EaD em Redes, Informática para Internet e Manutenção e Suporte, encerrado em 09/10) não registrado por falta de acesso à página oficial. Sem outras novidades de TI. 17h58: nenhuma novidade de TI. Extensões EaD do IFRS Bento Gonçalves e especializações de outubro sem alteração; IFSP Edital 166/2026 (técnicos integrados presenciais) fora do escopo; sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram em 16/10); FIC IA do IFSULDEMINAS Inconfidentes e técnico EaD do IFPE (polo Recife) seguem sem confirmação oficial.",
       "novas": 1,
       "fontesConsultadas": [
         "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
@@ -1584,7 +1584,11 @@
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.vestibulandoweb.com.br/vestibular/inscricao-ifsudestemg-ead-2027/amp/",
         "https://infoeducacao.com.br/iffar-seleciona-alunos-para-os-cursos-tecnicos-gratuitos-ead-ou-presenciais",
-        "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html"
+        "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html",
+        "https://www.pebsp.com/?p=51104",
+        "https://www.pebsp.com/?p=50645",
+        "https://www.pebsp.com/instituto-federal-libera-mais-de-4-mil-vagas-em-cursos-tecnicos-gratuitos-dcs/",
+        "https://www.pebsp.com/instituto-federal-reabre-inscricoes-para-o-curso-tecnico-gratuito-em-informatica-para-internet-ead-dcs/"
       ]
     },
     {
