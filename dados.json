@@ -1532,19 +1532,59 @@
         "https://portal.ifpe.edu.br/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://www.diariodepernambuco.com.br/vida-urbana/2026/10/11726574-ifpe-abre-mais-de-45-mil-vagas-para-2027-inscricoes-estao-abertas.html"
       ]
+    },
+    {
+      "id": "ifpe-41-2026-ead-manutencao-suporte-informatica",
+      "curso": "Técnico Subsequente em Manutenção e Suporte em Informática (EaD)",
+      "instituicao": "IFPE · Polo EaD Recife",
+      "estado": "PE",
+      "tipo": "Técnico",
+      "area": "Tecnologia da Informação / Suporte e Redes",
+      "edital": "Edital nº 41/2026 (Ingresso IFPE 2027.1, organizado pela FUNCERN)",
+      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-11-12",
+      "cargaHoraria": "PENDENTE DE CONFIRMAÇÃO",
+      "vagas": "30 (página oficial do Ingresso 2027.1 do IFPE: 30 vagas de técnico subsequente EaD no polo Recife); fonte secundária informa 40",
+      "mensalidade": "Gratuito (instituição pública federal)",
+      "taxa": "R$ 10,00 para técnicos subsequentes segundo a notícia oficial do IFPE; isenção pode ser pedida de 14 a 26/10/2026; taxa específica do curso EaD PENDENTE DE CONFIRMAÇÃO",
+      "certificado": "Diploma de técnico de nível médio (PENDENTE DE CONFIRMAÇÃO no edital)",
+      "polos": "Polo EaD Recife",
+      "pePodeParticipar": "Provavelmente sim (polo no Recife); PENDENTE DE CONFIRMAÇÃO no edital",
+      "atividadesPresenciais": "Encontros presenciais quinzenais aos sábados no polo Recife, segundo fonte secundária e registro anterior do item 1.2 do edital; PENDENTE DE CONFIRMAÇÃO",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "Análise de histórico escolar (notas de Língua Portuguesa e Matemática, ou Enem 2017 a 2025) para técnicos subsequentes, segundo a notícia oficial do IFPE; sem prova",
+      "viabilidade": "C",
+      "linkEdital": "https://funcern.br/documents/2834/VERS%C3%83O_OFICIAL_-_edital_linguagem_simples_13out.pdf",
+      "linkInscricao": "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
+      "dataVerificacao": "2026-10-15",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. O IFPE confirma oficialmente 30 vagas de um técnico subsequente EaD no polo Recife, mas o nome do curso (Manutenção e Suporte em Informática) só aparece no PEBSP; o PDF do edital (FUNCERN/Google Drive) recusou leitura automática nesta execução. Se confirmado, tende a viabilidade B (encontros presenciais quinzenais no Recife). Resultado final previsto para 29/12/2026 e matrícula a partir de janeiro de 2027.",
+      "fontes": [
+        "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
+        "https://portal.ifpe.edu.br/ead/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
+        "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
+        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-15"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-15",
-      "resumo": "06h58: nenhuma oportunidade nova de TI. Especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) seguem fora da área; IFPE Edital 41/2026 sem nome divulgado do técnico EaD do polo Recife. Sem prorrogação localizada para os técnicos EaD do IF Baiano. Alertas: 1 dia para os técnicos EaD do IF Baiano (encerram em 16/10) e 3 dias para o FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial).",
-      "novas": 0,
+      "resumo": "06h58: nenhuma oportunidade nova de TI. Especializações EaD com prazo em outubro (UNILAB, IFRO, IFBA, IFFar) seguem fora da área; IFPE Edital 41/2026 sem nome divulgado do técnico EaD do polo Recife. Sem prorrogação localizada para os técnicos EaD do IF Baiano. Alertas: 1 dia para os técnicos EaD do IF Baiano (encerram em 16/10) e 3 dias para o FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 12h58: +1 aguardando confirmação oficial: Técnico Subsequente EaD em Manutenção e Suporte em Informática do IFPE (polo Recife, Edital 41/2026, inscrições até 12/11; nome do curso só em fonte secundária, PDF do edital inacessível, C). IF Sudeste MG Edital 36/2026 confirmado sem curso de TI (quadro completo de 1.680 vagas). IFFar Edital 296/2026 (técnicos EaD em Redes, Informática para Internet e Manutenção e Suporte, encerrado em 09/10) não registrado por falta de acesso à página oficial. Sem outras novidades de TI.",
+      "novas": 1,
       "fontesConsultadas": [
         "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
         "https://www.pebsp.com/?p=50256",
         "https://www.pebsp.com/?p=49755",
         "https://portaldeprefeitura.com.br/oportunidades/ifpe-abre-selecao-com-4585-vagas-para-cursos-tecnicos-e-superiores/633986/",
-        "https://selecoes.ead.ifpe.edu.br/data/files/edital_222026.pdf"
+        "https://selecoes.ead.ifpe.edu.br/data/files/edital_222026.pdf",
+        "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
+        "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
+        "https://www.vestibulandoweb.com.br/vestibular/inscricao-ifsudestemg-ead-2027/amp/",
+        "https://infoeducacao.com.br/iffar-seleciona-alunos-para-os-cursos-tecnicos-gratuitos-ead-ou-presenciais",
+        "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html"
       ]
     },
     {
