@@ -247,7 +247,7 @@
 
   // ---------- histórico ----------
   function renderLog() {
-    $('#log').innerHTML = state.log.length ? state.log.map(v => `<li><span class="mono">${esc(fmt(v.data))}</span><span>${esc(v.resumo || '')}${v.fontesConsultadas ? `<br><span class="sub">Fontes: ${esc(v.fontesConsultadas)}</span>` : ''}</span></li>`).join('')
+    $('#log').innerHTML = state.log.length ? state.log.map(v => `<li><span class="mono">${esc(fmt(v.data))}</span><span>${esc(v.resumo || '')}${v.fontesConsultadas && v.fontesConsultadas.length ? `<br><span class="sub">Fontes: ${esc(Array.isArray(v.fontesConsultadas) ? v.fontesConsultadas.join(', ') : v.fontesConsultadas)}</span>` : ''}</span></li>`).join('')
       : '<li><span></span><span class="sub">O monitor registra aqui cada execução, inclusive as sem novidades.</span></li>';
   }
 
