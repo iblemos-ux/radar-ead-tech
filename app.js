@@ -54,7 +54,8 @@
     const open = state.opps.filter(isOpen);
     const editais = agrupar(open).length;
     $('#k-open').textContent = open.length;
-    $('#k-open-sub').textContent = `${plural(editais, 'edital', 'editais')} · ${state.opps.length} no acervo`;
+    const nD = open.filter(o => via(o) === 'D').length;
+    $('#k-open-sub').textContent = `${open.length - nD} nas viabilidades A, B ou C · ${nD} incompatíveis (D)`;
     const a = open.filter(o => via(o) === 'A').length, b = open.filter(o => via(o) === 'B').length;
     $('#k-pe').textContent = a + b;
     $('#k-pe-sub').textContent = `A: ${a} · B: ${b} · inscrições abertas`;
@@ -66,9 +67,41 @@
     const novas = state.opps.filter(o => { const d = daysTo(o.primeiraDeteccao); return d !== null && d >= -7; });
     $('#k-new').textContent = novas.length;
     $('#k-new-sub').textContent = novas.length ? `${novas.filter(o => via(o) !== 'D').length} com viabilidade A, B ou C` : 'Sem novidades na semana';
+    const abertasCompat = open.filter(o => via(o) !== 'D');
+    $('#h-title').textContent = state.erro ? 'Não foi possível carregar os dados' : !state.opps.length ? 'Carregando oportunidades…'
+      : abertasCompat.length ? `${plural(abertasCompat.length, 'curso com inscrições abertas', 'cursos com inscrições abertas')} para você` : 'Nenhuma inscrição compatível aberta agora';
+    if (state.opps.length) $('#h-sub').textContent = `${a + b} com viabilidade A ou B para quem mora em Pernambuco${urg.length ? ` · próximo prazo: ${inst(urg[0])}, ${(d => d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`)(daysTo(urg[0].inscricaoFim))}` : ''}. ${state.opps.length - open.length} registros de referência e encerrados ficam guardados para acompanhar as próximas turmas.`;
     const last = state.log[0];
     $('#lastcheck').innerHTML = state.erro ? 'Não foi possível carregar os dados. Tente atualizar.'
       : last ? `Última verificação: <b>${esc(fmt(last.data))}</b>` : 'Carregando dados…';
+  }
+
+  // ---------- destaques: inscrições abertas ----------
+  const linkInsc = o => o.linkInscricao || o.linkEdital || '';
+  function renderDest() {
+    const el = $('#dest');
+    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && via(o) !== 'D'))
+      .sort((x, y) => x.best.localeCompare(y.best) || ((x.fim ?? 9999) - (y.fim ?? 9999)));
+    $('#dest-sub').textContent = gs.length ? `${plural(gs.length, 'edital', 'editais')} com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C. Clique em “Inscrever-se” para ir direto à página oficial.` : 'Editais com inscrições abertas nas viabilidades A, B e C aparecem aqui.';
+    if (!gs.length) { el.innerHTML = `<p class="g-empty">${state.opps.length ? 'Nenhum edital compatível com inscrições abertas neste momento. Os registros de referência ficam mais abaixo.' : 'Carregando…'}</p>`; return; }
+    el.innerHTML = gs.map(g => {
+      const o = g.o, fut = g.ph.k === 'futura', ini = daysTo(o.inscricaoInicio), fim = g.fim;
+      const prazo = fut && ini > 0 ? `Abre em ${plural(ini, 'dia', 'dias')}` : fim === null ? 'Inscrição contínua' : fim === 0 ? 'Encerra hoje' : `Faltam ${plural(fim, 'dia', 'dias')}`;
+      const urgente = !fut && fim !== null && fim <= 7;
+      const titulo = g.items.length > 1 ? g.items.map(x => curto(x.curso)).join(' · ') : o.curso;
+      const link = linkInsc(o);
+      return `<article class="dcard v-${esc(g.best)}">
+        <div class="dcard-top"><span class="grade g-${esc(g.best)}" title="${esc(VIAB[g.best])}">${esc(g.best)}</span><span class="dcard-deadline${urgente ? ' urg' : ''}">${esc(prazo)}</span></div>
+        <h3><button type="button" class="dtitle" data-id="${esc(o.id)}" title="Ver ficha completa">${esc(titulo)}</button></h3>
+        <p class="dcard-meta">${esc(o.instituicao)} · ${esc(o.estado)} · ${esc(o.tipo)}</p>
+        <p class="dcard-date">${o.inscricaoFim ? `Inscrições até <b>${esc(fmt(o.inscricaoFim))}</b>` : 'Inscrições abertas'}</p>
+        <div class="dcard-actions">
+          ${link ? `<a class="btn small" href="${esc(link)}" target="_blank" rel="noopener">Inscrever-se ↗</a>` : ''}
+          ${o.linkEdital && o.linkEdital !== link ? `<a class="btn small ghost" href="${esc(o.linkEdital)}" target="_blank" rel="noopener">Edital ↗</a>` : ''}
+        </div>
+      </article>`;
+    }).join('');
+    $$('.dtitle', el).forEach(b => b.addEventListener('click', () => { select(b.dataset.id); $('#sheet').scrollIntoView({ behavior: 'smooth', block: 'start' }); }));
   }
 
   // ---------- cronograma ----------
@@ -157,10 +190,10 @@
         <td class="c-op"><div class="op-name">${esc(inst(o))}${campus(o) ? ` <span class="op-meta">· ${esc(campus(o))}</span>` : ''}</div><div class="op-meta op-ed" title="${esc(o.edital || '')}">${esc(o.edital || 'Inscrição contínua')}</div><div class="courses">${cursos}</div></td>
         <td class="c-uf">${esc(o.estado)}</td>
         <td class="c-tipo">${esc(o.tipo)}</td>
-        <td class="c-dl">${o.inscricaoFim ? `<span class="dl-date">${esc(fmt(o.inscricaoFim))}</span>` : '<span class="dl-date">—</span>'}<span class="dl-days${!fut && fim !== null && fim <= 7 && fim >= 0 ? ' urg' : ''}">${esc(dias)}</span>${g.ph.k === 'aberta' ? '' : `<span class="chip st-${g.ph.k}">${esc(g.ph.label)}</span>`}</td>
+        <td class="c-dl">${o.inscricaoFim ? `<span class="dl-date">${esc(fmt(o.inscricaoFim))}</span>` : '<span class="dl-date">—</span>'}<span class="dl-days${!fut && fim !== null && fim <= 7 && fim >= 0 ? ' urg' : ''}">${esc(dias)}</span>${g.ph.k === 'aberta' ? '' : `<span class="chip st-${g.ph.k}">${esc(g.ph.label)}</span>`}${g.ph.k !== 'enc' && linkInsc(o) ? `<a class="dl-link" href="${esc(linkInsc(o))}" target="_blank" rel="noopener">Inscrever-se ↗</a>` : ''}</td>
       </tr>`;
     }).join('');
-    $$('tr[data-id]', tb).forEach(tr => tr.addEventListener('click', e => { const b = e.target.closest('.course'); select(b ? b.dataset.id : tr.dataset.id, true); }));
+    $$('tr[data-id]', tb).forEach(tr => tr.addEventListener('click', e => { if (e.target.closest('a')) return; const b = e.target.closest('.course'); select(b ? b.dataset.id : tr.dataset.id, true); }));
   }
 
   // ---------- ficha ----------
@@ -269,7 +302,7 @@
     state.sel = id; renderGantt(); renderTable(); renderSheet(); renderRefs();
     if (scroll && matchMedia('(max-width:1060px)').matches) $('#sheet').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
-  function renderAll() { renderKpis(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
+  function renderAll() { renderKpis(); renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
 
   // ---------- eventos ----------
   ['#q', '#f-sit', '#f-via', '#f-tipo', '#f-mine', '#f-hide'].forEach(s => $(s).addEventListener('input', renderTable));

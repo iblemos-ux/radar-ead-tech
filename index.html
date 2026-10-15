@@ -12,30 +12,56 @@
 </head>
 <body>
 
-<header class="topbar">
-  <div class="topbar-in">
-    <div class="brand">
-      <span class="logo" aria-hidden="true"></span>
-      <div>
-        <h1>Radar <span>EaD</span> Tech</h1>
-        <p>Editais gratuitos de tecnologia a distância · triagem para residentes de Pernambuco</p>
+<header class="hero">
+  <div class="hero-in">
+    <div class="hero-top">
+      <div class="brand">
+        <span class="logo" aria-hidden="true"></span>
+        <div>
+          <h1>Radar <span>EaD</span> Tech</h1>
+          <p>Monitor de editais gratuitos de tecnologia</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <div class="lastcheck" id="lastcheck">Carregando dados…</div>
+        <button class="btn" id="refresh" type="button">Atualizar agora</button>
       </div>
     </div>
-    <div class="top-actions">
-      <div class="lastcheck" id="lastcheck">Carregando dados…</div>
-      <button class="btn" id="refresh" type="button">Atualizar agora</button>
+
+    <div class="hero-body">
+      <div class="hero-copy">
+        <span class="eyebrow">Painel de oportunidades · triagem para residentes de Pernambuco</span>
+        <h2 id="h-title">Carregando oportunidades…</h2>
+        <p id="h-sub">Editais públicos e gratuitos de graduação, especialização, técnico e cursos livres em TI, dados e inteligência artificial, conferidos em fontes oficiais três vezes ao dia.</p>
+      </div>
+      <dl class="hero-scale" aria-label="Escala de viabilidade">
+        <div><dt><span class="grade g-A">A</span></dt><dd><b>Alta</b> · remoto confirmado a partir de PE</dd></div>
+        <div><dt><span class="grade g-B">B</span></dt><dd><b>Condicionada</b> · exige deslocamento ou encontros</dd></div>
+        <div><dt><span class="grade g-C">C</span></dt><dd><b>Pendente</b> · edital sem informação suficiente</dd></div>
+        <div><dt><span class="grade g-D">D</span></dt><dd><b>Incompatível</b> · restrição oficial impede</dd></div>
+      </dl>
     </div>
+
+    <section class="kpis" aria-label="Resumo">
+      <div class="kpi"><span class="label">Inscrições abertas</span><span class="n" id="k-open">–</span><small id="k-open-sub">&nbsp;</small></div>
+      <div class="kpi"><span class="label">Viáveis para PE (A/B)</span><span class="n" id="k-pe">–</span><small id="k-pe-sub">&nbsp;</small></div>
+      <div class="kpi kpi-alert"><span class="label">Encerram em até 7 dias</span><span class="n" id="k-7">–</span><small id="k-7-sub">&nbsp;</small></div>
+      <div class="kpi"><span class="label">Detectadas nos últimos 7 dias</span><span class="n" id="k-new">–</span><small id="k-new-sub">&nbsp;</small></div>
+    </section>
   </div>
 </header>
 
 <main class="wrap">
   <p class="toast-line" id="refresh-msg" role="status"></p>
 
-  <section class="kpis" aria-label="Resumo">
-    <div class="kpi"><span class="label">Inscrições abertas</span><span class="n" id="k-open">–</span><small id="k-open-sub">&nbsp;</small></div>
-    <div class="kpi"><span class="label">Viáveis para PE</span><span class="n" id="k-pe">–</span><small id="k-pe-sub">&nbsp;</small></div>
-    <div class="kpi kpi-alert"><span class="label">Encerram em até 7 dias</span><span class="n" id="k-7">–</span><small id="k-7-sub">&nbsp;</small></div>
-    <div class="kpi"><span class="label">Detectadas nos últimos 7 dias</span><span class="n" id="k-new">–</span><small id="k-new-sub">&nbsp;</small></div>
+  <section class="panel" aria-labelledby="dest-title">
+    <div class="panel-head">
+      <div>
+        <h2 id="dest-title">Inscrições abertas para você</h2>
+        <p class="sub" id="dest-sub">Editais com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C, em ordem de prioridade.</p>
+      </div>
+    </div>
+    <div class="dest" id="dest"></div>
   </section>
 
   <section class="panel" aria-labelledby="g-title">
