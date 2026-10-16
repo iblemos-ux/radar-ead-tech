@@ -5,7 +5,7 @@
   const STORE = 'radar-ead-acompanhamento';
   const DAY = 864e5;
 
-  const state = { opps: [], log: [], mine: {}, sel: null, erro: false, sort: { k: 'prazo', dir: 1 } };
+  const state = { opps: [], log: [], mine: {}, sel: null, erro: false, sort: { k: 'prazo', dir: 1 }, uf: '' };
   try { state.mine = JSON.parse(localStorage.getItem(STORE) || '{}'); } catch { state.mine = {}; }
 
   // ---------- utilidades ----------
@@ -107,9 +107,9 @@
   // ---------- cronograma ----------
   function renderGantt() {
     const el = $('#gantt'), comD = $('#g-d').checked;
-    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && (comD || via(o) !== 'D') && daysTo(o.inscricaoFim) !== null))
+    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && (comD || via(o) !== 'D') && daysTo(o.inscricaoFim) !== null && matchUF(o)))
       .sort((x, y) => (x.fim - y.fim) || x.best.localeCompare(y.best));
-    if (!gs.length) { el.innerHTML = `<p class="g-empty">Nenhum edital com inscrições abertas ou futuras${comD ? '' : ' nas viabilidades A, B ou C'}.</p>`; return; }
+    if (!gs.length) { el.innerHTML = `<p class="g-empty">Nenhum edital com inscrições abertas ou futuras${comD ? '' : ' nas viabilidades A, B ou C'}${state.uf ? ` em ${esc(nomeFiltro(state.uf))}` : ''}.</p>`; return; }
     const maxFim = Math.max(...gs.map(g => g.fim));
     const start = -14, end = Math.max(42, Math.min(119, Math.ceil((maxFim + 6) / 7) * 7));
     const pct = d => ((Math.min(Math.max(d, start), end) - start) / (end - start)) * 100;
@@ -150,12 +150,87 @@
   }
   function hideTip() { $('#tip').hidden = true; }
 
+  // ---------- estados ----------
+  const REG = ['Norte', 'Nordeste', 'Centro-Oeste', 'Sudeste', 'Sul'];
+  // [nome, região, linha, coluna] na grade aproximada do mapa
+  const UF = {
+    RR: ['Roraima', 'Norte', 1, 2], AP: ['Amapá', 'Norte', 1, 3],
+    AM: ['Amazonas', 'Norte', 2, 2], PA: ['Pará', 'Norte', 2, 3], MA: ['Maranhão', 'Nordeste', 2, 4], CE: ['Ceará', 'Nordeste', 2, 5], RN: ['Rio Grande do Norte', 'Nordeste', 2, 6],
+    AC: ['Acre', 'Norte', 3, 1], RO: ['Rondônia', 'Norte', 3, 2], TO: ['Tocantins', 'Norte', 3, 3], PI: ['Piauí', 'Nordeste', 3, 4], PE: ['Pernambuco', 'Nordeste', 3, 5], PB: ['Paraíba', 'Nordeste', 3, 6],
+    MT: ['Mato Grosso', 'Centro-Oeste', 4, 2], GO: ['Goiás', 'Centro-Oeste', 4, 3], BA: ['Bahia', 'Nordeste', 4, 4], SE: ['Sergipe', 'Nordeste', 4, 5], AL: ['Alagoas', 'Nordeste', 4, 6],
+    MS: ['Mato Grosso do Sul', 'Centro-Oeste', 5, 2], DF: ['Distrito Federal', 'Centro-Oeste', 5, 3], MG: ['Minas Gerais', 'Sudeste', 5, 4], ES: ['Espírito Santo', 'Sudeste', 5, 5],
+    PR: ['Paraná', 'Sul', 6, 2], SP: ['São Paulo', 'Sudeste', 6, 3], RJ: ['Rio de Janeiro', 'Sudeste', 6, 4],
+    SC: ['Santa Catarina', 'Sul', 7, 2], RS: ['Rio Grande do Sul', 'Sul', 7, 1]
+  };
+  const ufDe = o => { const m = String(o.estado || '').trim().match(/^([A-Z]{2})\b/); return m && UF[m[1]] ? m[1] : 'NAC'; };
+  const regiao = u => u === 'NAC' ? 'Nacional' : UF[u][1];
+  const nomeUF = u => u === 'NAC' ? 'Nacional / online' : UF[u][0];
+  const nomeFiltro = f => f.startsWith('R:') ? `Região ${f.slice(2)}` : nomeUF(f);
+  const matchUF = o => { const f = state.uf; if (!f) return true; const u = ufDe(o); return f.startsWith('R:') ? regiao(u) === f.slice(2) : u === f; };
+  const contaV = list => { const c = { A: 0, B: 0, C: 0, D: 0 }; list.forEach(g => c[g.best]++); return c; };
+
+  function montarSelectUF() {
+    const s = $('#f-uf');
+    s.innerHTML = '<option value="">Todos os estados</option>' + REG.map(r => `<optgroup label="${r}"><option value="R:${r}">Toda a região ${r}</option>${Object.keys(UF).filter(u => UF[u][1] === r).sort((x, y) => UF[x][0].localeCompare(UF[y][0], 'pt-BR')).map(u => `<option value="${u}">${UF[u][0]}</option>`).join('')}</optgroup>`).join('') + '<option value="NAC">Nacional / online</option>';
+  }
+  function setUF(f) {
+    state.uf = state.uf === f ? '' : f;
+    $('#f-uf').value = state.uf;
+    renderUF(); renderGantt(); renderTable();
+  }
+  function renderUF() {
+    const el = $('#ufmap');
+    const ativos = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k)));
+    const enc = agrupar(state.opps.filter(o => phase(o).k === 'enc'));
+    const por = {}, porEnc = {};
+    ativos.forEach(g => { (por[ufDe(g.o)] ||= []).push(g); });
+    enc.forEach(g => { const u = ufDe(g.o); porEnc[u] = (porEnc[u] || 0) + 1; });
+    const nivel = n => n === 0 ? 0 : n === 1 ? 1 : n <= 3 ? 2 : n <= 6 ? 3 : 4;
+    const best = list => list.map(g => g.best).sort()[0];
+    const tipTxt = (u, list) => {
+      const c = contaV(list), e = porEnc[u] || 0;
+      const linhas = list.length ? `${plural(list.length, 'edital aberto ou futuro', 'editais abertos ou futuros')}<br>${['A', 'B', 'C', 'D'].filter(k => c[k]).map(k => `${c[k]} ${k}`).join(' · ')}${c.A + c.B + c.C ? ` · melhor: ${best(list)}` : ''}` : 'Nenhum edital aberto ou futuro';
+      return `<b>${esc(nomeUF(u))}</b>${linhas}${e ? `<br>${plural(e, 'encerrado', 'encerrados')} (referência)` : ''}`;
+    };
+    const tiles = Object.entries(UF).map(([u, [nome, , r, c]]) => {
+      const list = por[u] || [], n = list.length, b = n ? best(list) : '';
+      return `<button type="button" class="uf-tile lv${nivel(n)}${u === 'PE' ? ' home' : ''}${state.uf === u ? ' on' : ''}" style="grid-row:${r};grid-column:${c}" data-f="${u}" data-tip="${esc(tipTxt(u, list))}" aria-pressed="${state.uf === u}" aria-label="${esc(nome)}: ${n} editais"><span class="uf-sig">${u}</span><span class="uf-n">${n || '–'}</span>${b ? `<i class="uf-dot sw-${b}"></i>` : ''}</button>`;
+    }).join('');
+    const totReg = r => (r === 'Nacional' ? ['NAC'] : Object.keys(UF).filter(u => UF[u][1] === r)).reduce((s, u) => s + (por[u] || []).length, 0);
+    const maxReg = Math.max(1, ...[...REG, 'Nacional'].map(totReg));
+    const regs = [...REG, 'Nacional'].map(reg => {
+      const ufs = reg === 'Nacional' ? ['NAC'] : Object.keys(UF).filter(u => UF[u][1] === reg);
+      const list = ufs.flatMap(u => por[u] || []), c = contaV(list), n = list.length, f = reg === 'Nacional' ? 'NAC' : 'R:' + reg;
+      const bar = ['A', 'B', 'C', 'D'].filter(k => c[k]).map(k => `<i class="sw-${k}" style="flex:${c[k]}" title="${c[k]} · ${VIAB[k]}"></i>`).join('');
+      const chips = ufs.filter(u => (por[u] || []).length).sort((x, y) => por[y].length - por[x].length).map(u => `<button type="button" class="uf-chip${state.uf === u ? ' on' : ''}${u === 'PE' ? ' home' : ''}" data-f="${u}" aria-pressed="${state.uf === u}">${u === 'NAC' ? 'Online' : u} <b>${por[u].length}</b></button>`).join('');
+      return `<li class="${state.uf === f ? 'on' : ''}"><button type="button" class="reg-name" data-f="${f}" aria-pressed="${state.uf === f}">${reg === 'Nacional' ? 'Nacional / online' : reg}</button><span class="reg-n mono">${n}</span><span class="reg-bar"><span class="reg-fill" style="width:${(n / maxReg) * 100}%">${bar}</span></span><span class="reg-chips">${chips || '<span class="reg-none">sem editais abertos</span>'}</span></li>`;
+    }).join('');
+    el.innerHTML = `<div class="uf-map" role="group" aria-label="Mapa de editais por estado">${tiles}</div>
+      <div class="uf-side">
+        <ol class="regs">${regs}</ol>
+        <div class="uf-legend">
+          <span><span class="uf-scale"><i class="lv1"></i><i class="lv2"></i><i class="lv3"></i><i class="lv4"></i></span>Cor: nº de editais (1 · 2–3 · 4–6 · 7+)</span>
+          <span><i class="uf-dot-l sw-B"></i>Ponto: melhor viabilidade do estado</span>
+          <span><i class="uf-home-l"></i>Contorno: Pernambuco</span>
+          <span><span class="uf-bar-l"><i class="sw-A"></i><i class="sw-B"></i><i class="sw-C"></i><i class="sw-D"></i></span>Barra: editais por viabilidade A · B · C · D</span>
+        </div>
+      </div>`;
+    $$('[data-f]', el).forEach(b => b.addEventListener('click', () => setUF(b.dataset.f)));
+    $$('.uf-tile', el).forEach(t => { t.addEventListener('mousemove', e => showTip(t.dataset.tip, e)); t.addEventListener('mouseleave', hideTip); });
+    $$('.uf-flag').forEach(fl => {
+      fl.hidden = !state.uf;
+      fl.innerHTML = state.uf ? `Filtrando: <b>${esc(nomeFiltro(state.uf))}</b><button type="button" aria-label="Limpar filtro de estado">✕</button>` : '';
+      const x = fl.querySelector('button'); if (x) x.addEventListener('click', () => setUF(state.uf));
+    });
+  }
+
   // ---------- tabela ----------
   function filtrados() {
     const q = $('#q').value.trim().toLowerCase(), sit = $('#f-sit').value, v = $('#f-via').value, tipo = $('#f-tipo').value, mine = $('#f-mine').value, hide = $('#f-hide').checked;
     return state.opps.filter(o => {
       const ph = phase(o).k, m = state.mine[o.id]?.status || 'none';
       if (hide && sit !== 'encerradas' && ph === 'enc') return false;
+      if (!matchUF(o)) return false;
       if (q && ![o.curso, o.instituicao, o.estado, o.edital, o.area].join(' ').toLowerCase().includes(q)) return false;
       if (sit === 'abertas' && !(ph === 'aberta' || ph === 'prazo')) return false;
       if (sit === 'prazo' && !(ph === 'prazo')) return false;
@@ -302,11 +377,13 @@
     state.sel = id; renderGantt(); renderTable(); renderSheet(); renderRefs();
     if (scroll && matchMedia('(max-width:1060px)').matches) $('#sheet').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
-  function renderAll() { renderKpis(); renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
+  function renderAll() { renderKpis(); renderDest(); renderUF(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
 
   // ---------- eventos ----------
   ['#q', '#f-sit', '#f-via', '#f-tipo', '#f-mine', '#f-hide'].forEach(s => $(s).addEventListener('input', renderTable));
   $('#g-d').addEventListener('change', renderGantt);
+  montarSelectUF();
+  $('#f-uf').addEventListener('input', e => { state.uf = ''; setUF(e.target.value); });
   $$('.sort').forEach(b => b.addEventListener('click', () => {
     const k = b.dataset.k; state.sort = { k, dir: state.sort.k === k ? -state.sort.dir : 1 }; renderTable();
   }));
