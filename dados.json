@@ -1675,7 +1675,7 @@
   "verificacoes": [
     {
       "data": "2026-10-16",
-      "resumo": "00h28 (sob demanda, primeira busca dedicada a cursos presenciais de TI na RMR): +3 aguardando confirmação oficial do IFPE Edital 41/2026 (Técnico Subsequente em Informática para Internet e ADS no campus Jaboatão; Sistemas para Internet no campus Igarassu), todos presenciais, inscrições até 12/11; oferta por campus só no PEBSP porque o Anexo A do edital não pôde ser lido. Demais campi da RMR (Recife, Cabo, Abreu e Lima, Ipojuca) sem curso de TI subsequente ou superior no 2027.1; Olinda oferta Computação Gráfica (fora da área). Cursos Petrobras/IFPE de outubro sem TI. UFPE, UFRPE, UPE e escolas técnicas estaduais sem seleção de TI aberta localizada. EaD: sem novidades (UnB UAB 2027 sem TI; IFSertãoPE 2027 sem TI EaD). Alerta de 7 dias enviado: IFCE Edital 22/2026 (Informática para Internet EaD, até 23/10).",
+      "resumo": "00h28 (sob demanda, primeira busca dedicada a cursos presenciais de TI na RMR): +3 aguardando confirmação oficial do IFPE Edital 41/2026 (Técnico Subsequente em Informática para Internet e ADS no campus Jaboatão; Sistemas para Internet no campus Igarassu), todos presenciais, inscrições até 12/11; oferta por campus só no PEBSP porque o Anexo A do edital não pôde ser lido. Demais campi da RMR (Recife, Cabo, Abreu e Lima, Ipojuca) sem curso de TI subsequente ou superior no 2027.1; Olinda oferta Computação Gráfica (fora da área). Cursos Petrobras/IFPE de outubro sem TI. UFPE, UFRPE, UPE e escolas técnicas estaduais sem seleção de TI aberta localizada. EaD: sem novidades (UnB UAB 2027 sem TI; IFSertãoPE 2027 sem TI EaD). Alerta de 7 dias enviado: IFCE Edital 22/2026 (Informática para Internet EaD, até 23/10). 06h58: nenhuma oportunidade nova de TI. Extensões EaD do IFRS Bento, IFNMG Técnico em IA, técnicos EaD do IF Sudeste MG (sem TI, até 19/10) e Vestibulinho Etec sem alteração; sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje, 16/10); FIC IA do IFSULDEMINAS Inconfidentes (até 18/10) e cursos do IFPE Edital 41/2026 seguem sem confirmação oficial (portal do IFPE não pôde ser lido nesta execução). Sem alertas de 7/3/1 dia pendentes (alerta de 7 dias do IFCE já enviado às 00h28).",
       "novas": 3,
       "fontesConsultadas": [
         "https://portal.ifpe.edu.br/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
@@ -1688,7 +1688,12 @@
         "https://www.cbnrecife.com/2026/10/14/ifpe-oferece-mais-de-45-mil-vagas-para-cursos-tecnicos-e-superiores-em-2027-confira/",
         "https://portaldeprefeitura.com.br/oportunidades/ifsertaope-abre-1632-vagas-em-cursos-tecnicos-para-2027-veja-como-se/633153/",
         "https://www.vestibulandoweb.com.br/vestibular/inscricao-unb-ead-2027/",
-        "https://www.pebsp.com/?p=51014"
+        "https://www.pebsp.com/?p=51014",
+        "https://www.pebsp.com/?p=50756",
+        "https://www.pebsp.com/?p=51104",
+        "https://www.pebsp.com/?p=50934",
+        "https://www.pebsp.com/?p=50256",
+        "https://infoeducacao.com.br/curso-tecnico-gratuito-ead-em-desenvolvimento-de-sistemas-2027-abre-inscricoes"
       ]
     },
     {
