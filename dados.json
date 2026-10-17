@@ -97,7 +97,13 @@
       "tipo": "Técnico",
       "vagas": "180 (30 por polo)",
       "viabilidade": "C",
-      "id": "ifbaiano-14-2026-valenca-informatica"
+      "id": "ifbaiano-14-2026-valenca-informatica",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        }
+      ]
     },
     {
       "area": "Redes / Infraestrutura de TI",
@@ -130,7 +136,13 @@
       "tipo": "Técnico",
       "vagas": "180 (30 por polo)",
       "viabilidade": "C",
-      "id": "ifbaiano-14-2026-valenca-redes"
+      "id": "ifbaiano-14-2026-valenca-redes",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        }
+      ]
     },
     {
       "area": "Informática",
@@ -163,7 +175,13 @@
       "tipo": "Técnico",
       "vagas": "50",
       "viabilidade": "C",
-      "id": "ifbaiano-21-2026-catu-informatica"
+      "id": "ifbaiano-21-2026-catu-informatica",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-18"
+        }
+      ]
     },
     {
       "area": "Redes / Infraestrutura de TI",
@@ -196,7 +214,13 @@
       "tipo": "Técnico",
       "vagas": "50",
       "viabilidade": "C",
-      "id": "ifbaiano-21-2026-catu-redes"
+      "id": "ifbaiano-21-2026-catu-redes",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-18"
+        }
+      ]
     },
     {
       "area": "Informática",
@@ -229,7 +253,17 @@
       "tipo": "Técnico",
       "vagas": "40 (Campus Santa Inês)",
       "viabilidade": "C",
-      "id": "ifbaiano-25-2026-santaines-informatica"
+      "id": "ifbaiano-25-2026-santaines-informatica",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        },
+        {
+          "evento": "Edital de matrícula",
+          "data": "2026-12-04"
+        }
+      ]
     },
     {
       "area": "Informática",
@@ -328,7 +362,25 @@
       "tipo": "Técnico",
       "vagas": "80 (40 por polo)",
       "viabilidade": "C",
-      "id": "ifbaiano-37-2026-informatica"
+      "id": "ifbaiano-37-2026-informatica",
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-10-23"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        },
+        {
+          "evento": "Pré-matrícula",
+          "data": "2026-11-23"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-01"
+        }
+      ]
     },
     {
       "area": "Redes / Infraestrutura de TI",
@@ -360,7 +412,25 @@
       "tipo": "Técnico",
       "vagas": "80 (40 por polo)",
       "viabilidade": "C",
-      "id": "ifbaiano-37-2026-redes"
+      "id": "ifbaiano-37-2026-redes",
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-10-23"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        },
+        {
+          "evento": "Pré-matrícula",
+          "data": "2026-11-23"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-01"
+        }
+      ]
     },
     {
       "area": "Informática",
@@ -392,7 +462,13 @@
       "tipo": "Técnico",
       "vagas": "50",
       "viabilidade": "C",
-      "id": "ifbaiano-39-2026-itaberaba-informatica"
+      "id": "ifbaiano-39-2026-itaberaba-informatica",
+      "marcos": [
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-19"
+        }
+      ]
     },
     {
       "area": "Inteligência Artificial",
@@ -427,7 +503,21 @@
       "tipo": "Técnico",
       "vagas": "640 (Arinos 200, incluindo polo Flores de Goiás/GO; Ceadi-Reitoria 160; Pirapora 160; Araçuaí 120; Montes Claros 40)",
       "viabilidade": "D",
-      "id": "ifnmg-1631-2026-ia"
+      "id": "ifnmg-1631-2026-ia",
+      "marcos": [
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-04"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2026-12-07"
+        }
+      ]
     },
     {
       "area": "Desenvolvimento Web / Sistemas",
@@ -460,7 +550,17 @@
       "tipo": "Graduação",
       "vagas": "50",
       "viabilidade": "B",
-      "id": "ifrn-55-2026-sistemas-internet"
+      "id": "ifrn-55-2026-sistemas-internet",
+      "marcos": [
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-01"
+        }
+      ]
     },
     {
       "area": "ADS / Desenvolvimento de Sistemas",
@@ -494,7 +594,21 @@
       "tipo": "Graduação",
       "vagas": "300 (30 por polo, 10 polos)",
       "viabilidade": "B",
-      "id": "ufms-344-2026-ads"
+      "id": "ufms-344-2026-ads",
+      "marcos": [
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-01-22"
+        }
+      ]
     },
     {
       "area": "Ciência de Dados",
@@ -528,7 +642,21 @@
       "tipo": "Graduação",
       "vagas": "300 (30 por polo, 10 polos)",
       "viabilidade": "B",
-      "id": "ufms-344-2026-dados"
+      "id": "ufms-344-2026-dados",
+      "marcos": [
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-01-22"
+        }
+      ]
     },
     {
       "area": "Inteligência Artificial",
@@ -562,7 +690,21 @@
       "tipo": "Graduação",
       "vagas": "300 (30 por polo, 10 polos)",
       "viabilidade": "B",
-      "id": "ufms-344-2026-ia"
+      "id": "ufms-344-2026-ia",
+      "marcos": [
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-01-22"
+        }
+      ]
     },
     {
       "id": "ifgoiano-cerfor13-2026-ads",
@@ -597,7 +739,17 @@
         "https://ps.ifgoiano.edu.br/media/anexos_edital/EDITAL_CERFOR_N%C2%BA_13_-_SELE%C3%87%C3%83O_DE_ESTUDANTES_CURSO_TADS.pdf",
         "https://www.pebsp.com/instituto-federal-abre-450-vagas-para-analise-e-desenvolvimento-de-sistemas-ead/"
       ],
-      "primeiraDeteccao": "2026-10-11"
+      "primeiraDeteccao": "2026-10-11",
+      "marcos": [
+        {
+          "evento": "Resultado preliminar",
+          "data": "2026-10-29"
+        },
+        {
+          "evento": "Resultado final e 1ª chamada",
+          "data": "2026-11-03"
+        }
+      ]
     },
     {
       "id": "ifce-22-2026-informatica-internet",
@@ -665,7 +817,17 @@
         "https://cecierj.edu.br/cederj/fundacao-cecierj-abre-inscricoes-para-o-vestibular-cederj-2027-1-com-7-165-vagas-em-cursos-superiores-gratuitos/",
         "https://www.pebsp.com/fundacao-cecierj-abre-7-165-vagas-de-graduacao-semipresenciais-e-a-distancia-em-8-instituicoes-publicas-dcs/"
       ],
-      "primeiraDeteccao": "2026-10-11"
+      "primeiraDeteccao": "2026-10-11",
+      "marcos": [
+        {
+          "evento": "Prova de seleção (presencial)",
+          "data": "2026-12-06"
+        },
+        {
+          "evento": "Matrícula (etapa 1, on-line)",
+          "data": "2027-01-08"
+        }
+      ]
     },
     {
       "id": "ifsertaope-94-2026-ads",
@@ -877,7 +1039,7 @@
       "area": "Ciência/Análise de Dados",
       "edital": "Edital nº 34/2026",
       "situacao": "INSCRIÇÕES ENCERRADAS",
-      "inscricaoInicio": "NÃO INFORMADO",
+      "inscricaoInicio": "",
       "inscricaoFim": "2026-05-17",
       "cargaHoraria": "420 h, duração prevista de até 30 meses; aulas iniciadas em 22/07/2026 (segundo fontes auxiliares)",
       "vagas": "150 (30 por polo, segundo fontes auxiliares)",
@@ -944,7 +1106,7 @@
       "area": "Inteligência Artificial",
       "edital": "NÃO INFORMADO (inscrição via SigEventos)",
       "situacao": "INSCRIÇÕES ENCERRADAS",
-      "inscricaoInicio": "NÃO INFORMADO",
+      "inscricaoInicio": "",
       "inscricaoFim": "2026-08-30",
       "cargaHoraria": "30 h; curso de 01/09 a 01/11/2026",
       "vagas": "Ilimitadas",
@@ -993,7 +1155,7 @@
       "vagas": "52 por polo em Informática (Central, Ipupiara, Xique-Xique); 52 em Redes (Ipupiara)",
       "polos": "Central, Ipupiara e Xique-Xique (BA)",
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/07/Edital_No_08_-_2026_-_Cursos_Subsequentes_EaD_Xique-Xique.pdf",
-      "linkInscricao": "NÃO INFORMADO",
+      "linkInscricao": "",
       "fontes": [
         "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/07/Edital_No_08_-_2026_-_Cursos_Subsequentes_EaD_Xique-Xique.pdf"
       ],
@@ -1025,7 +1187,7 @@
       "vagas": "40 por polo em Informática; 40 em Redes (Amélia Rodrigues)",
       "polos": "Amélia Rodrigues e Cabaceiras do Paraguaçu (BA)",
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/07/Edital-No-11-Cursos-subsequentes-EaD-Campus-Governador-Mangabeira.pdf",
-      "linkInscricao": "NÃO INFORMADO",
+      "linkInscricao": "",
       "fontes": [
         "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/07/Edital-No-11-Cursos-subsequentes-EaD-Campus-Governador-Mangabeira.pdf"
       ],
@@ -1097,7 +1259,17 @@
         "https://www.agenciasp.sp.gov.br/etecs-abrem-inscricoes-89-mil-vagas-2027/",
         "https://www.pebsp.com/vestibulinho-etec-2027-oferece-1-620-vagas-para-cursos-tecnicos-gratuitos-e-100-ead-em-3-areas-promissoras-dcs/"
       ],
-      "primeiraDeteccao": "2026-10-12"
+      "primeiraDeteccao": "2026-10-12",
+      "marcos": [
+        {
+          "evento": "Prova objetiva (presencial em SP)",
+          "data": "2026-12-06"
+        },
+        {
+          "evento": "Matrícula on-line",
+          "data": "2027-01-15"
+        }
+      ]
     },
     {
       "id": "etepac-ead-2026-2-desenvolvimento-sistemas",
@@ -1433,6 +1605,20 @@
         "https://portal.ifpe.edu.br/paulista/noticias/ifpe-campus-paulista-oferece-240-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://portal.ifpe.edu.br/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     },
     {
@@ -1466,6 +1652,20 @@
       "fontes": [
         "https://portal.ifpe.edu.br/garanhuns/noticias/ifpe-oferece-266-vagas-em-cursos-tecnicos-e-superiores-no-campus-garanhuns-para-2027-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     },
     {
@@ -1499,6 +1699,20 @@
       "fontes": [
         "https://portal.ifpe.edu.br/palmares/noticias/ifpe-palmares-oferece-156-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     },
     {
@@ -1532,6 +1746,20 @@
       "fontes": [
         "https://portal.ifpe.edu.br/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://www.diariodepernambuco.com.br/vida-urbana/2026/10/11726574-ifpe-abre-mais-de-45-mil-vagas-para-2027-inscricoes-estao-abertas.html"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     },
     {
@@ -1567,7 +1795,17 @@
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
       ],
-      "primeiraDeteccao": "2026-10-15"
+      "primeiraDeteccao": "2026-10-15",
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-29"
+        }
+      ]
     },
     {
       "edital": "Edital nº 41/2026 (Processo de Ingresso IFPE 2027.1, organizado pela FUNCERN)",
@@ -1602,6 +1840,12 @@
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
         "https://portal.ifpe.edu.br/wp-content/uploads/repositoriolegado/jaboatao/documentos/matriz_curricular_info_para_internet_ifpe_jaboatao.pdf"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        }
       ]
     },
     {
@@ -1636,6 +1880,20 @@
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     },
     {
@@ -1670,13 +1928,27 @@
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+      ],
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Prova objetiva e redação",
+          "data": "2026-12-06"
+        }
       ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-16",
-      "resumo": "00h28 (sob demanda, primeira busca dedicada a cursos presenciais de TI na RMR): +3 aguardando confirmação oficial do IFPE Edital 41/2026 (Técnico Subsequente em Informática para Internet e ADS no campus Jaboatão; Sistemas para Internet no campus Igarassu), todos presenciais, inscrições até 12/11; oferta por campus só no PEBSP porque o Anexo A do edital não pôde ser lido. Demais campi da RMR (Recife, Cabo, Abreu e Lima, Ipojuca) sem curso de TI subsequente ou superior no 2027.1; Olinda oferta Computação Gráfica (fora da área). Cursos Petrobras/IFPE de outubro sem TI. UFPE, UFRPE, UPE e escolas técnicas estaduais sem seleção de TI aberta localizada. EaD: sem novidades (UnB UAB 2027 sem TI; IFSertãoPE 2027 sem TI EaD). Alerta de 7 dias enviado: IFCE Edital 22/2026 (Informática para Internet EaD, até 23/10). 06h58: nenhuma oportunidade nova de TI. Extensões EaD do IFRS Bento, IFNMG Técnico em IA, técnicos EaD do IF Sudeste MG (sem TI, até 19/10) e Vestibulinho Etec sem alteração; sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje, 16/10); FIC IA do IFSULDEMINAS Inconfidentes (até 18/10) e cursos do IFPE Edital 41/2026 seguem sem confirmação oficial (portal do IFPE não pôde ser lido nesta execução). Sem alertas de 7/3/1 dia pendentes (alerta de 7 dias do IFCE já enviado às 00h28). 12h58: nenhuma oportunidade nova de TI. PEBSP noticia reabertura até 20/10 da Especialização UFMA em Análise de Dados e IA (segue D por residência a até 100 km do polo no MA; reabertura sem confirmação oficial). Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); FIC IA do IFSULDEMINAS segue sem confirmação oficial; IFRS Bento, CPS Etec e IF Sudeste MG sem alteração. 17h58: nenhuma novidade de TI. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); IFRS Bento e IFNMG sem alteração; anexo de vagas do IFPE Edital 41/2026 e portal da Funcern seguem inacessíveis, cursos de Jaboatão/Igarassu/EaD Recife seguem aguardando confirmação oficial.",
+      "resumo": "00h28 (sob demanda, primeira busca dedicada a cursos presenciais de TI na RMR): +3 aguardando confirmação oficial do IFPE Edital 41/2026 (Técnico Subsequente em Informática para Internet e ADS no campus Jaboatão; Sistemas para Internet no campus Igarassu), todos presenciais, inscrições até 12/11; oferta por campus só no PEBSP porque o Anexo A do edital não pôde ser lido. Demais campi da RMR (Recife, Cabo, Abreu e Lima, Ipojuca) sem curso de TI subsequente ou superior no 2027.1; Olinda oferta Computação Gráfica (fora da área). Cursos Petrobras/IFPE de outubro sem TI. UFPE, UFRPE, UPE e escolas técnicas estaduais sem seleção de TI aberta localizada. EaD: sem novidades (UnB UAB 2027 sem TI; IFSertãoPE 2027 sem TI EaD). Alerta de 7 dias enviado: IFCE Edital 22/2026 (Informática para Internet EaD, até 23/10). 06h58: nenhuma oportunidade nova de TI. Extensões EaD do IFRS Bento, IFNMG Técnico em IA, técnicos EaD do IF Sudeste MG (sem TI, até 19/10) e Vestibulinho Etec sem alteração; sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje, 16/10); FIC IA do IFSULDEMINAS Inconfidentes (até 18/10) e cursos do IFPE Edital 41/2026 seguem sem confirmação oficial (portal do IFPE não pôde ser lido nesta execução). Sem alertas de 7/3/1 dia pendentes (alerta de 7 dias do IFCE já enviado às 00h28). 12h58: nenhuma oportunidade nova de TI. PEBSP noticia reabertura até 20/10 da Especialização UFMA em Análise de Dados e IA (segue D por residência a até 100 km do polo no MA; reabertura sem confirmação oficial). Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); FIC IA do IFSULDEMINAS segue sem confirmação oficial; IFRS Bento, CPS Etec e IF Sudeste MG sem alteração. 17h58: nenhuma novidade de TI. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); IFRS Bento e IFNMG sem alteração; anexo de vagas do IFPE Edital 41/2026 e portal da Funcern seguem inacessíveis, cursos de Jaboatão/Igarassu/EaD Recife seguem aguardando confirmação oficial. 21h12 (ajuste manual): prazos do edital (isenção, pagamento, prova, resultado, matrícula) registrados em 24 oportunidades a partir de datas já anotadas; 4 campos com \"NÃO INFORMADO\" em data ou link trocados por vazio.",
       "novas": 3,
       "fontesConsultadas": [
         "https://portal.ifpe.edu.br/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",

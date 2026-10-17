@@ -5,7 +5,7 @@
   const STORE = 'radar-ead-acompanhamento';
   const DAY = 864e5;
 
-  const state = { opps: [], log: [], mine: {}, sel: null, erro: false, sort: { k: 'prazo', dir: 1 }, uf: '' };
+  const state = { opps: [], log: [], mine: {}, sel: null, erro: false, sort: { k: 'prazo', dir: 1 }, uf: '', destAll: false };
   try { state.mine = JSON.parse(localStorage.getItem(STORE) || '{}'); } catch { state.mine = {}; }
 
   // ---------- utilidades ----------
@@ -78,23 +78,43 @@
 
   // ---------- destaques: inscrições abertas ----------
   const linkInsc = o => o.linkInscricao || o.linkEdital || '';
+  // Prazos do edital além da inscrição (isenção, pagamento, prova, resultado, matrícula), gravados em `marcos`
+  const marcos = o => (Array.isArray(o.marcos) ? o.marcos : []).filter(m => m && m.evento && parse(m.data)).sort((a, b) => String(a.data).localeCompare(String(b.data)));
+  const marcosGrupo = items => { const seen = new Set(); return items.flatMap(marcos).filter(m => { const k = m.evento + m.data; if (seen.has(k)) return false; seen.add(k); return true; }).sort((a, b) => String(a.data).localeCompare(String(b.data))); };
+  const quando = d => d < 0 ? 'encerrado' : d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`;
+  // O que falta confirmar para um edital sair da viabilidade C
+  const PEND = [['pePodeParticipar', 'residência'], ['atividadesPresenciais', 'encontros presenciais'], ['aulasSincronas', 'aulas ao vivo'], ['provasPresenciais', 'provas'], ['processoSeletivo', 'seleção'], ['polos', 'polos'], ['vagas', 'vagas'], ['taxa', 'taxa']];
+  const pendencias = o => { const p = PEND.filter(([k]) => /N[ÃA]O INFORMAD|PENDENTE/i.test(String(o[k] || ''))).map(([, l]) => l); if (/AGUARDANDO/i.test(o.situacao || '')) p.unshift('edital oficial'); return p; };
   function renderDest() {
     const el = $('#dest');
-    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && via(o) !== 'D'))
+    const more = $('#dest-more');
+    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && via(o) !== 'D' && matchUF(o)))
       .sort((x, y) => x.best.localeCompare(y.best) || ((x.fim ?? 9999) - (y.fim ?? 9999)));
-    $('#dest-sub').textContent = gs.length ? `${plural(gs.length, 'edital', 'editais')} com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C. Clique em “Inscrever-se” para ir direto à página oficial.` : 'Editais com inscrições abertas nas viabilidades A, B e C aparecem aqui.';
-    if (!gs.length) { el.innerHTML = `<p class="g-empty">${state.opps.length ? 'Nenhum edital compatível com inscrições abertas neste momento. Os registros de referência ficam mais abaixo.' : 'Carregando…'}</p>`; return; }
-    el.innerHTML = gs.map(g => {
+    const onde = state.uf ? ` em ${nomeFiltro(state.uf)}` : '';
+    $('#dest-sub').textContent = gs.length ? `${plural(gs.length, 'edital', 'editais')}${onde} com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C. Clique em “Inscrever-se” para ir direto à página oficial.` : 'Editais com inscrições abertas nas viabilidades A, B e C aparecem aqui.';
+    if (!gs.length) { more.hidden = true; el.innerHTML = `<p class="g-empty">${!state.opps.length ? 'Carregando…' : state.uf ? `Nenhum edital A, B ou C com inscrições abertas${esc(onde)}. Limpe o filtro de estado para ver os demais.` : 'Nenhum edital compatível com inscrições abertas neste momento. Os registros de referência ficam mais abaixo.'}</p>`; return; }
+    // Mostra só os prioritários; o restante fica atrás do botão "Ver todos"
+    const lim = matchMedia('(max-width:720px)').matches ? 4 : 8;
+    const vis = state.destAll ? gs : gs.slice(0, lim);
+    more.hidden = gs.length <= lim;
+    more.innerHTML = gs.length > lim ? `<button type="button" class="btn ghost small" aria-expanded="${state.destAll}">${state.destAll ? `Mostrar só os ${lim} prioritários ▴` : `Ver todos os ${gs.length} editais ▾`}</button>${state.destAll ? '' : `<span class="sub">Exibindo ${lim} de ${gs.length}, por ordem de prioridade</span>`}` : '';
+    const mb = more.querySelector('button');
+    if (mb) mb.addEventListener('click', () => { const ab = state.destAll; state.destAll = !ab; renderDest(); if (ab) $('#dest-title').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+    el.innerHTML = vis.map(g => {
       const o = g.o, fut = g.ph.k === 'futura', ini = daysTo(o.inscricaoInicio), fim = g.fim;
       const prazo = fut && ini > 0 ? `Abre em ${plural(ini, 'dia', 'dias')}` : fim === null ? 'Inscrição contínua' : fim === 0 ? 'Encerra hoje' : `Faltam ${plural(fim, 'dia', 'dias')}`;
       const urgente = !fut && fim !== null && fim <= 7;
       const titulo = g.items.length > 1 ? g.items.map(x => curto(x.curso)).join(' · ') : o.curso;
       const link = linkInsc(o);
+      const pm = marcosGrupo(g.items).find(m => daysTo(m.data) >= 0);
+      const pend = g.best === 'C' ? [...new Set(g.items.flatMap(pendencias))] : [];
       return `<article class="dcard v-${esc(g.best)}">
         <div class="dcard-top"><span class="grade g-${esc(g.best)}" title="${esc(VIAB[g.best])}">${esc(g.best)}</span><span class="dcard-deadline${urgente ? ' urg' : ''}">${esc(prazo)}</span></div>
         <h3><button type="button" class="dtitle" data-id="${esc(o.id)}" title="Ver ficha completa">${esc(titulo)}</button></h3>
         <p class="dcard-meta">${esc(o.instituicao)} · ${esc(o.estado)} · ${esc(o.tipo)}</p>
         <p class="dcard-date">${o.inscricaoFim ? `Inscrições até <b>${esc(fmt(o.inscricaoFim))}</b>` : 'Inscrições abertas'}</p>
+        ${pm ? `<p class="dcard-next${daysTo(pm.data) <= 7 ? ' urg' : ''}"><span class="mk" aria-hidden="true"></span>${esc(pm.evento)}: <b>${esc(fmtDM(parse(pm.data)))}</b> · ${esc(quando(daysTo(pm.data)))}</p>` : ''}
+        ${pend.length ? `<p class="dcard-pend"><b>Falta confirmar:</b> ${esc(pend.join(' · '))}</p>` : ''}
         <div class="dcard-actions">
           ${link ? `<a class="btn small" href="${esc(link)}" target="_blank" rel="noopener">Inscrever-se ↗</a>` : ''}
           ${o.linkEdital && o.linkEdital !== link ? `<a class="btn small ghost" href="${esc(o.linkEdital)}" target="_blank" rel="noopener">Edital ↗</a>` : ''}
@@ -110,7 +130,8 @@
     const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && (comD || via(o) !== 'D') && daysTo(o.inscricaoFim) !== null && matchUF(o)))
       .sort((x, y) => (x.fim - y.fim) || x.best.localeCompare(y.best));
     if (!gs.length) { el.innerHTML = `<p class="g-empty">Nenhum edital com inscrições abertas ou futuras${comD ? '' : ' nas viabilidades A, B ou C'}${state.uf ? ` em ${esc(nomeFiltro(state.uf))}` : ''}.</p>`; return; }
-    const maxFim = Math.max(...gs.map(g => g.fim));
+    const mkDias = g => marcosGrupo(g.items).map(m => ({ ...m, d: daysTo(m.data) })).filter(m => m.d >= 0 && m.d <= 60);
+    const maxFim = Math.max(...gs.map(g => Math.max(g.fim, ...mkDias(g).map(m => m.d))));
     const start = -14, end = Math.max(42, Math.min(119, Math.ceil((maxFim + 6) / 7) * 7));
     const pct = d => ((Math.min(Math.max(d, start), end) - start) / (end - start)) * 100;
     const ticks = []; for (let d = start; d <= end; d += 7) ticks.push(d);
@@ -129,10 +150,12 @@
       const sub = g.items.map(x => curto(x.curso)).join(' · ');
       const key = o.edital ? `${o.instituicao}|${o.edital}` : o.id;
       const dias = fut ? `abre em ${plural(ini, 'dia', 'dias')}` : fim === 0 ? 'encerra hoje' : `${plural(fim, 'dia', 'dias')}`;
-      const tip = `<b>${esc(nome)}</b>${esc(campus(o) || o.estado || '')}<br>Inscrições: ${esc(fmt(o.inscricaoInicio))} a ${esc(fmt(o.inscricaoFim))}<br>Viabilidade ${esc(g.best)} · ${esc(VIAB[g.best])}`;
+      const mks = mkDias(g).filter(m => m.d <= end);
+      const tip = `<b>${esc(nome)}</b>${esc(campus(o) || o.estado || '')}<br>Inscrições: ${esc(fmt(o.inscricaoInicio))} a ${esc(fmt(o.inscricaoFim))}${marcosGrupo(g.items).filter(m => daysTo(m.data) >= 0).map(m => `<br>◆ ${esc(m.evento)}: ${esc(fmt(m.data))}`).join('')}<br>Viabilidade ${esc(g.best)} · ${esc(VIAB[g.best])}`;
+      const mkHtml = mks.map(m => `<i class="g-mk" style="left:${pct(m.d)}%"></i>`).join('');
       return `<button type="button" class="g-row v-${esc(g.best)}" data-id="${esc(o.id)}" aria-current="${key === selKey}" data-tip="${esc(tip)}" aria-label="${esc(nome)}, inscrições até ${esc(fmt(o.inscricaoFim))}">
         <span class="g-lab"><b>${esc(nome)}</b><span>${esc(sub)}</span></span>
-        <span class="g-track">${gridHtml}${zone}<span class="g-bar${fut ? ' fut' : ''}${clipL ? ' clip-l' : ''}${clipR ? ' clip-r' : ''}" style="left:${left}%;width:${width}%">${remW ? `<span class="rem" style="width:${(remW / width) * 100}%"></span>` : ''}</span>${now}</span>
+        <span class="g-track">${gridHtml}${zone}<span class="g-bar${fut ? ' fut' : ''}${clipL ? ' clip-l' : ''}${clipR ? ' clip-r' : ''}" style="left:${left}%;width:${width}%">${remW ? `<span class="rem" style="width:${(remW / width) * 100}%"></span>` : ''}</span>${mkHtml}${now}</span>
         <span class="g-end${!fut && fim <= 7 ? ' urg' : ''}"><b>${esc(fmtDM(parse(o.inscricaoFim)))}</b><small>${esc(dias)}</small></span>
       </button>`;
     }).join('');
@@ -175,8 +198,12 @@
   }
   function setUF(f) {
     state.uf = state.uf === f ? '' : f;
+    state.destAll = false;
     $('#f-uf').value = state.uf;
-    renderUF(); renderGantt(); renderTable();
+    // Se a ficha aberta for de outro estado, troca pelo edital prioritário do recorte
+    const atual = state.opps.find(o => o.id === state.sel);
+    if (!atual || !matchUF(atual)) state.sel = (state.opps.filter(o => matchUF(o) && via(o) !== 'D' && phase(o).k !== 'enc').sort(byPriority)[0] || state.opps.filter(matchUF).sort(byPriority)[0] || atual)?.id || null;
+    renderUF(); renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs();
   }
   function renderUF() {
     const el = $('#ufmap');
@@ -317,6 +344,8 @@
         ${o.linkEdital && o.linkEdital !== o.linkInscricao ? `<a class="btn small ghost" href="${esc(o.linkEdital)}" target="_blank" rel="noopener">Abrir edital ↗</a>` : ''}
       </div>
       ${alerts.map(([c, t]) => `<div class="alertbox ${c}">${esc(t)}</div>`).join('')}
+      ${via(o) === 'C' && pendencias(o).length ? `<div class="alertbox pend"><b>Para sair do C, falta confirmar:</b> ${esc(pendencias(o).join(' · '))}.</div>` : ''}
+      ${marcos(o).length ? `<div class="sec"><h3>Calendário do edital</h3><ol class="cal">${[{ evento: 'Fim das inscrições', data: o.inscricaoFim }, ...marcos(o)].filter(m => parse(m.data)).sort((a, b) => String(a.data).localeCompare(String(b.data))).map(m => { const d = daysTo(m.data); return `<li class="${d < 0 ? 'past' : d <= 7 ? 'soon' : ''}"><span class="mono">${esc(fmt(m.data))}</span><span>${esc(m.evento)}</span><span class="when">${esc(quando(d))}</span></li>`; }).join('')}</ol></div>` : ''}
       <div class="sec pe"><h3>Elegibilidade para quem mora em Pernambuco</h3>${dl(o, SEC.pe)}</div>
       <div class="sec"><h3>Seleção</h3>${dl(o, SEC.sel)}</div>
       <div class="sec"><h3>Curso</h3>${dl(o, SEC.curso)}</div>
@@ -361,8 +390,8 @@
 
   // ---------- registros de referência (encerrados) ----------
   function renderRefs() {
-    const list = state.opps.filter(o => phase(o).k === 'enc').sort((a, b) => String(b.inscricaoFim).localeCompare(String(a.inscricaoFim)));
-    $('#refs-sub').textContent = list.length ? `${plural(list.length, 'edital encerrado mantido', 'editais encerrados mantidos')} para acompanhar as próximas turmas de cada instituição.` : 'Nenhum edital encerrado registrado ainda.';
+    const list = state.opps.filter(o => phase(o).k === 'enc' && matchUF(o)).sort((a, b) => String(b.inscricaoFim).localeCompare(String(a.inscricaoFim)));
+    $('#refs-sub').textContent = list.length ? `${plural(list.length, 'edital encerrado mantido', 'editais encerrados mantidos')} para acompanhar as próximas turmas de cada instituição.` : state.uf ? `Nenhum edital encerrado registrado em ${nomeFiltro(state.uf)}.` : 'Nenhum edital encerrado registrado ainda.';
     $('#refs').innerHTML = list.length ? list.map(o => `<tr data-id="${esc(o.id)}" aria-current="${o.id === state.sel}">
         <td><span class="grade g-${esc(via(o))}" title="${esc(VIAB[via(o)])}">${esc(via(o))}</span></td>
         <td class="c-op"><div class="op-name">${esc(inst(o))}${campus(o) ? ` <span class="op-meta">· ${esc(campus(o))}</span>` : ''}</div><div class="op-meta">${esc(o.curso)}</div></td>

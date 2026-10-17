@@ -314,3 +314,20 @@ dl.fields > :nth-last-child(-n+2){border-bottom:0}
   .regs li{grid-template-columns:minmax(0,1fr) auto}
   .reg-bar,.reg-chips{grid-column:1 / -1}
 }
+.dest-more{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:center;padding:0 18px 18px;margin-top:-4px}
+/* Prazos do edital e pendências */
+.dcard-next{margin:0;font-size:13.5px;color:var(--ink-2)}
+.dcard-next .mk{margin:0 7px 1px 1px;vertical-align:middle}
+.dcard-next.urg b{color:var(--vD)}
+.mk,.sw-mk{display:inline-block;flex:none;width:8px;height:8px;background:var(--ink);transform:rotate(45deg);border-radius:1px}
+.dcard-pend{margin:0;font-size:12.5px;line-height:1.45;color:var(--ink-2);background:var(--vC-soft);border-radius:6px;padding:6px 9px}
+.g-mk{position:absolute;top:8px;width:10px;height:10px;margin-left:-5px;background:var(--ink);transform:rotate(45deg);border:2px solid var(--surface);border-radius:2px;z-index:3}
+.alertbox.pend{background:var(--vC-soft);border-left-color:var(--vC);color:var(--ink-2)}
+.alertbox.pend b{color:var(--ink)}
+ol.cal{list-style:none;margin:0;padding:0}
+ol.cal li{display:grid;grid-template-columns:92px minmax(0,1fr) auto;gap:10px;padding:7px 0;border-bottom:1px solid var(--line);font-size:14px;align-items:baseline}
+ol.cal li:last-child{border-bottom:0}
+ol.cal .mono{font-size:13px;color:var(--ink-2)}
+ol.cal .when{font-size:12.5px;color:var(--muted)}
+ol.cal li.past{color:var(--muted)} ol.cal li.past span:nth-child(2){text-decoration:line-through}
+ol.cal li.soon .when{color:var(--vD);font-weight:600}

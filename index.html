@@ -54,25 +54,27 @@
 <main class="wrap">
   <p class="toast-line" id="refresh-msg" role="status"></p>
 
+  <section class="panel" aria-labelledby="uf-title">
+    <div class="panel-head">
+      <div>
+        <h2 id="uf-title">Editais por estado</h2>
+        <p class="sub">Editais com inscrições abertas ou com abertura confirmada em cada estado. Clique num estado ou região para filtrar o painel inteiro: inscrições abertas, cronograma, lista e registros de referência.</p>
+      </div>
+      <span class="uf-flag" hidden></span>
+    </div>
+    <div class="uf-grid" id="ufmap"></div>
+  </section>
+
   <section class="panel" aria-labelledby="dest-title">
     <div class="panel-head">
       <div>
         <h2 id="dest-title">Inscrições abertas para você</h2>
         <p class="sub" id="dest-sub">Editais com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C, em ordem de prioridade.</p>
       </div>
-    </div>
-    <div class="dest" id="dest"></div>
-  </section>
-
-  <section class="panel" aria-labelledby="uf-title">
-    <div class="panel-head">
-      <div>
-        <h2 id="uf-title">Editais por estado</h2>
-        <p class="sub">Editais com inscrições abertas ou com abertura confirmada em cada estado. Clique num estado ou região para filtrar o cronograma e a lista.</p>
-      </div>
       <span class="uf-flag" hidden></span>
     </div>
-    <div class="uf-grid" id="ufmap"></div>
+    <div class="dest" id="dest"></div>
+    <div class="dest-more" id="dest-more" hidden></div>
   </section>
 
   <section class="panel" aria-labelledby="g-title">
@@ -87,6 +89,7 @@
         <span><i class="sw sw-C"></i>C · Pendente</span>
         <span><i class="sw sw-fut"></i>Ainda não abriu</span>
         <span><i class="sw sw-today"></i>Hoje</span>
+        <span><i class="sw-mk"></i>Outros prazos (isenção, prova…)</span>
         <label class="chk"><input type="checkbox" id="g-d"> Mostrar D</label>
         <span class="uf-flag" hidden></span>
       </div>
@@ -155,6 +158,7 @@
         <h2 id="refs-title">Registros de referência</h2>
         <p class="sub" id="refs-sub">Editais encerrados mantidos para acompanhar as próximas turmas de cada instituição.</p>
       </div>
+      <span class="uf-flag" hidden></span>
     </div>
     <div class="table-scroll">
       <table class="table refs">

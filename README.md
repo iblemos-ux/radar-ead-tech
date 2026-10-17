@@ -10,6 +10,7 @@ Monitor de editais **gratuitos**, na modalidade **EaD**, em tecnologia (IA, Ciê
 | `style.css` | Visual (cores, fontes, layout, tema claro e escuro) |
 | `app.js` | Lógica: filtros, prioridade, prazos, ficha do edital e acompanhamento |
 | `dados.json` | Oportunidades e histórico de verificações, atualizados todo dia pela varredura automatizada |
+| `validar.py` | Confere o `dados.json` (datas, campos obrigatórios, ids, viabilidade) antes de cada publicação: `python3 validar.py` |
 
 O acompanhamento pessoal (interesse, inscrição, anotações) fica salvo apenas no navegador de quem usa a página.
 
