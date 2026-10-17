@@ -2049,13 +2049,65 @@
           "data": "2027-03-31"
         }
       ]
+    },
+    {
+      "id": "ifg-anapolis-44-2026-esp-ia",
+      "curso": "Especialização em Inteligência Artificial Aplicada (presencial em Anápolis, até 20% EaD)",
+      "instituicao": "IFG · Campus Anápolis",
+      "estado": "GO",
+      "tipo": "Especialização",
+      "area": "Inteligência Artificial",
+      "edital": "Edital nº 44/2026-PROPPG (ingresso 2027/1)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-09-04",
+      "inscricaoFim": "2026-10-25",
+      "cargaHoraria": "420 h (360 h de disciplinas + 60 h de TCC), até 4 semestres (item 2.4)",
+      "vagas": "30, sendo 10% reservadas a servidores do IFG (item 4)",
+      "mensalidade": "Gratuito; inscrição e matrícula sem custo (itens 5.1 e 9.1)",
+      "taxa": "Sem taxa de inscrição (item 5.1)",
+      "certificado": "Certificado de Especialista em Inteligência Artificial Aplicada (IFG)",
+      "polos": "IFG Campus Anápolis (GO)",
+      "pePodeParticipar": "Inscrição sim (o edital não restringe residência), mas a participação exige frequência presencial semanal em Anápolis (GO)",
+      "atividadesPresenciais": "Sim, obrigatórias: curso presencial no Campus Anápolis com até 20% EaD (itens 2.2 e 2.3); aulas às quintas 19h–22h, sextas 14h–17h e 18h–21h e alguns sábados de manhã (item 2.5)",
+      "aulasSincronas": "NÃO INFORMADO (o edital só limita o EaD a 20% da carga horária)",
+      "provasPresenciais": "Sim: prova de conhecimento presencial em 14/11/2026, 8h às 11h, no Campus Anápolis (itens 6.7.2 e 6.7.4); assinatura presencial da matrícula em janeiro de 2027",
+      "processoSeletivo": "Etapa 1: análise documental; etapa 2: prova com 20 questões objetivas (algoritmos, programação e raciocínio lógico), até 60 avançam; etapa 3: análise curricular pelo Lattes. Nota final = prova + currículo (itens 6 e 7.1). Preferência por graduados em computação ou TI (item 3)",
+      "viabilidade": "D",
+      "linkEdital": "https://www.ifg.edu.br/attachments/article/47733/Edital%20Intelig%C3%AAncia%20Artificial%202026.pdf",
+      "linkInscricao": "http://www.ifg.edu.br/estude-no-ifg/selecoes-em-andamento/pos-graduacao",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "Gratuito, mas incompatível com residência em Recife: aulas presenciais semanais em Anápolis/GO (itens 2.2, 2.3 e 2.5) e prova presencial em 14/11/2026. Resultado final da análise curricular em 17/12/2026; matrícula em janeiro de 2027; início das aulas em 11/02/2027. O cronograma do edital deixa em branco a data do resultado final do processo.",
+      "fontes": [
+        "https://www.ifg.edu.br/attachments/article/47733/Edital%20Intelig%C3%AAncia%20Artificial%202026.pdf",
+        "https://ia.ifg.edu.br/",
+        "https://www.pebsp.com/instituto-federal-oferece-especializacao-gratuita-em-inteligencia-artificial-com-selecao-simplificada-dcs/"
+      ],
+      "primeiraDeteccao": "2026-10-17",
+      "marcos": [
+        {
+          "evento": "Prova de conhecimento (presencial em Anápolis/GO)",
+          "data": "2026-11-14"
+        },
+        {
+          "evento": "Resultado final da análise curricular",
+          "data": "2026-12-17"
+        },
+        {
+          "evento": "Matrícula (assinatura presencial)",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-11"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-17",
-      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 08h50 (ajuste manual): +1 Especialização em IA do IFMG Ouro Preto (Edital 1100/2026, gratuita, híbrida com aulas presenciais semanais em Ouro Preto/MG, viabilidade D); a varredura não a encontrou.",
-      "novas": 1,
+      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 08h50 (ajuste manual): +1 Especialização em IA do IFMG Ouro Preto (Edital 1100/2026, gratuita, híbrida com aulas presenciais semanais em Ouro Preto/MG, viabilidade D); a varredura não a encontrou. +1 Especialização em IA Aplicada do IFG Anápolis (Edital 44/2026-PROPPG, gratuita, presencial em Anápolis/GO, D), também não encontrada pela varredura. Edital 36/2026 do IF Sudeste MG (técnicos EaD) conferido: sem curso de TI.",
+      "novas": 2,
       "fontesConsultadas": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view",
@@ -2063,7 +2115,9 @@
         "https://www.f5cariri.com.br/",
         "https://infoeducacao.com.br/",
         "https://portal.cin.ufpe.br/",
-        "https://www.ifmg.edu.br/portal/noticias/vagas-abertas-em-pos-graduacao-gratuita-em-inteligencia-artificial"
+        "https://www.ifmg.edu.br/portal/noticias/vagas-abertas-em-pos-graduacao-gratuita-em-inteligencia-artificial",
+        "https://www.ifg.edu.br/attachments/article/47733/Edital%20Intelig%C3%AAncia%20Artificial%202026.pdf",
+        "https://www.ifsudestemg.edu.br/noticias/reitoria/2026/9/if-sudeste-mg-publica-novas-vagas-em-edital-de-cursos-tecnicos-a-distancia"
       ]
     },
     {
