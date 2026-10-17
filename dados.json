@@ -2193,7 +2193,7 @@
       "viabilidade": "C",
       "linkEdital": "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
       "linkInscricao": "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial do IFRS Bento não pôde ser lida nesta execução. Mesmo lote e formulário dos cursos já registrados \"IA local\" e \"Python na prática\" (ifrs-bento-ext-2026-*). Tema de hardware, marginal ao escopo.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial do IFRS Bento não pôde ser lida nesta execução. Mesmo lote e formulário dos cursos já registrados \"IA local\" e \"Python na prática\" (ifrs-bento-ext-2026-*). Tema de hardware, marginal ao escopo. 17/10 (12h58): nova tentativa; página oficial ifrs.edu.br/bento seguiu inacessível à leitura automática. PEBSP (10/10) confirma o curso no mesmo lote (20 h, Moodle, inscrições até 27/10, aulas 02/11–07/12). Falta ler: https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/",
       "fontes": [
         "https://www.pebsp.com/ifrs-abre-inscricoes-para-cursos-de-extensao-gratuitos-e-ead-em-inovacao-e-tecnologia-dcs/",
         "https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/"
@@ -2227,7 +2227,7 @@
       "viabilidade": "C",
       "linkEdital": "https://cursoslivres.ifms.edu.br/",
       "linkInscricao": "https://cursoslivres.ifms.edu.br/",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a plataforma cursoslivres.ifms.edu.br não pôde ser lida nesta execução. Fontes secundárias (Midiamax 01/10/2026; Blog do Vestibular 14/09/2026): inscrições até 05/12/2026 e conclusão até 17/12/2026; outros cursos de TI citados: Jogos 2D com Unity, MATLAB, IPv6 Básico, Arduino.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a plataforma cursoslivres.ifms.edu.br não pôde ser lida nesta execução. Fontes secundárias (Midiamax 01/10/2026; Blog do Vestibular 14/09/2026): inscrições até 05/12/2026 e conclusão até 17/12/2026; outros cursos de TI citados: Jogos 2D com Unity, MATLAB, IPv6 Básico, Arduino. 17/10 (12h58): cursoslivres.ifms.edu.br seguiu inacessível à leitura automática.",
       "fontes": [
         "https://cursoslivres.ifms.edu.br/"
       ]
@@ -2260,7 +2260,7 @@
       "viabilidade": "C",
       "linkEdital": "https://cursoslivres.ifms.edu.br/",
       "linkInscricao": "https://cursoslivres.ifms.edu.br/",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a plataforma cursoslivres.ifms.edu.br não pôde ser lida nesta execução. Fontes secundárias (Midiamax 01/10/2026; Blog do Vestibular 14/09/2026): inscrições até 05/12/2026 e conclusão até 17/12/2026; outros cursos de TI citados: Jogos 2D com Unity, MATLAB, IPv6 Básico, Arduino.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a plataforma cursoslivres.ifms.edu.br não pôde ser lida nesta execução. Fontes secundárias (Midiamax 01/10/2026; Blog do Vestibular 14/09/2026): inscrições até 05/12/2026 e conclusão até 17/12/2026; outros cursos de TI citados: Jogos 2D com Unity, MATLAB, IPv6 Básico, Arduino. 17/10 (12h58): cursoslivres.ifms.edu.br seguiu inacessível à leitura automática.",
       "fontes": [
         "https://cursoslivres.ifms.edu.br/"
       ]
@@ -2398,13 +2398,47 @@
         "https://www.ifes.edu.br/",
         "https://drive.google.com/file/d/1r6ZIi9nOP0NlmgdLvxm61php1_jmiQVh/view"
       ]
+    },
+    {
+      "id": "uem-unicentro-14-2026-esp-ia-admpublica",
+      "curso": "Especialização em Inteligência Artificial Aplicada à Administração Pública (EaD)",
+      "instituicao": "UEM e Unicentro (SEAP/SETI-PR)",
+      "estado": "PR",
+      "tipo": "Especialização",
+      "area": "Inteligência Artificial",
+      "edital": "Edital Conjunto nº 14/2026 SEAP/SETI, retificado pelo Edital nº 16/2026",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-07-25",
+      "inscricaoFim": "2026-08-18",
+      "cargaHoraria": "390 h; 18 meses (itens 2.1 e 2.2)",
+      "vagas": "400 (200 polo Maringá/UEM; 200 polo Guarapuava/Unicentro) (item 3.1)",
+      "mensalidade": "Gratuito, com ressarcimento de R$ 5.017,73 em caso de desistência, reprovação ou saída do serviço estadual antes de 2 anos (itens 9.1 e 9.2)",
+      "taxa": "NÃO INFORMADO (edital não menciona taxa)",
+      "certificado": "Certificado de especialização lato sensu",
+      "polos": "Maringá (UEM) e Guarapuava (Unicentro), PR",
+      "pePodeParticipar": "Não. Restrita a servidores efetivos do Poder Executivo do Paraná (itens 4.1.1 e 4.2)",
+      "atividadesPresenciais": "Encontros nos polos quando necessários e apresentação de TCC em evento específico (Anexo I, itens 3c e 3e)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "NÃO INFORMADO",
+      "processoSeletivo": "1ª etapa: verificação documental (Escola de Gestão); 2ª etapa: ordem de data e hora da inscrição (item 6). Aulas iniciadas em 28/09/2026",
+      "viabilidade": "D",
+      "linkEdital": "https://portal.nead.uem.br/site/web/images/_459eF3d/20260728_193655-2026_edital_conjunto_14_2026_seap_seti_especializacao_em_inteligencia_artificial_uem_retificado_edital_16_2026docx1.pdf",
+      "linkInscricao": "https://www.administracao.pr.gov.br/Escola-de-Gestao/Pagina/Curso-de-Especializacao-em-Inteligencia-Artificial-Aplicada-Administracao",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "Registro de referência. Oferta restrita a servidores do Executivo estadual do PR, incompatível com o público do radar. Primeira oferta localizada desta especialização em parceria SEAP/SETI; periodicidade não informada.",
+      "fontes": [
+        "https://portal.nead.uem.br/site/web/images/_459eF3d/20260728_193655-2026_edital_conjunto_14_2026_seap_seti_especializacao_em_inteligencia_artificial_uem_retificado_edital_16_2026docx1.pdf",
+        "https://www.pebsp.com/2-editais-de-especializacao-somam-550-vagas-e-encerram-inscricoes-nesta-semana-veja-cursos-e-prazos/"
+      ],
+      "primeiraDeteccao": "2026-10-17",
+      "marcos": []
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-17",
-      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 08h50 (ajuste manual): +1 Especialização em IA do IFMG Ouro Preto (Edital 1100/2026, gratuita, híbrida com aulas presenciais semanais em Ouro Preto/MG, viabilidade D); a varredura não a encontrou. +1 Especialização em IA Aplicada do IFG Anápolis (Edital 44/2026-PROPPG, gratuita, presencial em Anápolis/GO, D), também não encontrada pela varredura. Edital 36/2026 do IF Sudeste MG (técnicos EaD) conferido: sem curso de TI. 11h55 (sob demanda; portais CO/SE; 11 itens de TI dos agregadores conferidos): +2 abertas — EV.G \"Eixo 4 – IA, Machine Learning e Aplicações Éticas\" (A), Residência em TIC UFCA (D, prova e imersão presenciais no CE), e 3 aguardando confirmação oficial (IFRS Bento manutenção de computadores; IFMS Cursos Livres IA e Ciência de Dados); +3 registros de referência (IFSULDEMINAS Três Corações Ed. 147/2026 Informática para Internet; IFSULDEMINAS Passos Ed. 123/2026 Esp. Desenvolvimento Web; Ifes Alegre Ed. 03/2026 ADS). Pendências C resolvidas: EV.G \"IA e Transformação Digital\" C→A; IFCE Ed. 22/2026 C→D (aulas presenciais semanais no campus). IF Baiano Catu: cronograma retificado detalhado, segue C. Conferidos sem inclusão: Uece/Dell IA (encerrado 12/10), IFSC Esp. Computação Científica (presencial em Florianópolis), UFMA Esp. Tecnologias Digitais (educação), IFSULDEMINAS Ed. 229/2026 (pós EaD sem IA/dados), UFG Esp. Data Science e BPM/IA (pagas). Páginas iniciais de PEBSP e Guia da Pós bloquearam leitura; cobertura por buscas.",
-      "novas": 10,
+      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 08h50 (ajuste manual): +1 Especialização em IA do IFMG Ouro Preto (Edital 1100/2026, gratuita, híbrida com aulas presenciais semanais em Ouro Preto/MG, viabilidade D); a varredura não a encontrou. +1 Especialização em IA Aplicada do IFG Anápolis (Edital 44/2026-PROPPG, gratuita, presencial em Anápolis/GO, D), também não encontrada pela varredura. Edital 36/2026 do IF Sudeste MG (técnicos EaD) conferido: sem curso de TI. 11h55 (sob demanda; portais CO/SE; 11 itens de TI dos agregadores conferidos): +2 abertas — EV.G \"Eixo 4 – IA, Machine Learning e Aplicações Éticas\" (A), Residência em TIC UFCA (D, prova e imersão presenciais no CE), e 3 aguardando confirmação oficial (IFRS Bento manutenção de computadores; IFMS Cursos Livres IA e Ciência de Dados); +3 registros de referência (IFSULDEMINAS Três Corações Ed. 147/2026 Informática para Internet; IFSULDEMINAS Passos Ed. 123/2026 Esp. Desenvolvimento Web; Ifes Alegre Ed. 03/2026 ADS). Pendências C resolvidas: EV.G \"IA e Transformação Digital\" C→A; IFCE Ed. 22/2026 C→D (aulas presenciais semanais no campus). IF Baiano Catu: cronograma retificado detalhado, segue C. Conferidos sem inclusão: Uece/Dell IA (encerrado 12/10), IFSC Esp. Computação Científica (presencial em Florianópolis), UFMA Esp. Tecnologias Digitais (educação), IFSULDEMINAS Ed. 229/2026 (pós EaD sem IA/dados), UFG Esp. Data Science e BPM/IA (pagas). Páginas iniciais de PEBSP e Guia da Pós bloquearam leitura; cobertura por buscas. 12h58 (portais CO/SE; ~12 itens de agregadores conferidos): nenhuma oportunidade nova aberta; +1 registro de referência (Esp. IA Aplicada à Administração Pública UEM/Unicentro, Ed. Conjunto 14/2026, restrita a servidores do PR, D). Pendências C (IFRS Bento manutenção, IFMS Cursos Livres, IFSULDEMINAS FIC IA) seguem bloqueadas à leitura automática. Conferidos sem inclusão: UFRGS Esp. IA Avançada (paga), IFB Swift (encerrado em fev/2026), UFPE Python PET (2023), IFSULDEMINAS Poços FIC ENA (não é TI), UnB EaD 2027 (sem TI), IFG Ed. 047/2025 (edição anterior do curso já registrado).",
+      "novas": 11,
       "fontesConsultadas": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view",
@@ -2423,7 +2457,10 @@
         "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-catu-2027/",
         "https://www.ufca.edu.br/noticias/",
         "https://www.uece.br/noticias/uece-e-dell-oferecem-5-mil-vagas-gratuitas-em-cursos-de-inteligencia-artificial/",
-        "https://portal.ifsuldeminas.edu.br/"
+        "https://portal.ifsuldeminas.edu.br/",
+        "https://portal.nead.uem.br/site/web/images/_459eF3d/20260728_193655-2026_edital_conjunto_14_2026_seap_seti_especializacao_em_inteligencia_artificial_uem_retificado_edital_16_2026docx1.pdf",
+        "https://www.inf.ufrgs.br/site/wp-content/uploads/2026/08/Especializacao-IAA-Edital-de-Selecao-2026.pdf",
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/09/Edital-No-12.pdf"
       ]
     },
     {
