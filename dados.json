@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16",
+  "atualizadoEm": "2026-10-17",
   "oportunidades": [
     {
       "id": "ifsuldeminas-inconfidentes-50-2026-fic-ia",
@@ -26,13 +26,19 @@
       "viabilidade": "C",
       "linkEdital": "https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais",
       "linkInscricao": "https://suap.ifsuldeminas.edu.br/inscricoesfic/efetuar_inscricao/4141/",
-      "dataVerificacao": "2026-10-15",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever. 15/10: nova tentativa de confirmação; portal de extensão do campus continua inacessível à leitura automática.",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever. 15/10: nova tentativa de confirmação; portal de extensão do campus continua inacessível à leitura automática. 17/10: portal de extensão do campus e SUAP seguem inacessíveis à leitura automática; falta ler a página https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais (Edital 50/2026 e Retificação 5/2026). Inscrições da Turma 3 terminam em 18/10.",
       "fontes": [
         "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html",
         "https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/"
       ],
-      "primeiraDeteccao": "2026-10-14"
+      "primeiraDeteccao": "2026-10-14",
+      "marcos": [
+        {
+          "evento": "Início das aulas",
+          "data": "2026-10-19"
+        }
+      ]
     },
     {
       "area": "Inteligência Artificial",
@@ -73,7 +79,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 14/2026 (2ª retificação em 09/09/2026)",
       "estado": "BA",
       "fontes": [
@@ -86,13 +92,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital_Retificado_-_2C2AA_Retificacao_-_PROSEL_-_Cursos_Subsequentes_EaD_28SGC29_-_Campus_Valenca_-_Ano_de_Ingresso_28202729_28129_assinado.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/328/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Heteroidentificação telepresencial (item 10.8). Presencialidade das aulas não informada.",
+      "observacoes": "Heteroidentificação telepresencial (item 10.8). Presencialidade das aulas não informada. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO. Edital não restringe residência; matrícula exige comprovante ou declaração de domicílio (item 9.7.1, VI)",
       "polos": "Valença, Aratuípe, Camamu, Jaguaripe, Nazaré e Nilo Peçanha (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse por ordem de inscrição, sem prova (itens 1.7, 8.1). Inscrição online (item 4.5). Resultado final 19/11/2026; aulas previstas 01/03/2027",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "180 (30 por polo)",
@@ -112,7 +118,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Redes de Computadores (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 14/2026 (2ª retificação em 09/09/2026)",
       "estado": "BA",
       "fontes": [
@@ -125,13 +131,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital_Retificado_-_2C2AA_Retificacao_-_PROSEL_-_Cursos_Subsequentes_EaD_28SGC29_-_Campus_Valenca_-_Ano_de_Ingresso_28202729_28129_assinado.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/328/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Heteroidentificação telepresencial (item 10.8). Presencialidade das aulas não informada.",
+      "observacoes": "Heteroidentificação telepresencial (item 10.8). Presencialidade das aulas não informada. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO. Edital não restringe residência; matrícula exige comprovante ou declaração de domicílio (item 9.7.1, VI)",
       "polos": "Valença, Aratuípe, Camamu, Jaguaripe, Nazaré e Nilo Peçanha (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse por ordem de inscrição, sem prova (itens 1.7, 8.1). Inscrição online (item 4.5). Resultado final 19/11/2026; aulas previstas 01/03/2027",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "180 (30 por polo)",
@@ -229,7 +235,7 @@
       "cargaHoraria": "3 semestres (turno noturno, Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 25/2026, de 25/08/2026",
       "estado": "BA",
       "fontes": [
@@ -242,13 +248,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital_EaD.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/328/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Requisito: ensino médio concluído até a matrícula (itens 1.4 e 1.5). Edital tem inconsistências (item 2.2 fala em horário diurno, Quadro 2 indica noturno; menções a 2026). Logística presencial não confirmada para residente de PE (Santa Inês fica no sudoeste da Bahia).",
+      "observacoes": "Requisito: ensino médio concluído até a matrícula (itens 1.4 e 1.5). Edital tem inconsistências (item 2.2 fala em horário diurno, Quadro 2 indica noturno; menções a 2026). Logística presencial não confirmada para residente de PE (Santa Inês fica no sudoeste da Bahia). 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO — edital não impõe restrição de residência; matrícula exige comprovante de residência ou declaração de domicílio (item 9.7.1, VI)",
       "polos": "Campus Santa Inês (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse por ordem de inscrição, sem prova (itens 1.7 e 8.1); desempate por maior idade (8.4). Heteroidentificação presencial 03–06/11/2026 para cotas PPI (item 10.8). Resultado final 19/11/2026; edital de matrícula 04/12/2026; aulas previstas para março/2027",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "40 (Campus Santa Inês)",
@@ -272,7 +278,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 32/2026",
       "estado": "BA",
       "fontes": [
@@ -285,13 +291,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/EDITAL-SUSBSEQUENTE-MODALIDADE-EAD-INGRESSO-2027.pdf",
       "linkInscricao": "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-2027-guanambi/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Encontro presencial semanal no sudoeste da Bahia torna o curso incompatível com residência em PE.",
+      "observacoes": "Encontro presencial semanal no sudoeste da Bahia torna o curso incompatível com residência em PE. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "Inscrição permitida (sem restrição de residência), mas inviável na prática: encontro presencial semanal no polo (item 2.2)",
       "polos": "Guanambi e Caculé (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Ordem de inscrição e manifestação de interesse (itens 1.7, 7.1). Lista preliminar 23/10/2026; aulas previstas fev/2027",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "100 (50 Guanambi + 50 Caculé)",
@@ -305,7 +311,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Redes de Computadores (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 32/2026",
       "estado": "BA",
       "fontes": [
@@ -318,13 +324,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/EDITAL-SUSBSEQUENTE-MODALIDADE-EAD-INGRESSO-2027.pdf",
       "linkInscricao": "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-2027-guanambi/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Encontro presencial semanal no sudoeste da Bahia torna o curso incompatível com residência em PE.",
+      "observacoes": "Encontro presencial semanal no sudoeste da Bahia torna o curso incompatível com residência em PE. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "Inscrição permitida (sem restrição de residência), mas inviável na prática: encontro presencial semanal no polo (item 2.2)",
       "polos": "Guanambi (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Ordem de inscrição e manifestação de interesse (itens 1.7, 7.1). Lista preliminar 23/10/2026; aulas previstas fev/2027",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "50",
@@ -338,7 +344,7 @@
       "cargaHoraria": "NÃO INFORMADO",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital 37/2026",
       "estado": "BA",
       "fontes": [
@@ -351,13 +357,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital-N-37_2026-de-25-de-agosto-de-2026-PROSEL-SUBSEQUENTE-EAD-BOM-JESUS-DA-LAPA.pdf",
       "linkInscricao": "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-bom-jesus-da-lapa-2027/",
       "mensalidade": "PENDENTE DE CONFIRMAÇÃO (instituição federal; conferir no edital)",
-      "observacoes": "Inscrição presencial no campus (BR 349, Km 14), dias úteis 8h–12h e 13h–14h. A página tem botão para o sistema sgc.ifbaiano.edu.br, sem dizer que a inscrição online é aceita. Se a inscrição for só presencial, passa a D.",
+      "observacoes": "Inscrição presencial no campus (BR 349, Km 14), dias úteis 8h–12h e 13h–14h. A página tem botão para o sistema sgc.ifbaiano.edu.br, sem dizer que a inscrição online é aceita. Se a inscrição for só presencial, passa a D. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO. A página oficial não cita residência, mas descreve a inscrição como presencial no campus",
       "polos": "Bom Jesus da Lapa e Santa Maria da Vitória (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse, sem prova. Lista preliminar 23/10/2026, resultado final 19/11/2026, pré-matrícula 23/11/2026, aulas a partir de 01/02/2027. Exige Ensino Médio concluído",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa",
       "tipo": "Técnico",
       "vagas": "80 (40 por polo)",
@@ -389,7 +395,7 @@
       "cargaHoraria": "NÃO INFORMADO",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Redes de Computadores (subsequente)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital 37/2026",
       "estado": "BA",
       "fontes": [
@@ -401,13 +407,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Edital-N-37_2026-de-25-de-agosto-de-2026-PROSEL-SUBSEQUENTE-EAD-BOM-JESUS-DA-LAPA.pdf",
       "linkInscricao": "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-bom-jesus-da-lapa-2027/",
       "mensalidade": "PENDENTE DE CONFIRMAÇÃO (instituição federal; conferir no edital)",
-      "observacoes": "Mesmo edital do Técnico em Informática e mesma ressalva sobre inscrição presencial no campus.",
+      "observacoes": "Mesmo edital do Técnico em Informática e mesma ressalva sobre inscrição presencial no campus. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO. A página oficial não cita residência, mas descreve a inscrição como presencial no campus",
       "polos": "Bom Jesus da Lapa e Santa Maria da Vitória (BA)",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse, sem prova. Lista preliminar 23/10/2026, resultado final 19/11/2026, pré-matrícula 23/11/2026, aulas a partir de 01/02/2027. Exige Ensino Médio concluído",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa",
       "tipo": "Técnico",
       "vagas": "80 (40 por polo)",
@@ -439,7 +445,7 @@
       "cargaHoraria": "NÃO INFORMADO",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente EaD)",
-      "dataVerificacao": "2026-10-11",
+      "dataVerificacao": "2026-10-17",
       "edital": "Edital nº 39/2026",
       "estado": "BA",
       "fontes": [
@@ -451,13 +457,13 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/08/Documento.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/328/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Dados extraídos da página oficial do processo; edital em PDF ainda não analisado item a item.",
+      "observacoes": "Dados extraídos da página oficial do processo; edital em PDF ainda não analisado item a item. 17/10/2026: inscrições encerradas em 2026-10-16 (sem prorrogação localizada).",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
       "polos": "NÃO INFORMADO",
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Manifestação de interesse, sem custo. Homologação 23/10; heteroidentificação 03–06/11; resultado final 19/11/2026",
       "provasPresenciais": "NÃO INFORMADO",
-      "situacao": "PRAZO ENCERRANDO",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "taxa": "Sem taxa (item 4.11)",
       "tipo": "Técnico",
       "vagas": "50",
@@ -776,8 +782,8 @@
       "viabilidade": "C",
       "linkEdital": "https://qselecao.ifce.edu.br/download.aspx?cod_arquivo_download=74657",
       "linkInscricao": "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9543",
-      "dataVerificacao": "2026-10-11",
-      "observacoes": "Curso e prazo confirmados na página oficial do Q-Seleção. Se os encontros presenciais de 20% nos campi do Ceará se confirmarem, a classificação tende a D. Conferir Anexo I retificado (encontros) e cronograma (Anexo III). O UAB 2026.2 do IFCE em Tecnologia em Inteligência Artificial encerrou em 08/10/2026 e não foi registrado.",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "Curso e prazo confirmados na página oficial do Q-Seleção. Se os encontros presenciais de 20% nos campi do Ceará se confirmarem, a classificação tende a D. Conferir Anexo I retificado (encontros) e cronograma (Anexo III). O UAB 2026.2 do IFCE em Tecnologia em Inteligência Artificial encerrou em 08/10/2026 e não foi registrado. 17/10: nova tentativa; Q-Seleção do IFCE não pôde ser lido automaticamente. Falta ler o Anexo I retificado (encontros presenciais) do Edital 22/2026.",
       "fontes": [
         "https://qselecao.ifce.edu.br/",
         "https://qselecao.ifce.edu.br/concurso.aspx?cod_concurso=9543",
@@ -1770,30 +1776,31 @@
       "tipo": "Técnico",
       "area": "Tecnologia da Informação / Suporte e Redes",
       "edital": "Edital nº 41/2026 (Ingresso IFPE 2027.1, organizado pela FUNCERN)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-14",
       "inscricaoFim": "2026-11-12",
       "cargaHoraria": "PENDENTE DE CONFIRMAÇÃO",
-      "vagas": "30 (página oficial do Ingresso 2027.1 do IFPE: 30 vagas de técnico subsequente EaD no polo Recife); fonte secundária informa 40",
+      "vagas": "30 (Anexo A do Edital 41/2026)",
       "mensalidade": "Gratuito (instituição pública federal)",
-      "taxa": "R$ 10,00 para técnicos subsequentes segundo a notícia oficial do IFPE; isenção pode ser pedida de 14 a 26/10/2026; taxa específica do curso EaD PENDENTE DE CONFIRMAÇÃO",
+      "taxa": "R$ 10,00 para técnicos subsequentes, inclusive EaD (item 4.3 do Edital 41/2026); pagamento até 13/11/2026; isenção pode ser pedida de 14 a 26/10/2026",
       "certificado": "Diploma de técnico de nível médio (PENDENTE DE CONFIRMAÇÃO no edital)",
-      "polos": "Polo EaD Recife",
-      "pePodeParticipar": "Provavelmente sim (polo no Recife); PENDENTE DE CONFIRMAÇÃO no edital",
-      "atividadesPresenciais": "Encontros presenciais quinzenais aos sábados no polo Recife, segundo fonte secundária e registro anterior do item 1.2 do edital; PENDENTE DE CONFIRMAÇÃO",
+      "polos": "Polo EaD Recife (PE)",
+      "pePodeParticipar": "Sim. Vagas para o polo de Recife (item 1.2); requisito: ensino médio concluído até a matrícula",
+      "atividadesPresenciais": "Sim. Encontros presenciais no polo de Recife, previstos quinzenalmente aos sábados (Edital 41/2026, item 1.2)",
       "aulasSincronas": "NÃO INFORMADO",
-      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
-      "processoSeletivo": "Análise de histórico escolar (notas de Língua Portuguesa e Matemática, ou Enem 2017 a 2025) para técnicos subsequentes, segundo a notícia oficial do IFPE; sem prova",
-      "viabilidade": "C",
+      "provasPresenciais": "Não há prova no processo seletivo (análise de histórico escolar); avaliações do curso PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "Análise de histórico escolar para técnicos subsequentes e EaD (Edital 41/2026, \"Quem fará seleção por histórico escolar\"); sem prova; 60% das vagas para egressos de escola pública",
+      "viabilidade": "B",
       "linkEdital": "https://funcern.br/documents/2834/VERS%C3%83O_OFICIAL_-_edital_linguagem_simples_13out.pdf",
       "linkInscricao": "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
-      "dataVerificacao": "2026-10-15",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. O IFPE confirma oficialmente 30 vagas de um técnico subsequente EaD no polo Recife, mas o nome do curso (Manutenção e Suporte em Informática) só aparece no PEBSP; o PDF do edital (FUNCERN/Google Drive) recusou leitura automática nesta execução. Se confirmado, tende a viabilidade B (encontros presenciais quinzenais no Recife). Resultado final previsto para 29/12/2026 e matrícula a partir de janeiro de 2027.",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "O IFPE confirma oficialmente 30 vagas de um técnico subsequente EaD no polo Recife, mas o nome do curso (Manutenção e Suporte em Informática) só aparece no PEBSP; o PDF do edital (FUNCERN/Google Drive) recusou leitura automática nesta execução. Se confirmado, tende a viabilidade B (encontros presenciais quinzenais no Recife). Resultado final previsto para 29/12/2026 e matrícula a partir de janeiro de 2027. 17/10/2026: oferta CONFIRMADA no Anexo A do Edital 41/2026 (texto oficial lido via link do portal do IFPE): Técnico em Manutenção e Suporte em Informática, EaD, polo Recife, 30 vagas; seleção por histórico escolar; taxa R$ 10 (item 4.3); encontros presenciais quinzenais aos sábados no polo (item 1.2); início previsto das aulas no Polo EaD em 17/02/2027. Reclassificado de C para B (encontros presenciais em Recife).",
       "fontes": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://portal.ifpe.edu.br/ead/noticias/ifpe-oferece-4585-vagas-em-cursos-tecnicos-e-superiores-para-2027-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
-        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
+        "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view"
       ],
       "primeiraDeteccao": "2026-10-15",
       "marcos": [
@@ -1802,84 +1809,106 @@
           "data": "2026-10-26"
         },
         {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
           "evento": "Resultado final",
           "data": "2026-12-29"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-17"
         }
       ]
     },
     {
       "edital": "Edital nº 41/2026 (Processo de Ingresso IFPE 2027.1, organizado pela FUNCERN)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-14",
       "inscricaoFim": "2026-11-12",
       "cargaHoraria": "PENDENTE DE CONFIRMAÇÃO",
       "mensalidade": "Gratuito (instituição pública federal)",
       "estado": "PE",
-      "viabilidade": "C",
+      "viabilidade": "B",
       "linkEdital": "https://funcern.br/documents/2835/VERS%C3%83O_OFICIAL_-_edital_linguagem_simples_13out_2NjbCLE.pdf",
       "linkInscricao": "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
       "aulasSincronas": "Não se aplica (curso presencial)",
-      "dataVerificacao": "2026-10-16",
+      "dataVerificacao": "2026-10-17",
       "primeiraDeteccao": "2026-10-16",
       "id": "ifpe-41-2026-informatica-internet-jaboatao",
       "curso": "Técnico Subsequente em Informática para Internet (presencial)",
       "instituicao": "IFPE · Campus Jaboatão dos Guararapes",
       "tipo": "Técnico",
       "area": "Desenvolvimento Web / Programação",
-      "vagas": "40 (turno da tarde), segundo fonte secundária: PENDENTE DE CONFIRMAÇÃO no Anexo A",
+      "vagas": "40 (turno da tarde; Anexo A do Edital 41/2026)",
       "taxa": "R$ 10,00 para técnicos subsequentes (item 4.3 do edital); isenção pode ser pedida de 14 a 26/10/2026",
       "certificado": "Diploma de técnico de nível médio",
       "polos": "Campus Jaboatão dos Guararapes, Região Metropolitana do Recife (presencial)",
       "pePodeParticipar": "Sim. Requisito: ensino médio concluído até a matrícula, sem limite de idade (item 3 do edital); campus na RMR",
-      "atividadesPresenciais": "Sim. Curso presencial, aulas no turno da tarde segundo fonte secundária (PENDENTE DE CONFIRMAÇÃO)",
+      "atividadesPresenciais": "Sim. Curso presencial, turno da tarde (Anexo A do Edital 41/2026)",
       "provasPresenciais": "Não há prova no processo seletivo (análise de histórico escolar); curso presencial",
       "processoSeletivo": "Análise do histórico escolar para técnicos subsequentes (edital, item 1.2/2); 60% das vagas para egressos de escola pública",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária). Matriz curricular do curso no campus Jaboatão disponível no portal oficial do IFPE.",
+      "observacoes": "O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária). Matriz curricular do curso no campus Jaboatão disponível no portal oficial do IFPE. 17/10/2026: oferta CONFIRMADA no Anexo A do Edital 41/2026: Técnico Subsequente em Informática para Internet, campus Jaboatão, tarde, 40 vagas; início previsto das aulas no campus em 26/01/2027. Reclassificado de C para B (presencial na RMR).",
       "fontes": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
         "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
-        "https://portal.ifpe.edu.br/wp-content/uploads/repositoriolegado/jaboatao/documentos/matriz_curricular_info_para_internet_ifpe_jaboatao.pdf"
+        "https://portal.ifpe.edu.br/wp-content/uploads/repositoriolegado/jaboatao/documentos/matriz_curricular_info_para_internet_ifpe_jaboatao.pdf",
+        "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view"
       ],
       "marcos": [
         {
           "evento": "Pedido de isenção da taxa",
           "data": "2026-10-26"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-29"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-01-26"
         }
       ]
     },
     {
       "edital": "Edital nº 41/2026 (Processo de Ingresso IFPE 2027.1, organizado pela FUNCERN)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-14",
       "inscricaoFim": "2026-11-12",
       "cargaHoraria": "PENDENTE DE CONFIRMAÇÃO",
       "mensalidade": "Gratuito (instituição pública federal)",
       "estado": "PE",
-      "viabilidade": "C",
+      "viabilidade": "B",
       "linkEdital": "https://funcern.br/documents/2835/VERS%C3%83O_OFICIAL_-_edital_linguagem_simples_13out_2NjbCLE.pdf",
       "linkInscricao": "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
       "aulasSincronas": "Não se aplica (curso presencial)",
-      "dataVerificacao": "2026-10-16",
+      "dataVerificacao": "2026-10-17",
       "primeiraDeteccao": "2026-10-16",
       "id": "ifpe-41-2026-ads-jaboatao",
       "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (presencial)",
       "instituicao": "IFPE · Campus Jaboatão dos Guararapes",
       "tipo": "Graduação",
       "area": "ADS / Desenvolvimento de Sistemas",
-      "vagas": "36 (turno da noite), segundo fonte secundária: PENDENTE DE CONFIRMAÇÃO no Anexo A",
+      "vagas": "36 (turno da noite; Anexo A do Edital 41/2026)",
       "taxa": "R$ 55,00 para graduação (item 4.3 do edital); isenção pode ser pedida de 14 a 26/10/2026",
       "certificado": "Diploma de Tecnólogo em Análise e Desenvolvimento de Sistemas",
       "polos": "Campus Jaboatão dos Guararapes, Região Metropolitana do Recife (presencial)",
       "pePodeParticipar": "Sim. Processo aberto a candidatos com ensino médio; campus na RMR",
-      "atividadesPresenciais": "Sim. Curso presencial, aulas noturnas segundo fonte secundária (PENDENTE DE CONFIRMAÇÃO)",
+      "atividadesPresenciais": "Sim. Curso presencial, turno da noite (Anexo A do Edital 41/2026)",
       "provasPresenciais": "Sim. Prova do processo seletivo em 06/12/2026 (50 questões e redação); curso com aulas presenciais",
       "processoSeletivo": "Prova objetiva (50 questões) e redação em 06/12/2026; 60% das vagas para egressos de escola pública",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária). ",
+      "observacoes": "O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária).  17/10/2026: oferta CONFIRMADA no Anexo A do Edital 41/2026: Tecnologia em ADS, campus Jaboatão, noite, 36 vagas; taxa R$ 55 para graduação (item 4.3); prova em 06/12/2026; início previsto em 26/01/2027. Reclassificado de C para B (presencial na RMR).",
       "fontes": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
-        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
+        "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view"
       ],
       "marcos": [
         {
@@ -1893,41 +1922,50 @@
         {
           "evento": "Prova objetiva e redação",
           "data": "2026-12-06"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-29"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-01-26"
         }
       ]
     },
     {
       "edital": "Edital nº 41/2026 (Processo de Ingresso IFPE 2027.1, organizado pela FUNCERN)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-14",
       "inscricaoFim": "2026-11-12",
       "cargaHoraria": "PENDENTE DE CONFIRMAÇÃO",
       "mensalidade": "Gratuito (instituição pública federal)",
       "estado": "PE",
-      "viabilidade": "C",
+      "viabilidade": "B",
       "linkEdital": "https://funcern.br/documents/2835/VERS%C3%83O_OFICIAL_-_edital_linguagem_simples_13out_2NjbCLE.pdf",
       "linkInscricao": "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
       "aulasSincronas": "Não se aplica (curso presencial)",
-      "dataVerificacao": "2026-10-16",
+      "dataVerificacao": "2026-10-17",
       "primeiraDeteccao": "2026-10-16",
       "id": "ifpe-41-2026-tsi-igarassu",
       "curso": "Tecnologia em Sistemas para Internet (presencial)",
       "instituicao": "IFPE · Campus Igarassu",
       "tipo": "Graduação",
       "area": "Desenvolvimento Web / Sistemas para Internet",
-      "vagas": "40 (turno da manhã), segundo fonte secundária: PENDENTE DE CONFIRMAÇÃO no Anexo A",
+      "vagas": "40 (turno da manhã; Anexo A do Edital 41/2026)",
       "taxa": "R$ 55,00 para graduação (item 4.3 do edital); isenção pode ser pedida de 14 a 26/10/2026",
       "certificado": "Diploma de Tecnólogo em Sistemas para Internet",
       "polos": "Campus Igarassu, Região Metropolitana do Recife (presencial)",
       "pePodeParticipar": "Sim. Processo aberto a candidatos com ensino médio; campus na RMR",
-      "atividadesPresenciais": "Sim. Curso presencial, aulas pela manhã segundo fonte secundária (PENDENTE DE CONFIRMAÇÃO)",
+      "atividadesPresenciais": "Sim. Curso presencial, turno da manhã (Anexo A do Edital 41/2026)",
       "provasPresenciais": "Sim. Prova do processo seletivo em 06/12/2026 (50 questões e redação); curso com aulas presenciais",
       "processoSeletivo": "Prova objetiva (50 questões) e redação em 06/12/2026; 60% das vagas para egressos de escola pública",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária). ",
+      "observacoes": "O Edital 41/2026 (oficial) confirma vagas no campus e as regras gerais, mas a oferta deste curso, turno e vagas só aparecem no PEBSP: o Anexo A (quadro de vagas) não pôde ser lido nesta execução. Curso PRESENCIAL na Região Metropolitana do Recife; se confirmado, tende a viabilidade B (frequência presencial diária).  17/10/2026: oferta CONFIRMADA no Anexo A do Edital 41/2026: Tecnologia em Sistemas para Internet, campus Igarassu, manhã, 40 vagas; taxa R$ 55 para graduação (item 4.3); prova em 06/12/2026; início previsto em 04/02/2027. Reclassificado de C para B (presencial na RMR).",
       "fontes": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://funcern.br/concursos/processo-ingresso-ifpe-2027-1/",
-        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/"
+        "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
+        "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view"
       ],
       "marcos": [
         {
@@ -1941,11 +1979,32 @@
         {
           "evento": "Prova objetiva e redação",
           "data": "2026-12-06"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-29"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-04"
         }
       ]
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-17",
+      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial).",
+      "novas": 0,
+      "fontesConsultadas": [
+        "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
+        "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view",
+        "https://www.pebsp.com/",
+        "https://www.f5cariri.com.br/",
+        "https://infoeducacao.com.br/",
+        "https://portal.cin.ufpe.br/"
+      ]
+    },
     {
       "data": "2026-10-16",
       "resumo": "00h28 (sob demanda, primeira busca dedicada a cursos presenciais de TI na RMR): +3 aguardando confirmação oficial do IFPE Edital 41/2026 (Técnico Subsequente em Informática para Internet e ADS no campus Jaboatão; Sistemas para Internet no campus Igarassu), todos presenciais, inscrições até 12/11; oferta por campus só no PEBSP porque o Anexo A do edital não pôde ser lido. Demais campi da RMR (Recife, Cabo, Abreu e Lima, Ipojuca) sem curso de TI subsequente ou superior no 2027.1; Olinda oferta Computação Gráfica (fora da área). Cursos Petrobras/IFPE de outubro sem TI. UFPE, UFRPE, UPE e escolas técnicas estaduais sem seleção de TI aberta localizada. EaD: sem novidades (UnB UAB 2027 sem TI; IFSertãoPE 2027 sem TI EaD). Alerta de 7 dias enviado: IFCE Edital 22/2026 (Informática para Internet EaD, até 23/10). 06h58: nenhuma oportunidade nova de TI. Extensões EaD do IFRS Bento, IFNMG Técnico em IA, técnicos EaD do IF Sudeste MG (sem TI, até 19/10) e Vestibulinho Etec sem alteração; sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje, 16/10); FIC IA do IFSULDEMINAS Inconfidentes (até 18/10) e cursos do IFPE Edital 41/2026 seguem sem confirmação oficial (portal do IFPE não pôde ser lido nesta execução). Sem alertas de 7/3/1 dia pendentes (alerta de 7 dias do IFCE já enviado às 00h28). 12h58: nenhuma oportunidade nova de TI. PEBSP noticia reabertura até 20/10 da Especialização UFMA em Análise de Dados e IA (segue D por residência a até 100 km do polo no MA; reabertura sem confirmação oficial). Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); FIC IA do IFSULDEMINAS segue sem confirmação oficial; IFRS Bento, CPS Etec e IF Sudeste MG sem alteração. 17h58: nenhuma novidade de TI. Sem prorrogação localizada para os técnicos EaD do IF Baiano (encerram hoje); IFRS Bento e IFNMG sem alteração; anexo de vagas do IFPE Edital 41/2026 e portal da Funcern seguem inacessíveis, cursos de Jaboatão/Igarassu/EaD Recife seguem aguardando confirmação oficial. 21h12 (ajuste manual): prazos do edital (isenção, pagamento, prova, resultado, matrícula) registrados em 24 oportunidades a partir de datas já anotadas; 4 campos com \"NÃO INFORMADO\" em data ou link trocados por vazio.",
