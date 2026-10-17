@@ -1989,20 +1989,81 @@
           "data": "2027-02-04"
         }
       ]
+    },
+    {
+      "id": "ifmg-ouropreto-1100-2026-esp-ia",
+      "curso": "Especialização em Inteligência Artificial (híbrida, aulas presenciais em Ouro Preto)",
+      "instituicao": "IFMG · Campus Ouro Preto",
+      "estado": "MG",
+      "tipo": "Especialização",
+      "area": "Inteligência Artificial",
+      "edital": "Edital nº 1100/2026 (Processo seletivo, turma 2027)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-08",
+      "inscricaoFim": "2026-11-03",
+      "cargaHoraria": "420 h (360 h de disciplinas + 60 h de TCC), 20 meses",
+      "vagas": "20 (13 ampla concorrência, 4 negros e indígenas, 1 PcD, 2 servidores do IFMG), item 4.1",
+      "mensalidade": "Gratuito, sem mensalidades (item 2.1)",
+      "taxa": "R$ 80,00 por GRU, vencimento 03/11/2026. Isenção para baixa renda com NIS (CadÚnico): pedido de 08 a 23/10/2026, resultado em 27/10 (item 6)",
+      "certificado": "Certificado de especialização (pós-graduação lato sensu) do IFMG",
+      "polos": "IFMG Campus Ouro Preto (MG)",
+      "pePodeParticipar": "Inscrição sim (o edital não restringe residência), mas a participação exige ida semanal a Ouro Preto (MG)",
+      "atividadesPresenciais": "Sim, obrigatórias: aulas presenciais toda sexta-feira, 18h às 22h, no Campus Ouro Preto. Curso presencial com 20% da carga horária em EaD (itens 2.3 e 2.3.2)",
+      "aulasSincronas": "Sim: quartas-feiras, 18h às 22h, remotas e síncronas pelo Google Meet (item 2.3.2)",
+      "provasPresenciais": "Prova escrita em 02/12/2026 (local não informado no edital); heteroidentificação presencial em 14/01/2027 para cotistas negros",
+      "processoSeletivo": "Etapa 1: pontuação automática pelas informações da inscrição (até 50 avançam); etapa 2: análise documental; etapa 3: prova escrita de 20 questões sobre \"A Inovação no Mundo Contemporâneo\" em 02/12/2026. Nota final = 0,4 × etapa 1 + 0,6 × etapa 3 (item 7). Exige graduação nas áreas do Anexo I (computação e engenharias pontuam mais; também ciência de dados, estatística, administração e outras com formação técnica)",
+      "viabilidade": "D",
+      "linkEdital": "https://ouropreto.ifmg.edu.br/ouropreto/editais/2026/1100-esp-inteligencia-artificial/edital-1100-2026-especializacao-em-inteligencia-artificial.pdf",
+      "linkInscricao": "https://forms.gle/hkQPrztZyPTx1vBq9",
+      "dataVerificacao": "2026-10-17",
+      "observacoes": "Gratuito, mas incompatível com residência em Recife: aulas presenciais semanais (sextas, 18h–22h) em Ouro Preto/MG, itens 2.3 e 2.3.2. Notícia oficial do IFMG publicada em 16/10/2026, embora as inscrições tenham aberto em 08/10. Matrícula de 01 a 05/02/2027; início das aulas em 31/03/2027. É outra oferta, diferente da especialização EaD do IFMG Formiga (Edital 936/2026), que segue como registro de referência.",
+      "fontes": [
+        "https://www.ifmg.edu.br/portal/noticias/vagas-abertas-em-pos-graduacao-gratuita-em-inteligencia-artificial",
+        "https://ouropreto.ifmg.edu.br/ouropreto/noticias/edital-no-1100-2026-processo-seletivo-para-especializacao-em-inteligencia-artificial",
+        "https://ouropreto.ifmg.edu.br/ouropreto/editais/2026/1100-esp-inteligencia-artificial/edital-1100-2026-especializacao-em-inteligencia-artificial.pdf"
+      ],
+      "primeiraDeteccao": "2026-10-17",
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-10-23"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-11-03"
+        },
+        {
+          "evento": "Prova escrita",
+          "data": "2026-12-02"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-01-25"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-03-31"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-17",
-      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial).",
-      "novas": 0,
+      "resumo": "06h58: 4 oportunidades do IFPE Edital 41/2026 confirmadas no Anexo A oficial e reclassificadas de C para B (Técnico EaD em Manutenção e Suporte em Informática, polo Recife, 30 vagas, encontros quinzenais aos sábados; Técnico Subsequente em Informática para Internet e Tecnologia em ADS no campus Jaboatão; Tecnologia em Sistemas para Internet no campus Igarassu). Técnicos EaD do IF Baiano marcados como encerrados (prazo 16/10). Nenhuma oportunidade nova de TI. Alerta de 1 dia: FIC IA do IFSULDEMINAS Inconfidentes (até 18/10, ainda sem confirmação oficial). 08h50 (ajuste manual): +1 Especialização em IA do IFMG Ouro Preto (Edital 1100/2026, gratuita, híbrida com aulas presenciais semanais em Ouro Preto/MG, viabilidade D); a varredura não a encontrou.",
+      "novas": 1,
       "fontesConsultadas": [
         "https://portal.ifpe.edu.br/ingresso/ingresso-2027-1-1/",
         "https://drive.google.com/file/d/1FibzFrBkLKVOzOBwc4jcukpEGsRfQ49Z/view",
         "https://www.pebsp.com/",
         "https://www.f5cariri.com.br/",
         "https://infoeducacao.com.br/",
-        "https://portal.cin.ufpe.br/"
+        "https://portal.cin.ufpe.br/",
+        "https://www.ifmg.edu.br/portal/noticias/vagas-abertas-em-pos-graduacao-gratuita-em-inteligencia-artificial"
       ]
     },
     {
