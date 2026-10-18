@@ -2817,7 +2817,7 @@
   "verificacoes": [
     {
       "data": "2026-10-18",
-      "resumo": "06h58 (portais Norte/Nordeste, 31 domínios; 10 itens de TI dos agregadores conferidos, home de PEBSP/Hora Brasil bloqueada à leitura direta): +1 aberta Especialização em Ciência de Dados IFPB Cajazeiras (presencial na PB, D, até 19/10); +1 Técnico Subsequente em Computação Gráfica IFPE Olinda (presencial RMR, B, Edital 41/2026); +1 aguardando confirmação (IA para Todos os Pernambucanos, Secti-PE); +8 registros de referência (IF Baiano Uruçuca, IFTO Araguatins ADS, CRIAR/CIn Deep Learning, PET CIn Programe.py, 2 extensões IA UFPB, Residência TIC UNILAB, FAETEC FIC EaD TI). Pendências C (IFSULDEMINAS FIC IA, IF Baiano Catu, IFRS Bento, IFMS) sem confirmação: portais bloqueados. Descartados: IF Sudeste MG 36/2026 e UFMA 008/2026 (sem TI), IFSULDEMINAS Poços Esp. Informática na Educação (foco educacional, oficial bloqueado), UFRN IA para Educadores (público da Educação), IFPA PSU 2027 e IFRO PSU 2027 (sem TI EaD).",
+      "resumo": "06h58 (portais Norte/Nordeste, 31 domínios; 10 itens de TI dos agregadores conferidos, home de PEBSP/Hora Brasil bloqueada à leitura direta): +1 aberta Especialização em Ciência de Dados IFPB Cajazeiras (presencial na PB, D, até 19/10); +1 Técnico Subsequente em Computação Gráfica IFPE Olinda (presencial RMR, B, Edital 41/2026); +1 aguardando confirmação (IA para Todos os Pernambucanos, Secti-PE); +8 registros de referência (IF Baiano Uruçuca, IFTO Araguatins ADS, CRIAR/CIn Deep Learning, PET CIn Programe.py, 2 extensões IA UFPB, Residência TIC UNILAB, FAETEC FIC EaD TI). Pendências C (IFSULDEMINAS FIC IA, IF Baiano Catu, IFRS Bento, IFMS) sem confirmação: portais bloqueados. Descartados: IF Sudeste MG 36/2026 e UFMA 008/2026 (sem TI), IFSULDEMINAS Poços Esp. Informática na Educação (foco educacional, oficial bloqueado), UFRN IA para Educadores (público da Educação), IFPA PSU 2027 e IFRO PSU 2027 (sem TI EaD). 12h58 (portais CO/SE, 28 domínios por buscas restritas; 9 itens de agregadores conferidos — PEBSP, F5 Cariri, Uni10, Hora Brasil via busca): nenhuma novidade; todos os itens de TI já estavam registrados (IFNMG 1631 IA, IFMS cursos livres, IFRS Bento, IFSULDEMINAS FIC IA, IFB CP 11/2026, IFTO 31/2026, UFMA Esp. Dados/IA, IF Goiano ADS). Pendências C (IFSULDEMINAS FIC IA, IFRS Bento manutenção, IFMS) seguem sem confirmação: portais oficiais inacessíveis à leitura automática. Descartados: UFMG LED (encerrado em jan, presencial), IFSP Itapetininga MOOC (encerrado em jun), IFSULDEMINAS Machado Ed. 59/2026 (fora de TI).",
       "novas": 3,
       "fontesConsultadas": [
         "pebsp.com",
@@ -2831,7 +2831,16 @@
         "residencia-tic.unilab.edu.br",
         "ead.faetec.rj.gov.br",
         "sedis.ufrn.br",
-        "secti.pe.gov.br"
+        "secti.pe.gov.br",
+        "ifmg.edu.br",
+        "ifsp.edu.br",
+        "ifes.edu.br",
+        "ifg.edu.br",
+        "ifms.edu.br",
+        "ifmt.edu.br",
+        "ufmg.br",
+        "f5cariri.com.br",
+        "uniten.com.br"
       ]
     },
     {
