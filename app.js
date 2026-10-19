@@ -65,9 +65,12 @@
     if (urg.length) { const d = daysTo(urg[0].inscricaoFim); $('#k-7-sub').textContent = `Próximo: ${inst(urg[0])} · ${d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`}`; }
     else $('#k-7-sub').textContent = 'Nenhum prazo A, B ou C nesta semana';
     const novas = state.opps.filter(o => { const d = daysTo(o.primeiraDeteccao); return d !== null && d >= -7; });
-    // Acervo total + novidades da semana (janela móvel de 7 dias)
-    $('#k-new').textContent = state.opps.length;
-    $('#k-new-sub').textContent = `${novas.length ? plural(novas.length, 'novo', 'novos') + ' nos últimos 7 dias' : 'Nenhum novo nos últimos 7 dias'} · ${state.opps.filter(o => phase(o).k === 'enc').length} encerrados guardados`;
+    // Novos na semana (janela móvel de 7 dias) e acervo total, em indicadores separados
+    $('#k-new').textContent = novas.length;
+    $('#k-new-sub').textContent = novas.length ? `${novas.filter(o => via(o) !== 'D').length} com viabilidade A, B ou C` : 'Sem novidades na semana';
+    const nFut = state.opps.filter(o => phase(o).k === 'futura').length, nEnc = state.opps.filter(o => phase(o).k === 'enc').length;
+    $('#k-tot').textContent = state.opps.length;
+    $('#k-tot-sub').textContent = `${open.length} abertos · ${nFut} futuros · ${nEnc} encerrados`;
     const abertasCompat = open.filter(o => via(o) !== 'D');
     $('#h-title').textContent = state.erro ? 'Não foi possível carregar os dados' : !state.opps.length ? 'Carregando oportunidades…'
       : abertasCompat.length ? `${plural(abertasCompat.length, 'curso com inscrições abertas', 'cursos com inscrições abertas')} para você` : 'Nenhuma inscrição compatível aberta agora';

@@ -347,3 +347,7 @@ ol.cal li.soon .when{color:var(--vD);font-weight:600}
 @media (max-width:620px){.filterbar .filters select{flex:1 1 150px}}
 @media (min-width:900px){.filterbar .filters input[type=search]{flex:1 1 230px;min-width:220px} .filterbar #f-uf{max-width:200px}}
 @media (max-width:620px){.lastcheck{text-align:left;justify-items:start}}
+/* Cinco indicadores no topo */
+.kpis{grid-template-columns:repeat(5,minmax(0,1fr))}
+@media (max-width:1100px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:860px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))} .kpis > .kpi:last-child:nth-child(odd){grid-column:1 / -1}}
