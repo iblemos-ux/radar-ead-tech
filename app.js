@@ -65,12 +65,13 @@
     if (urg.length) { const d = daysTo(urg[0].inscricaoFim); $('#k-7-sub').textContent = `Próximo: ${inst(urg[0])} · ${d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`}`; }
     else $('#k-7-sub').textContent = 'Nenhum prazo A, B ou C nesta semana';
     const novas = state.opps.filter(o => { const d = daysTo(o.primeiraDeteccao); return d !== null && d >= -7; });
-    $('#k-new').textContent = novas.length;
-    $('#k-new-sub').textContent = novas.length ? `${novas.filter(o => via(o) !== 'D').length} com viabilidade A, B ou C` : 'Sem novidades na semana';
+    // Acervo total + novidades da semana (janela móvel de 7 dias)
+    $('#k-new').textContent = state.opps.length;
+    $('#k-new-sub').textContent = `${novas.length ? plural(novas.length, 'novo', 'novos') + ' nos últimos 7 dias' : 'Nenhum novo nos últimos 7 dias'} · ${state.opps.filter(o => phase(o).k === 'enc').length} encerrados guardados`;
     const abertasCompat = open.filter(o => via(o) !== 'D');
     $('#h-title').textContent = state.erro ? 'Não foi possível carregar os dados' : !state.opps.length ? 'Carregando oportunidades…'
       : abertasCompat.length ? `${plural(abertasCompat.length, 'curso com inscrições abertas', 'cursos com inscrições abertas')} para você` : 'Nenhuma inscrição compatível aberta agora';
-    if (state.opps.length) $('#h-sub').textContent = `${a + b} com viabilidade A ou B para quem mora em Pernambuco${urg.length ? ` · próximo prazo: ${inst(urg[0])}, ${(d => d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`)(daysTo(urg[0].inscricaoFim))}` : ''}. ${state.opps.length - open.length} registros de referência e encerrados ficam guardados para acompanhar as próximas turmas.`;
+    if (state.opps.length) $('#h-sub').textContent = `${a + b} com viabilidade A ou B para quem mora em Pernambuco${urg.length ? ` · próximo prazo: ${inst(urg[0])}, ${(d => d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`)(daysTo(urg[0].inscricaoFim))}` : ''}. ${(n => n ? `${n} ainda vão abrir inscrições. ` : '')(state.opps.filter(o => phase(o).k === 'futura').length)}${(n => plural(n, 'edital encerrado fica guardado', 'editais encerrados ficam guardados'))(state.opps.filter(o => phase(o).k === 'enc').length)} para acompanhar as próximas turmas.`;
     const last = state.log[0];
     // Verificação: data e hora da última varredura (campo ultimaExecucao; senão, o último horário anotado no resumo do dia)
     let verif = '';
