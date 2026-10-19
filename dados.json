@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-18",
+  "atualizadoEm": "2026-10-19",
   "oportunidades": [
     {
       "id": "ifsuldeminas-inconfidentes-50-2026-fic-ia",
@@ -9,7 +9,7 @@
       "tipo": "FIC",
       "area": "Inteligência Artificial",
       "edital": "Edital nº 50/2026 (com Retificação nº 5/2026, segundo fonte secundária)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
       "inscricaoInicio": "2026-10-05",
       "inscricaoFim": "2026-10-18",
       "cargaHoraria": "40 horas (aulas de 19/10 a 15/11/2026, segundo fonte secundária)",
@@ -26,8 +26,8 @@
       "viabilidade": "C",
       "linkEdital": "https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais",
       "linkInscricao": "https://suap.ifsuldeminas.edu.br/inscricoesfic/efetuar_inscricao/4141/",
-      "dataVerificacao": "2026-10-18",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever. 15/10: nova tentativa de confirmação; portal de extensão do campus continua inacessível à leitura automática. 17/10: portal de extensão do campus e SUAP seguem inacessíveis à leitura automática; falta ler a página https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais (Edital 50/2026 e Retificação 5/2026). Inscrições da Turma 3 terminam em 18/10. 17/10 (09h): portal de extensão e SUAP seguem bloqueados à leitura automática. Fonte secundária (F5 Cariri) cita Retificação nº 5/2026 ampliando vagas de 750 para 3.000 (3 turmas de 1.000); Turma 3: inscrições 05–18/10, aulas 19/10–15/11/2026; 40 h, 100% online, ordem de inscrição; link de inscrição citado: https://suap.ifsuldeminas.edu.br/inscricoesfic/efetuar_inscricao/4141/ (não verificado). 17/10 (17h58): nova tentativa; portal de extensão do campus segue inacessível à leitura automática e a busca não retornou o PDF do Edital 50/2026. Inscrições da Turma 3 terminam em 18/10. 18/10 (06h58): edital e SUAP seguem bloqueados à leitura automática; inscrições da Turma 3 terminam hoje.",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o portal de editais de extensão do IFSULDEMINAS Inconfidentes e a página de inscrição no SUAP não puderam ser lidos automaticamente nesta execução. Fontes secundárias (PEBSP, F5 Cariri) informam turmas anteriores (Turma 1: 01–20/09; Turma 2: 21/09–04/10) e Turma 3 com inscrições de 05 a 18/10/2026. Conferir no edital e na página do SUAP antes de se inscrever. 15/10: nova tentativa de confirmação; portal de extensão do campus continua inacessível à leitura automática. 17/10: portal de extensão do campus e SUAP seguem inacessíveis à leitura automática; falta ler a página https://portal.ifs.ifsuldeminas.edu.br/index.php/extensao/extensao-editais (Edital 50/2026 e Retificação 5/2026). Inscrições da Turma 3 terminam em 18/10. 17/10 (09h): portal de extensão e SUAP seguem bloqueados à leitura automática. Fonte secundária (F5 Cariri) cita Retificação nº 5/2026 ampliando vagas de 750 para 3.000 (3 turmas de 1.000); Turma 3: inscrições 05–18/10, aulas 19/10–15/11/2026; 40 h, 100% online, ordem de inscrição; link de inscrição citado: https://suap.ifsuldeminas.edu.br/inscricoesfic/efetuar_inscricao/4141/ (não verificado). 17/10 (17h58): nova tentativa; portal de extensão do campus segue inacessível à leitura automática e a busca não retornou o PDF do Edital 50/2026. Inscrições da Turma 3 terminam em 18/10. 18/10 (06h58): edital e SUAP seguem bloqueados à leitura automática; inscrições da Turma 3 terminam hoje. 19/10/2026: prazo de inscrição (18/10) encerrado sem confirmação oficial da oferta; marcado como encerrado.",
       "fontes": [
         "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-1000-vagas-para.html",
         "https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/"
@@ -158,7 +158,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Informática (subsequente EaD)",
-      "dataVerificacao": "2026-10-18",
+      "dataVerificacao": "2026-10-19",
       "edital": "Edital nº 21/2026 (cronograma retificado em 09/10/2026)",
       "estado": "BA",
       "fontes": [
@@ -172,7 +172,7 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/09/Edital-Sub-Modalidade-EaD.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/333/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Retificação de 09/10/2026 só alterou o fim das inscrições (02/11 → 20/11/2026); cabeçalho da retificação cita \"Edital nº 25\" por erro, o corpo diz 21/2026. Cronograma: lista preliminar 26/11, homologação 02/12, resultado preliminar 16/12, resultado final 18/12, edital de matrícula 22/12/2026 (marco \"Matrícula\" = publicação do edital de matrícula); pré-matrícula e início das aulas previstos para fev/2027 no Campus Catu. 17/10: segue C porque a frequência de encontros presenciais nas aulas não consta do edital; outros campi do IF Baiano exigem encontro semanal no polo. 18/10: edital e página de Catu bloqueados à leitura automática. Alerta: o edital EaD 2027 do IF Baiano Guanambi (Edital 32/2026, item 2.2) exige um encontro presencial semanal noturno no polo para Informática e Redes; se Catu seguir o padrão, a oferta vira D. Falta ler o item 2.2 do Edital 21/2026 de Catu.",
+      "observacoes": "Retificação de 09/10/2026 só alterou o fim das inscrições (02/11 → 20/11/2026); cabeçalho da retificação cita \"Edital nº 25\" por erro, o corpo diz 21/2026. Cronograma: lista preliminar 26/11, homologação 02/12, resultado preliminar 16/12, resultado final 18/12, edital de matrícula 22/12/2026 (marco \"Matrícula\" = publicação do edital de matrícula); pré-matrícula e início das aulas previstos para fev/2027 no Campus Catu. 17/10: segue C porque a frequência de encontros presenciais nas aulas não consta do edital; outros campi do IF Baiano exigem encontro semanal no polo. 18/10: edital e página de Catu bloqueados à leitura automática. Alerta: o edital EaD 2027 do IF Baiano Guanambi (Edital 32/2026, item 2.2) exige um encontro presencial semanal noturno no polo para Informática e Redes; se Catu seguir o padrão, a oferta vira D. Falta ler o item 2.2 do Edital 21/2026 de Catu. 19/10: PDF do edital de Catu segue inacessível à leitura automática; o novo Edital 27/2026 de Senhor do Bonfim (itens 1.2 e 2.2.1) prevê 20% de carga horária presencial no polo, reforçando a tendência a D.",
       "pePodeParticipar": "Edital não restringe residência (polo único em Catu-BA, Quadro 2, item 2.3), mas exige ida a Catu-BA para a matrícula com originais; frequência no polo PENDENTE DE CONFIRMAÇÃO",
       "polos": "Catu (BA)",
       "primeiraDeteccao": "2026-10-11",
@@ -206,7 +206,7 @@
       "cargaHoraria": "18 meses (Quadro 2)",
       "certificado": "Diploma de técnico de nível médio",
       "curso": "Técnico em Redes de Computadores (subsequente EaD)",
-      "dataVerificacao": "2026-10-18",
+      "dataVerificacao": "2026-10-19",
       "edital": "Edital nº 21/2026 (cronograma retificado em 09/10/2026)",
       "estado": "BA",
       "fontes": [
@@ -220,7 +220,7 @@
       "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/09/Edital-Sub-Modalidade-EaD.pdf",
       "linkInscricao": "https://sgc.ifbaiano.edu.br/edital/visualizar/333/",
       "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
-      "observacoes": "Retificação de 09/10/2026 só alterou o fim das inscrições (02/11 → 20/11/2026); cabeçalho da retificação cita \"Edital nº 25\" por erro, o corpo diz 21/2026. Cronograma: lista preliminar 26/11, homologação 02/12, resultado preliminar 16/12, resultado final 18/12, edital de matrícula 22/12/2026 (marco \"Matrícula\" = publicação do edital de matrícula); pré-matrícula e início das aulas previstos para fev/2027 no Campus Catu. 17/10: segue C porque a frequência de encontros presenciais nas aulas não consta do edital; outros campi do IF Baiano exigem encontro semanal no polo. 18/10: edital e página de Catu bloqueados à leitura automática. Alerta: o edital EaD 2027 do IF Baiano Guanambi (Edital 32/2026, item 2.2) exige um encontro presencial semanal noturno no polo para Informática e Redes; se Catu seguir o padrão, a oferta vira D. Falta ler o item 2.2 do Edital 21/2026 de Catu.",
+      "observacoes": "Retificação de 09/10/2026 só alterou o fim das inscrições (02/11 → 20/11/2026); cabeçalho da retificação cita \"Edital nº 25\" por erro, o corpo diz 21/2026. Cronograma: lista preliminar 26/11, homologação 02/12, resultado preliminar 16/12, resultado final 18/12, edital de matrícula 22/12/2026 (marco \"Matrícula\" = publicação do edital de matrícula); pré-matrícula e início das aulas previstos para fev/2027 no Campus Catu. 17/10: segue C porque a frequência de encontros presenciais nas aulas não consta do edital; outros campi do IF Baiano exigem encontro semanal no polo. 18/10: edital e página de Catu bloqueados à leitura automática. Alerta: o edital EaD 2027 do IF Baiano Guanambi (Edital 32/2026, item 2.2) exige um encontro presencial semanal noturno no polo para Informática e Redes; se Catu seguir o padrão, a oferta vira D. Falta ler o item 2.2 do Edital 21/2026 de Catu. 19/10: PDF do edital de Catu segue inacessível à leitura automática; o novo Edital 27/2026 de Senhor do Bonfim (itens 1.2 e 2.2.1) prevê 20% de carga horária presencial no polo, reforçando a tendência a D.",
       "pePodeParticipar": "Edital não restringe residência (polo único em Catu-BA, Quadro 2, item 2.3), mas exige ida a Catu-BA para a matrícula com originais; frequência no polo PENDENTE DE CONFIRMAÇÃO",
       "polos": "Catu (BA)",
       "primeiraDeteccao": "2026-10-11",
@@ -2987,9 +2987,198 @@
       ],
       "primeiraDeteccao": "2026-10-18",
       "marcos": []
+    },
+    {
+      "id": "ifbaiano-27-2026-senhordobonfim-informatica",
+      "curso": "Técnico em Informática (subsequente EaD, semipresencial com 20% presencial nos polos na BA)",
+      "instituicao": "IF Baiano · Campus Senhor do Bonfim",
+      "estado": "BA",
+      "tipo": "Técnico",
+      "area": "Informática",
+      "edital": "Edital nº 27/2026, de 13/10/2026 (Processo Seletivo 2027, subsequente EaD)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-16",
+      "inscricaoFim": "2026-11-08",
+      "cargaHoraria": "18 meses (Quadros 2 e 3); carga horária em horas NÃO INFORMADA",
+      "vagas": "447 (9 polos: 50 cada, Piritiba 47; 70% reservadas a residentes)",
+      "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
+      "taxa": "Sem taxa (item 4.11)",
+      "certificado": "Diploma de técnico de nível médio",
+      "polos": "Caldeirão Grande, Campo Formoso, Capim Grosso, Mairi, Miguel Calmon, Mundo Novo, Piritiba, Ponto Novo e Senhor do Bonfim (BA) (Quadro 2)",
+      "pePodeParticipar": "Sim, nas vagas de concorrência geral: 70% das vagas são reservadas a residentes nos municípios-polo (BA) e 30% abertas a candidatos de qualquer localidade; sobras da reserva podem ir a outras localidades (item 2.3.1). Exige comprovante de residência (itens 4.5 e 6.1)",
+      "atividadesPresenciais": "20% da carga horária presencial no polo (BA), preferencialmente à noite (itens 1.2 e 2.2.1); frequência dos encontros NÃO INFORMADA. Matrícula com originais em local e data a publicar (item 6.3)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "NÃO INFORMADO",
+      "processoSeletivo": "Ordem de inscrição e manifestação de interesse, sem prova (item 1.7); desempate pelo candidato mais velho (item 8.4); heteroidentificação para PPI (item 10). Inscrições on-line e presenciais. Turma só abre com 50% das vagas preenchidas (item 1.2)",
+      "viabilidade": "D",
+      "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
+      "linkInscricao": "https://sgcprosel.formigueirotecnologico.com.br/",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Curso semipresencial (80% EaD / 20% presencial nos polos do norte da Bahia). Classificado D: encontros presenciais obrigatórios em polos na Bahia, longe de Recife, e prioridade para residentes dos municípios-polo. Resultado final e edital de matrícula em 02/12/2026; aulas previstas para 22/02/2027. Anexo V (ficha de matrícula) cita 'Edital N° 25' por erro. Nota Informativa nº 01 e resultado de impugnação publicados em 16/10/2026.",
+      "fontes": [
+        "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-senhor-do-bonfim-2027/",
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
+        "https://www.pebsp.com/instituto-federal-lanca-edital-com-1-330-vagas-em-5-cursos-tecnicos-ead/"
+      ],
+      "primeiraDeteccao": "2026-10-19",
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-02"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2026-12-02"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-22"
+        }
+      ]
+    },
+    {
+      "id": "ifbaiano-27-2026-senhordobonfim-redes",
+      "curso": "Técnico em Redes de Computadores (subsequente EaD, semipresencial com 20% presencial nos polos na BA)",
+      "instituicao": "IF Baiano · Campus Senhor do Bonfim",
+      "estado": "BA",
+      "tipo": "Técnico",
+      "area": "Redes de Computadores",
+      "edital": "Edital nº 27/2026, de 13/10/2026 (Processo Seletivo 2027, subsequente EaD)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-16",
+      "inscricaoFim": "2026-11-08",
+      "cargaHoraria": "18 meses (Quadros 2 e 3); carga horária em horas NÃO INFORMADA",
+      "vagas": "200 (4 polos, 50 cada; 70% reservadas a residentes)",
+      "mensalidade": "Gratuito (instituição federal; edital não prevê mensalidade)",
+      "taxa": "Sem taxa (item 4.11)",
+      "certificado": "Diploma de técnico de nível médio",
+      "polos": "Caldeirão Grande, Campo Formoso, Mundo Novo e Ponto Novo (BA) (Quadro 3)",
+      "pePodeParticipar": "Sim, nas vagas de concorrência geral: 70% das vagas são reservadas a residentes nos municípios-polo (BA) e 30% abertas a candidatos de qualquer localidade; sobras da reserva podem ir a outras localidades (item 2.3.1). Exige comprovante de residência (itens 4.5 e 6.1)",
+      "atividadesPresenciais": "20% da carga horária presencial no polo (BA), preferencialmente à noite (itens 1.2 e 2.2.1); frequência dos encontros NÃO INFORMADA. Matrícula com originais em local e data a publicar (item 6.3)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "NÃO INFORMADO",
+      "processoSeletivo": "Ordem de inscrição e manifestação de interesse, sem prova (item 1.7); desempate pelo candidato mais velho (item 8.4); heteroidentificação para PPI (item 10). Inscrições on-line e presenciais. Turma só abre com 50% das vagas preenchidas (item 1.2)",
+      "viabilidade": "D",
+      "linkEdital": "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
+      "linkInscricao": "https://sgcprosel.formigueirotecnologico.com.br/",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Curso semipresencial (80% EaD / 20% presencial nos polos do norte da Bahia). Classificado D: encontros presenciais obrigatórios em polos na Bahia, longe de Recife, e prioridade para residentes dos municípios-polo. Resultado final e edital de matrícula em 02/12/2026; aulas previstas para 22/02/2027. Anexo V (ficha de matrícula) cita 'Edital N° 25' por erro. Nota Informativa nº 01 e resultado de impugnação publicados em 16/10/2026.",
+      "fontes": [
+        "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-senhor-do-bonfim-2027/",
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
+        "https://www.pebsp.com/instituto-federal-lanca-edital-com-1-330-vagas-em-5-cursos-tecnicos-ead/"
+      ],
+      "primeiraDeteccao": "2026-10-19",
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-11-13"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-02"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2026-12-02"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-22"
+        }
+      ]
+    },
+    {
+      "id": "ufca-03-2026-ads",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (EaD/UAB)",
+      "instituicao": "UFCA · CEAD (UAB)",
+      "estado": "CE",
+      "tipo": "Graduação",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "edital": "Edital nº 03/2026/CEAD/UFCA (PSED 2026.2)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "",
+      "inscricaoFim": "2026-05-25",
+      "cargaHoraria": "2 anos (fonte secundária)",
+      "vagas": "200 (fonte secundária)",
+      "mensalidade": "Gratuito (universidade federal, UAB)",
+      "taxa": "Sem taxa (fonte secundária)",
+      "certificado": "Diploma de tecnólogo",
+      "polos": "Aiuaba, Barro, Caririaçu, Cedro, Deputado Irapuan Pinheiro, Jardim, Jucás e Senador Pompeu (CE) (1ª chamada)",
+      "pePodeParticipar": "Edital não lido; todos os polos ficam no Ceará e a confirmação de vínculo é presencial no polo (1ª chamada)",
+      "atividadesPresenciais": "Confirmação de vínculo presencial no polo (12 a 22/08/2026) e heteroidentificação presencial (1ª chamada oficial); fonte secundária cita atividades presenciais obrigatórias aos sábados nos polos",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO (fonte secundária: avaliações presenciais nos polos)",
+      "processoSeletivo": "Nota do ENEM (média de uma edição dos últimos 10 anos), sem prova (fonte secundária); cadastramento on-line 17 a 19/06/2026 e início do semestre em 10/09/2026 (1ª chamada oficial)",
+      "viabilidade": "D",
+      "linkEdital": "https://www.pebsp.com/ufca-abre-850-vagas-em-cursos-de-graduacao-gratuitos-em-tecnologia-em-25-cidades-com-ingresso-sem-provas-dcs/",
+      "linkInscricao": "https://forms.ufca.edu.br/",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Registro de referência. Curso confirmado na 1ª chamada oficial do PSED 2026.2 (documentos.ufca.edu.br); prazo de inscrição (até 25/05/2026) e regras de seleção vêm de fonte secundária, pois o PDF do edital não foi lido. Viabilidade D: polos apenas no Ceará com etapas presenciais no polo. A UFCA abre seleção EaD (PSED) semestralmente; fique atento ao PSED 2027.1.",
+      "fontes": [
+        "https://documentos.ufca.edu.br/wp-folder/wp-content/uploads/2026/06/PSED-2026.2-1ª-Chamada-de-Candidatos-Aprovados-Orientações-e-lista.pdf",
+        "https://www.pebsp.com/ufca-abre-850-vagas-em-cursos-de-graduacao-gratuitos-em-tecnologia-em-25-cidades-com-ingresso-sem-provas-dcs/",
+        "https://aiuaba.ce.gov.br/informa/490/ouvidoria"
+      ],
+      "primeiraDeteccao": "2026-10-19",
+      "marcos": []
+    },
+    {
+      "id": "ufca-03-2026-banco-dados",
+      "curso": "Tecnologia em Banco de Dados (EaD/UAB)",
+      "instituicao": "UFCA · CEAD (UAB)",
+      "estado": "CE",
+      "tipo": "Graduação",
+      "area": "Banco de Dados",
+      "edital": "Edital nº 03/2026/CEAD/UFCA (PSED 2026.2)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "",
+      "inscricaoFim": "2026-05-25",
+      "cargaHoraria": "2 anos (fonte secundária)",
+      "vagas": "150 (fonte secundária)",
+      "mensalidade": "Gratuito (universidade federal, UAB)",
+      "taxa": "Sem taxa (fonte secundária)",
+      "certificado": "Diploma de tecnólogo",
+      "polos": "Aurora, Cariús, Fortim, Granjeiro e outros (CE) (1ª chamada; lista cortada)",
+      "pePodeParticipar": "Edital não lido; todos os polos ficam no Ceará e a confirmação de vínculo é presencial no polo (1ª chamada)",
+      "atividadesPresenciais": "Confirmação de vínculo presencial no polo (12 a 22/08/2026) e heteroidentificação presencial (1ª chamada oficial); fonte secundária cita atividades presenciais obrigatórias aos sábados nos polos",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO (fonte secundária: avaliações presenciais nos polos)",
+      "processoSeletivo": "Nota do ENEM (média de uma edição dos últimos 10 anos), sem prova (fonte secundária); cadastramento on-line 17 a 19/06/2026 e início do semestre em 10/09/2026 (1ª chamada oficial)",
+      "viabilidade": "D",
+      "linkEdital": "https://www.pebsp.com/ufca-abre-850-vagas-em-cursos-de-graduacao-gratuitos-em-tecnologia-em-25-cidades-com-ingresso-sem-provas-dcs/",
+      "linkInscricao": "https://forms.ufca.edu.br/",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Registro de referência. Curso confirmado na 1ª chamada oficial do PSED 2026.2 (documentos.ufca.edu.br); prazo de inscrição (até 25/05/2026) e regras de seleção vêm de fonte secundária, pois o PDF do edital não foi lido. Viabilidade D: polos apenas no Ceará com etapas presenciais no polo. A UFCA abre seleção EaD (PSED) semestralmente; fique atento ao PSED 2027.1.",
+      "fontes": [
+        "https://documentos.ufca.edu.br/wp-folder/wp-content/uploads/2026/06/PSED-2026.2-1ª-Chamada-de-Candidatos-Aprovados-Orientações-e-lista.pdf",
+        "https://www.pebsp.com/ufca-abre-850-vagas-em-cursos-de-graduacao-gratuitos-em-tecnologia-em-25-cidades-com-ingresso-sem-provas-dcs/",
+        "https://aiuaba.ce.gov.br/informa/490/ouvidoria"
+      ],
+      "primeiraDeteccao": "2026-10-19",
+      "marcos": []
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-19",
+      "resumo": "06h59 (portais Norte/Nordeste; homes de PEBSP e Hora Brasil bloqueadas à leitura direta, 9 itens de TI dos agregadores conferidos por busca): +2 técnicos subsequentes EaD semipresenciais do IF Baiano Senhor do Bonfim (Edital 27/2026: Informática e Redes, até 08/11, D por 20% presencial em polos na BA); +2 registros de referência UFCA PSED 2026.2 (ADS e Banco de Dados EaD/UAB, D). IFSULDEMINAS Inconfidentes FIC IA marcado como encerrado. Pendências C (IF Baiano Catu, IFMS, IFRS Bento/Moodle, Secti-PE) sem confirmação: portais/PDFs bloqueados. Conferidos e descartados: CPS Etec (já registrado), IF Sudeste MG 36/2026 (sem TI), IFB técnicos 2027.1 (presenciais no DF), IFPB PSCT 2027 (TI só presencial na PB, encerrado), UFG Data Science (pago), UESB ADS/Computação (editais de 2024/2025), IFRN Esp. Ciência de Dados 2026.2 (presencial, sem fonte oficial lida). Alertas de prazo: isenção IFPE 41/2026 e pagamento IFRN 55/2026 em 7 dias.",
+      "novas": 4,
+      "fontesConsultadas": [
+        "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-senhor-do-bonfim-2027/",
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
+        "https://documentos.ufca.edu.br/wp-folder/wp-content/uploads/2026/06/PSED-2026.2-1ª-Chamada-de-Candidatos-Aprovados-Orientações-e-lista.pdf",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
+        "https://estudante.ifpb.edu.br/media/Edital_de_abertura_n%C2%BA_134-2026_-_Cursos_Subsequentes_PSCT_2027_vh2Lrmi.pdf",
+        "https://files.cercomp.ufg.br/weby/up/29/o/Edital_oferta_data_science_2026_assinado.pdf",
+        "https://www.pebsp.com/",
+        "https://www.horabrasil.com.br/"
+      ]
+    },
     {
       "data": "2026-10-18",
       "resumo": "06h58 (portais Norte/Nordeste, 31 domínios; 10 itens de TI dos agregadores conferidos, home de PEBSP/Hora Brasil bloqueada à leitura direta): +1 aberta Especialização em Ciência de Dados IFPB Cajazeiras (presencial na PB, D, até 19/10); +1 Técnico Subsequente em Computação Gráfica IFPE Olinda (presencial RMR, B, Edital 41/2026); +1 aguardando confirmação (IA para Todos os Pernambucanos, Secti-PE); +8 registros de referência (IF Baiano Uruçuca, IFTO Araguatins ADS, CRIAR/CIn Deep Learning, PET CIn Programe.py, 2 extensões IA UFPB, Residência TIC UNILAB, FAETEC FIC EaD TI). Pendências C (IFSULDEMINAS FIC IA, IF Baiano Catu, IFRS Bento, IFMS) sem confirmação: portais bloqueados. Descartados: IF Sudeste MG 36/2026 e UFMA 008/2026 (sem TI), IFSULDEMINAS Poços Esp. Informática na Educação (foco educacional, oficial bloqueado), UFRN IA para Educadores (público da Educação), IFPA PSU 2027 e IFRO PSU 2027 (sem TI EaD). 12h58 (portais CO/SE, 28 domínios por buscas restritas; 9 itens de agregadores conferidos — PEBSP, F5 Cariri, Uni10, Hora Brasil via busca): nenhuma novidade; todos os itens de TI já estavam registrados (IFNMG 1631 IA, IFMS cursos livres, IFRS Bento, IFSULDEMINAS FIC IA, IFB CP 11/2026, IFTO 31/2026, UFMA Esp. Dados/IA, IF Goiano ADS). Pendências C (IFSULDEMINAS FIC IA, IFRS Bento manutenção, IFMS) seguem sem confirmação: portais oficiais inacessíveis à leitura automática. Descartados: UFMG LED (encerrado em jan, presencial), IFSP Itapetininga MOOC (encerrado em jun), IFSULDEMINAS Machado Ed. 59/2026 (fora de TI). 17h58 (portais Sul e programas nacionais; 5 itens de agregadores conferidos — PEBSP home e roundup de especializações 09/10): +5 cursos livres EaD abertos do catálogo Moodle IFRS 2026 (Programador Web, Administrador de Banco de Dados, Lógica de Programação, Java I, Descoberta de Conhecimento em Bases de Dados; até 31/12, C por certificado/público não confirmados). Pendências C (IFRS Bento manutenção, IFMS cursos livres, Secti-PE IA para Todos, IFSULDEMINAS FIC IA) sem confirmação oficial nova. Descartados: UFMT Bacharelado em Ciência e Tecnologia semipresencial (interdisciplinar, polos só em MT), UFMT Bacharelado em TI semipresencial (encerrado em 04/09; só fonte secundária, portal oficial não lido), IF Sudeste MG EaD 2027/1 (sem TI), IFPR 2027 (presencial).",
@@ -3149,5 +3338,6 @@
       "fontesConsultadas": "UFMS/FAPEC, IF Baiano (8 campi), IFRN, IFCE, IFMA, IFPB, IF Sudeste MG, IFMT, IFSertãoPE, IFNMG, IFSULDEMINAS, IFPI, IFSP, UFRPE, UESB, UnB, Secti-PE, EV.G, UNIVESP, PEBSP, VestibulandoWeb, IF Goiano/Cerfor, IFCE Q-Seleção, IF Sudeste MG 2027/1, UFMA, CEDERJ/CECIERJ, IFCE UAB IA, UEG, IF Baiano Alagoinhas, Hora Brasil (especializações), IFG Anápolis, IFES São Mateus, IFSP Campinas, IFMG Formiga (Edital 1146/2025), IFRS, IFRN Edital 31/2026, IFTM, UFPB, IFSULDEMINAS Inconfidentes, PEBSP (especializações 09/10), IF Baiano Xique-Xique e Governador Mangabeira",
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
-  ]
+  ],
+  "ultimaExecucao": "2026-10-19T06:59:00-03:00"
 }
