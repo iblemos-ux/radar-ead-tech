@@ -2169,7 +2169,7 @@
       "vagas": "NÃO INFORMADO",
       "mensalidade": "Gratuito",
       "taxa": "Sem taxa",
-      "dataVerificacao": "2026-10-18",
+      "dataVerificacao": "2026-10-19",
       "primeiraDeteccao": "2026-10-17",
       "marcos": [],
       "edital": "Cursos de extensão do Projeto Extensionista III (ADS), sem número de edital",
@@ -2193,10 +2193,11 @@
       "viabilidade": "C",
       "linkEdital": "https://ifrs.edu.br/bento/novos-cursos-de-extensao/",
       "linkInscricao": "https://sites.google.com/bento.ifrs.edu.br/cursos/início",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial do IFRS Bento não pôde ser lida nesta execução. Mesmo lote e formulário dos cursos já registrados \"IA local\" e \"Python na prática\" (ifrs-bento-ext-2026-*). Tema de hardware, marginal ao escopo. 17/10 (12h58): nova tentativa; página oficial ifrs.edu.br/bento seguiu inacessível à leitura automática. PEBSP (10/10) confirma o curso no mesmo lote (20 h, Moodle, inscrições até 27/10, aulas 02/11–07/12). Falta ler: https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/ 17/10 (17h58): busca no portal ifrs.edu.br não retornou página oficial dos cursos; segue sem confirmação. 18/10 (06h58): página oficial segue inacessível à leitura automática; sem confirmação.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial do IFRS Bento não pôde ser lida nesta execução. Mesmo lote e formulário dos cursos já registrados \"IA local\" e \"Python na prática\" (ifrs-bento-ext-2026-*). Tema de hardware, marginal ao escopo. 17/10 (12h58): nova tentativa; página oficial ifrs.edu.br/bento seguiu inacessível à leitura automática. PEBSP (10/10) confirma o curso no mesmo lote (20 h, Moodle, inscrições até 27/10, aulas 02/11–07/12). Falta ler: https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/ 17/10 (17h58): busca no portal ifrs.edu.br não retornou página oficial dos cursos; segue sem confirmação. 18/10 (06h58): página oficial segue inacessível à leitura automática; sem confirmação. 19/10 (17h58): F5 Cariri (13/10) cita o comunicado oficial https://ifrs.edu.br/bento/novos-cursos-de-extensao/ com os 4 cursos, inclusive este (EAD, 20 h, público geral, gratuito); a página oficial não pôde ser lida diretamente. Falta ler essa página para confirmar.",
       "fontes": [
         "https://www.pebsp.com/ifrs-abre-inscricoes-para-cursos-de-extensao-gratuitos-e-ead-em-inovacao-e-tecnologia-dcs/",
-        "https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/"
+        "https://ifrs.edu.br/bento/cursos-de-extensao-ead-gratuitos-recebem-inscricoes/",
+        "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-inscricoes-para.html"
       ]
     },
     {
@@ -2839,7 +2840,7 @@
       "linkEdital": "https://estude.ifrs.edu.br/cursos/programador-web/",
       "linkInscricao": "https://moodle.ifrs.edu.br/",
       "dataVerificacao": "2026-10-18",
-      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas.",
+      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas. 19/10 (17h58): página do curso (estude.ifrs.edu.br) seguiu sem leitura automática; falta confirmar certificado e público.",
       "fontes": [
         "https://estude.ifrs.edu.br/inscricoes-abertas/cursos-ead-2025-plataforma-moodle/",
         "https://estude.ifrs.edu.br/inscricoes-abertas/",
@@ -2874,7 +2875,7 @@
       "linkEdital": "https://estude.ifrs.edu.br/cursos/administrador-de-banco-de-dados/",
       "linkInscricao": "https://moodle.ifrs.edu.br/",
       "dataVerificacao": "2026-10-18",
-      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas.",
+      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas. 19/10 (17h58): página do curso (estude.ifrs.edu.br) seguiu sem leitura automática; falta confirmar certificado e público.",
       "fontes": [
         "https://estude.ifrs.edu.br/inscricoes-abertas/cursos-ead-2025-plataforma-moodle/",
         "https://estude.ifrs.edu.br/inscricoes-abertas/",
@@ -2909,7 +2910,7 @@
       "linkEdital": "https://estude.ifrs.edu.br/cursos/logica-de-programacao-comecando-a-desenvolver-seus-primeiros-programas/",
       "linkInscricao": "https://moodle.ifrs.edu.br/",
       "dataVerificacao": "2026-10-18",
-      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas.",
+      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas. 19/10 (17h58): página do curso (estude.ifrs.edu.br) seguiu sem leitura automática; falta confirmar certificado e público.",
       "fontes": [
         "https://estude.ifrs.edu.br/inscricoes-abertas/cursos-ead-2025-plataforma-moodle/",
         "https://estude.ifrs.edu.br/inscricoes-abertas/",
@@ -2944,7 +2945,7 @@
       "linkEdital": "https://estude.ifrs.edu.br/cursos/programacao-basica-com-java-i/",
       "linkInscricao": "https://moodle.ifrs.edu.br/",
       "dataVerificacao": "2026-10-18",
-      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas.",
+      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas. 19/10 (17h58): página do curso (estude.ifrs.edu.br) seguiu sem leitura automática; falta confirmar certificado e público.",
       "fontes": [
         "https://estude.ifrs.edu.br/inscricoes-abertas/cursos-ead-2025-plataforma-moodle/",
         "https://estude.ifrs.edu.br/inscricoes-abertas/",
@@ -2979,7 +2980,7 @@
       "linkEdital": "https://estude.ifrs.edu.br/cursos/descoberta-de-conhecimento-em-bases-de-dados-fundamentos/",
       "linkInscricao": "https://moodle.ifrs.edu.br/",
       "dataVerificacao": "2026-10-18",
-      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas.",
+      "observacoes": "Curso de curta duração do catálogo 'Cursos EaD 2026 – Plataforma Moodle IFRS Reitoria' (206 cursos, inscrições de 01/01 a 31/12/2026, gratuitas, unidade Campus Virtual). Faltam confirmar na página do curso ou no Moodle: público-alvo, certificado gratuito e critérios de aprovação; a página do curso não pôde ser lida nesta verificação. Outros cursos de TI do mesmo catálogo: Lógica de Programação (módulos 2 e 3), Java II e III, JavaScript, HTML5, CSS3, Banco de Dados 1, Oracle PL/SQL, Projeto de Sistemas Web, Computação: Fundamentos, Windows Server 2016, Raspberry PI/IoT, Automação de Sistemas. 19/10 (17h58): página do curso (estude.ifrs.edu.br) seguiu sem leitura automática; falta confirmar certificado e público.",
       "fontes": [
         "https://estude.ifrs.edu.br/inscricoes-abertas/cursos-ead-2025-plataforma-moodle/",
         "https://estude.ifrs.edu.br/inscricoes-abertas/",
@@ -3193,13 +3194,68 @@
         "https://www.ifb.edu.br/attachments/article/46282/Edital%2010-2026%20FICs%20EAD%20Campus%20Gama.pdf"
       ],
       "primeiraDeteccao": "2026-10-19"
+    },
+    {
+      "id": "ifrs-erechim-46-2025-esp-ia-educacao",
+      "curso": "Especialização em Inteligência Artificial na Educação (presencial em Erechim/RS)",
+      "instituicao": "IFRS · Campus Erechim",
+      "estado": "RS",
+      "tipo": "Especialização",
+      "area": "Inteligência Artificial (aplicada à educação)",
+      "edital": "Edital nº 46/2025 (IFRS Campus Erechim)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2025-12-12",
+      "inscricaoFim": "2026-02-01",
+      "cargaHoraria": "390 h (incluindo 25 h de TCC)",
+      "vagas": "40 (14 rede estadual/15ª CRE, 14 rede municipal/COREDE Norte, 9 ampla concorrência, 3 reservas)",
+      "mensalidade": "NÃO INFORMADO (edital não menciona mensalidade; instituição pública federal)",
+      "taxa": "R$ 50,00 por GRU; isenção para inscritos no CadÚnico com renda per capita de até 1 salário mínimo",
+      "certificado": "Certificado de Especialista em Inteligência Artificial na Educação",
+      "polos": "Campus Erechim (RS)",
+      "pePodeParticipar": "Não na prática: público restrito a profissionais da educação com vínculo comprovado (vagas priorizam rede estadual da 15ª CRE e municipal do COREDE Norte/RS)",
+      "atividadesPresenciais": "Curso presencial no Campus Erechim (item 2.2 do edital: 'Modalidade de oferta: Presencial')",
+      "aulasSincronas": "Não se aplica (presencial)",
+      "provasPresenciais": "Não se aplica (seleção on-line por sorteio)",
+      "processoSeletivo": "Inscrição on-line (item 1.2) e sorteio público eletrônico em 20/02/2026; exige graduação e vínculo como profissional da educação",
+      "viabilidade": "D",
+      "linkEdital": "https://ifrs.edu.br/erechim/wp-content/uploads/sites/3/2025/12/EDITAL_N_46_2025_-_PROCESSO_SELETIVO_PARA_INGRESSO_NO_CURSO_DE_POS-GRADUACAO_LATO_SENSU_IA_assinado.pdf",
+      "linkInscricao": "",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Registro de referência. Especialização presencial com público restrito (profissionais da educação), por isso D. Requisito: graduação em Educação, Ciências Humanas, Biológicas, Sociais Aplicadas ou Exatas e da Terra. Cronograma: isenção até 11/01/2026, pagamento até 02/02/2026, resultado até 02/03/2026, matrícula 02 a 06/03/2026, aulas a partir de 10/03/2026. Primeira turma; periodicidade de novas ofertas não informada.",
+      "fontes": [
+        "https://ifrs.edu.br/erechim/wp-content/uploads/sites/3/2025/12/EDITAL_N_46_2025_-_PROCESSO_SELETIVO_PARA_INGRESSO_NO_CURSO_DE_POS-GRADUACAO_LATO_SENSU_IA_assinado.pdf",
+        "https://www.pebsp.com/instituto-federal-abre-inscricoes-para-especializacao-inedita-em-inteligencia-artificial-na-educacao/"
+      ],
+      "primeiraDeteccao": "2026-10-19",
+      "marcos": [
+        {
+          "evento": "Pedido de isenção da taxa",
+          "data": "2026-01-11"
+        },
+        {
+          "evento": "Pagamento da taxa",
+          "data": "2026-02-02"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-03-02"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2026-03-06"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2026-03-10"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-19",
-      "resumo": "06h59 (portais Norte/Nordeste; homes de PEBSP e Hora Brasil bloqueadas à leitura direta, 9 itens de TI dos agregadores conferidos por busca): +2 técnicos subsequentes EaD semipresenciais do IF Baiano Senhor do Bonfim (Edital 27/2026: Informática e Redes, até 08/11, D por 20% presencial em polos na BA); +2 registros de referência UFCA PSED 2026.2 (ADS e Banco de Dados EaD/UAB, D). IFSULDEMINAS Inconfidentes FIC IA marcado como encerrado. Pendências C (IF Baiano Catu, IFMS, IFRS Bento/Moodle, Secti-PE) sem confirmação: portais/PDFs bloqueados. Conferidos e descartados: CPS Etec (já registrado), IF Sudeste MG 36/2026 (sem TI), IFB técnicos 2027.1 (presenciais no DF), IFPB PSCT 2027 (TI só presencial na PB, encerrado), UFG Data Science (pago), UESB ADS/Computação (editais de 2024/2025), IFRN Esp. Ciência de Dados 2026.2 (presencial, sem fonte oficial lida). Alertas de prazo: isenção IFPE 41/2026 e pagamento IFRN 55/2026 em 7 dias. 12h58 (portais CO/SE; ~10 itens de agregadores conferidos por busca, homes de PEBSP e Hora Brasil seguem bloqueadas): +1 registro de referência IFB Gama Edital 10/2026 (FIC EaD Lógica e Matemática Discreta para Programação, encerrado em mar/2026, A). Conferidos e descartados: UFRGS Esp. IA Avançada e UFMG Esp. Ciência de Dados (pagas), IFG Edital 22/2026 PROEX (FIC presenciais em GO), IFG Esp. IA 2026/1 (edição anterior, >12 meses), UnB EaD 2027 (sem TI), UFRRJ extensão IA na Educação (encerrada, página oficial não lida). Pendências C (IF Baiano Catu, IFRS Bento manutenção) sem novas fontes oficiais. Nenhuma novidade aberta.",
-      "novas": 5,
+      "resumo": "06h59 (portais Norte/Nordeste; homes de PEBSP e Hora Brasil bloqueadas à leitura direta, 9 itens de TI dos agregadores conferidos por busca): +2 técnicos subsequentes EaD semipresenciais do IF Baiano Senhor do Bonfim (Edital 27/2026: Informática e Redes, até 08/11, D por 20% presencial em polos na BA); +2 registros de referência UFCA PSED 2026.2 (ADS e Banco de Dados EaD/UAB, D). IFSULDEMINAS Inconfidentes FIC IA marcado como encerrado. Pendências C (IF Baiano Catu, IFMS, IFRS Bento/Moodle, Secti-PE) sem confirmação: portais/PDFs bloqueados. Conferidos e descartados: CPS Etec (já registrado), IF Sudeste MG 36/2026 (sem TI), IFB técnicos 2027.1 (presenciais no DF), IFPB PSCT 2027 (TI só presencial na PB, encerrado), UFG Data Science (pago), UESB ADS/Computação (editais de 2024/2025), IFRN Esp. Ciência de Dados 2026.2 (presencial, sem fonte oficial lida). Alertas de prazo: isenção IFPE 41/2026 e pagamento IFRN 55/2026 em 7 dias. 12h58 (portais CO/SE; ~10 itens de agregadores conferidos por busca, homes de PEBSP e Hora Brasil seguem bloqueadas): +1 registro de referência IFB Gama Edital 10/2026 (FIC EaD Lógica e Matemática Discreta para Programação, encerrado em mar/2026, A). Conferidos e descartados: UFRGS Esp. IA Avançada e UFMG Esp. Ciência de Dados (pagas), IFG Edital 22/2026 PROEX (FIC presenciais em GO), IFG Esp. IA 2026/1 (edição anterior, >12 meses), UnB EaD 2027 (sem TI), UFRRJ extensão IA na Educação (encerrada, página oficial não lida). Pendências C (IF Baiano Catu, IFRS Bento manutenção) sem novas fontes oficiais. Nenhuma novidade aberta. 17h58 (portais Sul + programas nacionais; ~14 itens de agregadores conferidos por busca — PEBSP, F5 Cariri, Vestibulando Web): +1 registro de referência IFRS Erechim Edital 46/2025 (Especialização presencial em IA na Educação, público restrito a profissionais da educação, D). Conferidos e descartados ou já registrados: UFMA Esp. Análise de Dados e IA (já registrada, encerrada), IFSULDEMINAS FIC IA turma 3 (encerrada em 18/10, já registrada), IFRS Bento extensão (já registrada), IFB CP 11/2026 (já registrada), UTFPR Ponta Grossa Esp. IA Aplicada (paga, FUNTEF), IFPR 2027 (presencial, encerrado), 6 especializações EaD PEBSP 09/10 (sem TI além da UFMA), IFSP São José do Rio Preto Edital 41/2026 e IFSP Itapetininga MOOC Java/Banco de Dados (encerrados; sem página oficial lida, não registrados). Pendências C (IFRS Moodle, IFRS Bento manutenção, IFMS, Secti-PE, IF Baiano Catu) sem confirmação oficial: páginas oficiais exigem leitura não disponível nesta execução. Nenhuma novidade aberta.",
+      "novas": 6,
       "fontesConsultadas": [
         "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-senhor-do-bonfim-2027/",
         "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
@@ -3212,7 +3268,11 @@
         "https://www.ifb.edu.br/attachments/article/46282/Edital%2010-2026%20FICs%20EAD%20Campus%20Gama.pdf",
         "https://www.inf.ufrgs.br/site/wp-content/uploads/2026/08/Especializacao-IAA-Edital-de-Selecao-2026.pdf",
         "https://www.ufmg.br//app/uploads/2026/05/Edital_Especializacao_em_Ciencias_de_Dados_2026_1_8e4419a52d.pdf",
-        "https://www.ifg.edu.br/attachments/article/46758/Edital%2022%20-%202026%20-%203%20retificacao.pdf"
+        "https://www.ifg.edu.br/attachments/article/46758/Edital%2022%20-%202026%20-%203%20retificacao.pdf",
+        "https://ifrs.edu.br/erechim/wp-content/uploads/sites/3/2025/12/EDITAL_N_46_2025_-_PROCESSO_SELETIVO_PARA_INGRESSO_NO_CURSO_DE_POS-GRADUACAO_LATO_SENSU_IA_assinado.pdf",
+        "https://www.utfpr.edu.br/campus/pontagrossa/avisos/campus-ponta-grossa-oferta-especializacao-em-inteligencia-artificial",
+        "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
+        "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-inscricoes-para.html"
       ]
     },
     {
@@ -3375,5 +3435,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-19T12:58:00-03:00"
+  "ultimaExecucao": "2026-10-19T17:58:00-03:00"
 }
