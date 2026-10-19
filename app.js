@@ -72,8 +72,16 @@
       : abertasCompat.length ? `${plural(abertasCompat.length, 'curso com inscrições abertas', 'cursos com inscrições abertas')} para você` : 'Nenhuma inscrição compatível aberta agora';
     if (state.opps.length) $('#h-sub').textContent = `${a + b} com viabilidade A ou B para quem mora em Pernambuco${urg.length ? ` · próximo prazo: ${inst(urg[0])}, ${(d => d === 0 ? 'hoje' : d === 1 ? 'amanhã' : `em ${d} dias`)(daysTo(urg[0].inscricaoFim))}` : ''}. ${state.opps.length - open.length} registros de referência e encerrados ficam guardados para acompanhar as próximas turmas.`;
     const last = state.log[0];
+    // Verificação: data e hora da última varredura (campo ultimaExecucao; senão, o último horário anotado no resumo do dia)
+    let verif = '';
+    const ue = state.ultimaExecucao && new Date(state.ultimaExecucao);
+    if (ue && !isNaN(ue)) verif = `${ue.toLocaleDateString('pt-BR', { timeZone: 'America/Recife' })} às ${ue.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Recife' }).replace(':', 'h')}`;
+    else if (last) { const hs = [...String(last.resumo || '').matchAll(/\b(\d{1,2})h(\d{2})\b/g)]; const h = hs[hs.length - 1]; verif = fmt(last.data) + (h ? ` às ${h[1].padStart(2, '0')}h${h[2]}` : ''); }
+    // Atualização: último dia em que entrou oportunidade nova no radar
+    const det = state.opps.map(o => o.primeiraDeteccao).filter(d => parse(d)).sort();
+    const ult = det[det.length - 1], nUlt = det.filter(d => d === ult).length;
     $('#lastcheck').innerHTML = state.erro ? 'Não foi possível carregar os dados. Tente atualizar.'
-      : last ? `Última verificação: <b>${esc(fmt(last.data))}</b>` : 'Carregando dados…';
+      : (verif || ult) ? `${verif ? `<span>Última verificação: <b>${esc(verif)}</b></span>` : ''}${ult ? `<span>Última atualização: <b>${esc(fmt(ult))}</b> · ${esc(plural(nUlt, 'registro novo', 'registros novos'))}</span>` : ''}` : 'Carregando dados…';
   }
 
   // ---------- destaques: inscrições abertas ----------
@@ -458,6 +466,7 @@
       .then(dados => {
         state.erro = false;
         state.opps = dados.oportunidades || [];
+        state.ultimaExecucao = dados.ultimaExecucao || '';
         state.log = (dados.verificacoes || []).slice().sort((a, b) => String(b.data).localeCompare(String(a.data)));
         if (!state.opps.some(o => o.id === state.sel)) state.sel = state.opps.filter(o => via(o) !== 'D' && phase(o).k !== 'enc').sort(byPriority)[0]?.id || null;
         renderAll();

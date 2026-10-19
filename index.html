@@ -8,7 +8,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f4fd1'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='white' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='2.5' fill='white'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
-<link rel="stylesheet" href="style.css?v=20261019">
+<link rel="stylesheet" href="style.css?v=20261019b">
 </head>
 <body>
 
@@ -48,48 +48,48 @@
       <div class="kpi kpi-alert"><span class="label">Encerram em até 7 dias</span><span class="n" id="k-7">–</span><small id="k-7-sub">&nbsp;</small></div>
       <div class="kpi"><span class="label">Detectadas nos últimos 7 dias</span><span class="n" id="k-new">–</span><small id="k-new-sub">&nbsp;</small></div>
     </section>
+
+    <section class="filterbar" aria-labelledby="fb-title">
+      <div class="fb-head">
+        <div class="fb-titles">
+          <h2 id="fb-title" class="label">Filtrar o painel</h2>
+          <p class="fb-sub" id="fb-sum">Os filtros valem para todas as seções abaixo.</p>
+        </div>
+        <button type="button" class="btn ghost small" id="fb-clear" hidden>Limpar filtros</button>
+      </div>
+    <div class="filters" role="search">
+      <input type="search" id="q" placeholder="Buscar curso ou instituição" aria-label="Buscar">
+      <select id="f-sit" aria-label="Situação">
+        <option value="">Todas as situações</option>
+        <option value="abertas">Inscrições abertas</option>
+        <option value="prazo">Encerram em até 7 dias</option>
+        <option value="futuras">Inscrições futuras</option>
+        <option value="encerradas">Encerradas (referência)</option>
+      </select>
+      <select id="f-uf" aria-label="Estado ou região">
+        <option value="">Todos os estados</option>
+      </select>
+      <select id="f-via" aria-label="Viabilidade">
+        <option value="">Toda viabilidade</option>
+        <option value="A">A · Alta</option><option value="B">B · Condicionada</option>
+        <option value="C">C · Pendente</option><option value="D">D · Incompatível</option>
+      </select>
+      <select id="f-tipo" aria-label="Tipo">
+        <option value="">Todos os tipos</option>
+        <option>Graduação</option><option>Especialização</option><option>Técnico</option><option>FIC</option><option>Livre</option><option>Extensão</option>
+      </select>
+      <select id="f-mine" aria-label="Meu acompanhamento">
+        <option value="">Todo acompanhamento</option>
+        <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
+      </select>
+      <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar encerradas</label>
+    </div>
+    </section>
   </div>
 </header>
 
 <main class="wrap">
   <p class="toast-line" id="refresh-msg" role="status"></p>
-
-  <section class="panel filterbar" aria-labelledby="fb-title">
-    <div class="fb-head">
-      <div class="fb-titles">
-        <h2 id="fb-title">Filtrar o painel</h2>
-        <p class="fb-sub" id="fb-sum">Os filtros valem para todas as seções abaixo.</p>
-      </div>
-      <button type="button" class="btn ghost small" id="fb-clear" hidden>Limpar filtros</button>
-    </div>
-  <div class="filters" role="search">
-    <input type="search" id="q" placeholder="Buscar curso ou instituição" aria-label="Buscar">
-    <select id="f-sit" aria-label="Situação">
-      <option value="">Todas as situações</option>
-      <option value="abertas">Inscrições abertas</option>
-      <option value="prazo">Encerram em até 7 dias</option>
-      <option value="futuras">Inscrições futuras</option>
-      <option value="encerradas">Encerradas (referência)</option>
-    </select>
-    <select id="f-uf" aria-label="Estado ou região">
-      <option value="">Todos os estados</option>
-    </select>
-    <select id="f-via" aria-label="Viabilidade">
-      <option value="">Toda viabilidade</option>
-      <option value="A">A · Alta</option><option value="B">B · Condicionada</option>
-      <option value="C">C · Pendente</option><option value="D">D · Incompatível</option>
-    </select>
-    <select id="f-tipo" aria-label="Tipo">
-      <option value="">Todos os tipos</option>
-      <option>Graduação</option><option>Especialização</option><option>Técnico</option><option>FIC</option><option>Livre</option><option>Extensão</option>
-    </select>
-    <select id="f-mine" aria-label="Meu acompanhamento">
-      <option value="">Todo acompanhamento</option>
-      <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
-    </select>
-    <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar encerradas</label>
-  </div>
-  </section>
 
   <section class="panel" aria-labelledby="uf-title">
     <div class="panel-head">
@@ -187,6 +187,6 @@
 </main>
 
 <div class="tip" id="tip" role="tooltip" hidden></div>
-<script src="app.js?v=20261019"></script>
+<script src="app.js?v=20261019b"></script>
 </body>
 </html>

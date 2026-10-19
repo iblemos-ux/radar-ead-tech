@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Valida dados.json antes de publicar. Uso: python3 validar.py [arquivo]. Sai com código 1 se houver erro."""
 import json, re, sys
-from datetime import date
+from datetime import date, datetime
 
 ARQ = sys.argv[1] if len(sys.argv) > 1 else 'dados.json'
 ISO = re.compile(r'^\d{4}-\d{2}-\d{2}$')
@@ -31,6 +31,12 @@ except Exception as e:
 
 if not data_ok(d.get('atualizadoEm'), vazio_ok=False):
     erros.append(f'atualizadoEm inválido: {d.get("atualizadoEm")!r}')
+ue = d.get('ultimaExecucao')
+if ue not in (None, ''):
+    try:
+        datetime.fromisoformat(str(ue))
+    except ValueError:
+        erros.append(f'ultimaExecucao precisa ser data e hora ISO (ex.: 2026-10-19T06:58:00-03:00), veio {ue!r}')
 ops = d.get('oportunidades')
 if not isinstance(ops, list):
     erros.append('oportunidades precisa ser uma lista')
