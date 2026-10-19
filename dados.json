@@ -3161,13 +3161,45 @@
       ],
       "primeiraDeteccao": "2026-10-19",
       "marcos": []
+    },
+    {
+      "id": "ifb-gama-10-2026-fic-logica-programacao",
+      "curso": "Lógica e Matemática Discreta para Programação (FIC EaD)",
+      "instituicao": "IFB · Campus Gama",
+      "estado": "DF",
+      "tipo": "FIC",
+      "area": "Programação",
+      "edital": "Edital nº 10/2026 – Segunda Chamada Pública FIC EaD Campus Gama (Seleção 2026/1)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-03-23",
+      "inscricaoFim": "2026-03-27",
+      "cargaHoraria": "72 h; início das aulas previsto a partir de 08/04/2026",
+      "vagas": "100",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa",
+      "certificado": "Certificado FIC para concluintes (detalhes NÃO INFORMADOS na leitura)",
+      "polos": "Não se aplica (100% a distância, Plataforma NEAD/Moodle)",
+      "pePodeParticipar": "Sim — edital não exige residência; pede apenas comprovante de residência ou declaração; matrícula por formulário eletrônico (sem matrícula presencial)",
+      "atividadesPresenciais": "Nenhuma — curso totalmente a distância",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Não",
+      "processoSeletivo": "Ordem cronológica de envio do formulário com documentação completa, até preencher as vagas; escolaridade mínima: ensino fundamental completo. Primeiro acesso ao Moodle em até 7 dias após o início, sob pena de desligamento.",
+      "viabilidade": "A",
+      "linkEdital": "https://www.ifb.edu.br/attachments/article/46282/Edital%2010-2026%20FICs%20EAD%20Campus%20Gama.pdf",
+      "linkInscricao": "",
+      "dataVerificacao": "2026-10-19",
+      "observacoes": "Registro de referência. O Campus Gama do IFB publica chamadas FIC EaD por semestre (esta foi a 2ª chamada de 2026/1); nova oferta do curso NÃO CONFIRMADA. Viabilidade A no edital de referência: 100% online, sem restrição de residência.",
+      "fontes": [
+        "https://www.ifb.edu.br/attachments/article/46282/Edital%2010-2026%20FICs%20EAD%20Campus%20Gama.pdf"
+      ],
+      "primeiraDeteccao": "2026-10-19"
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-19",
-      "resumo": "06h59 (portais Norte/Nordeste; homes de PEBSP e Hora Brasil bloqueadas à leitura direta, 9 itens de TI dos agregadores conferidos por busca): +2 técnicos subsequentes EaD semipresenciais do IF Baiano Senhor do Bonfim (Edital 27/2026: Informática e Redes, até 08/11, D por 20% presencial em polos na BA); +2 registros de referência UFCA PSED 2026.2 (ADS e Banco de Dados EaD/UAB, D). IFSULDEMINAS Inconfidentes FIC IA marcado como encerrado. Pendências C (IF Baiano Catu, IFMS, IFRS Bento/Moodle, Secti-PE) sem confirmação: portais/PDFs bloqueados. Conferidos e descartados: CPS Etec (já registrado), IF Sudeste MG 36/2026 (sem TI), IFB técnicos 2027.1 (presenciais no DF), IFPB PSCT 2027 (TI só presencial na PB, encerrado), UFG Data Science (pago), UESB ADS/Computação (editais de 2024/2025), IFRN Esp. Ciência de Dados 2026.2 (presencial, sem fonte oficial lida). Alertas de prazo: isenção IFPE 41/2026 e pagamento IFRN 55/2026 em 7 dias.",
-      "novas": 4,
+      "resumo": "06h59 (portais Norte/Nordeste; homes de PEBSP e Hora Brasil bloqueadas à leitura direta, 9 itens de TI dos agregadores conferidos por busca): +2 técnicos subsequentes EaD semipresenciais do IF Baiano Senhor do Bonfim (Edital 27/2026: Informática e Redes, até 08/11, D por 20% presencial em polos na BA); +2 registros de referência UFCA PSED 2026.2 (ADS e Banco de Dados EaD/UAB, D). IFSULDEMINAS Inconfidentes FIC IA marcado como encerrado. Pendências C (IF Baiano Catu, IFMS, IFRS Bento/Moodle, Secti-PE) sem confirmação: portais/PDFs bloqueados. Conferidos e descartados: CPS Etec (já registrado), IF Sudeste MG 36/2026 (sem TI), IFB técnicos 2027.1 (presenciais no DF), IFPB PSCT 2027 (TI só presencial na PB, encerrado), UFG Data Science (pago), UESB ADS/Computação (editais de 2024/2025), IFRN Esp. Ciência de Dados 2026.2 (presencial, sem fonte oficial lida). Alertas de prazo: isenção IFPE 41/2026 e pagamento IFRN 55/2026 em 7 dias. 12h58 (portais CO/SE; ~10 itens de agregadores conferidos por busca, homes de PEBSP e Hora Brasil seguem bloqueadas): +1 registro de referência IFB Gama Edital 10/2026 (FIC EaD Lógica e Matemática Discreta para Programação, encerrado em mar/2026, A). Conferidos e descartados: UFRGS Esp. IA Avançada e UFMG Esp. Ciência de Dados (pagas), IFG Edital 22/2026 PROEX (FIC presenciais em GO), IFG Esp. IA 2026/1 (edição anterior, >12 meses), UnB EaD 2027 (sem TI), UFRRJ extensão IA na Educação (encerrada, página oficial não lida). Pendências C (IF Baiano Catu, IFRS Bento manutenção) sem novas fontes oficiais. Nenhuma novidade aberta.",
+      "novas": 5,
       "fontesConsultadas": [
         "https://ingresso.ifbaiano.edu.br/concursos/subsequente-ead-senhor-do-bonfim-2027/",
         "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/10/Edital-27-de-2026-de-13-de-outubro-de-2026-Prosel-EAD-subsequente-ao-Ensino-Medio.pdf",
@@ -3176,7 +3208,11 @@
         "https://estudante.ifpb.edu.br/media/Edital_de_abertura_n%C2%BA_134-2026_-_Cursos_Subsequentes_PSCT_2027_vh2Lrmi.pdf",
         "https://files.cercomp.ufg.br/weby/up/29/o/Edital_oferta_data_science_2026_assinado.pdf",
         "https://www.pebsp.com/",
-        "https://www.horabrasil.com.br/"
+        "https://www.horabrasil.com.br/",
+        "https://www.ifb.edu.br/attachments/article/46282/Edital%2010-2026%20FICs%20EAD%20Campus%20Gama.pdf",
+        "https://www.inf.ufrgs.br/site/wp-content/uploads/2026/08/Especializacao-IAA-Edital-de-Selecao-2026.pdf",
+        "https://www.ufmg.br//app/uploads/2026/05/Edital_Especializacao_em_Ciencias_de_Dados_2026_1_8e4419a52d.pdf",
+        "https://www.ifg.edu.br/attachments/article/46758/Edital%2022%20-%202026%20-%203%20retificacao.pdf"
       ]
     },
     {
@@ -3339,5 +3375,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-19T06:59:00-03:00"
+  "ultimaExecucao": "2026-10-19T12:58:00-03:00"
 }
