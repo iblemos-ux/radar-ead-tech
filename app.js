@@ -88,11 +88,12 @@
   function renderDest() {
     const el = $('#dest');
     const more = $('#dest-more');
-    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && via(o) !== 'D' && matchUF(o)))
+    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && via(o) !== 'D' && passaTudo(o)))
       .sort((x, y) => x.best.localeCompare(y.best) || ((x.fim ?? 9999) - (y.fim ?? 9999)));
     const onde = state.uf ? ` em ${nomeFiltro(state.uf)}` : '';
+    const outros = nFiltros() - (state.uf ? 1 : 0);
     $('#dest-sub').textContent = gs.length ? `${plural(gs.length, 'edital', 'editais')}${onde} com inscrições abertas ou com abertura confirmada, nas viabilidades A, B e C. Clique em “Inscrever-se” para ir direto à página oficial.` : 'Editais com inscrições abertas nas viabilidades A, B e C aparecem aqui.';
-    if (!gs.length) { more.hidden = true; el.innerHTML = `<p class="g-empty">${!state.opps.length ? 'Carregando…' : state.uf ? `Nenhum edital A, B ou C com inscrições abertas${esc(onde)}. Limpe o filtro de estado para ver os demais.` : 'Nenhum edital compatível com inscrições abertas neste momento. Os registros de referência ficam mais abaixo.'}</p>`; return; }
+    if (!gs.length) { more.hidden = true; el.innerHTML = `<p class="g-empty">${!state.opps.length ? 'Carregando…' : filtrosAtuais().v === 'D' ? 'Esta seção mostra só editais A, B e C. Os D aparecem no cronograma (com “Mostrar D”) e na lista abaixo.' : (state.uf || outros) ? `Nenhum edital A, B ou C com inscrições abertas${esc(onde)} para os filtros escolhidos. Use “Limpar filtros” no topo para ver os demais.` : 'Nenhum edital compatível com inscrições abertas neste momento. Os registros de referência ficam mais abaixo.'}</p>`; return; }
     // Mostra só os prioritários; o restante fica atrás do botão "Ver todos"
     const lim = matchMedia('(max-width:720px)').matches ? 4 : 8;
     const vis = state.destAll ? gs : gs.slice(0, lim);
@@ -126,10 +127,10 @@
 
   // ---------- cronograma ----------
   function renderGantt() {
-    const el = $('#gantt'), comD = $('#g-d').checked;
-    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && (comD || via(o) !== 'D') && daysTo(o.inscricaoFim) !== null && matchUF(o)))
+    const el = $('#gantt'), comD = $('#g-d').checked || filtrosAtuais().v === 'D';
+    const gs = agrupar(state.opps.filter(o => ['aberta', 'prazo', 'futura'].includes(phase(o).k) && (comD || via(o) !== 'D') && daysTo(o.inscricaoFim) !== null && passaTudo(o)))
       .sort((x, y) => (x.fim - y.fim) || x.best.localeCompare(y.best));
-    if (!gs.length) { el.innerHTML = `<p class="g-empty">Nenhum edital com inscrições abertas ou futuras${comD ? '' : ' nas viabilidades A, B ou C'}${state.uf ? ` em ${esc(nomeFiltro(state.uf))}` : ''}.</p>`; return; }
+    if (!gs.length) { el.innerHTML = `<p class="g-empty">Nenhum edital com inscrições abertas ou futuras${comD ? '' : ' nas viabilidades A, B ou C'}${state.uf ? ` em ${esc(nomeFiltro(state.uf))}` : ''}${nFiltros() ? ' para os filtros escolhidos' : ''}.</p>`; return; }
     const mkDias = g => marcosGrupo(g.items).map(m => ({ ...m, d: daysTo(m.data) })).filter(m => m.d >= 0 && m.d <= 60);
     const maxFim = Math.max(...gs.map(g => Math.max(g.fim, ...mkDias(g).map(m => m.d))));
     const start = -14, end = Math.max(42, Math.min(119, Math.ceil((maxFim + 6) / 7) * 7));
@@ -203,7 +204,7 @@
     // Se a ficha aberta for de outro estado, troca pelo edital prioritário do recorte
     const atual = state.opps.find(o => o.id === state.sel);
     if (!atual || !matchUF(atual)) state.sel = (state.opps.filter(o => matchUF(o) && via(o) !== 'D' && phase(o).k !== 'enc').sort(byPriority)[0] || state.opps.filter(matchUF).sort(byPriority)[0] || atual)?.id || null;
-    renderUF(); renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs();
+    renderUF(); renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderFiltroResumo();
   }
   function renderUF() {
     const el = $('#ufmap');
@@ -252,21 +253,48 @@
   }
 
   // ---------- tabela ----------
+  // Filtros da barra do topo: valem para cards, cronograma, lista e registros de referência
+  const filtrosAtuais = () => ({ q: $('#q').value.trim().toLowerCase(), sit: $('#f-sit').value, v: $('#f-via').value, tipo: $('#f-tipo').value, mine: $('#f-mine').value, hide: $('#f-hide').checked });
+  // Busca, viabilidade, tipo, acompanhamento e estado (sem situação/ocultar encerradas)
+  function passaBase(o, f = filtrosAtuais()) {
+    const m = state.mine[o.id]?.status || 'none';
+    if (!matchUF(o)) return false;
+    if (f.q && ![o.curso, o.instituicao, o.estado, o.edital, o.area].join(' ').toLowerCase().includes(f.q)) return false;
+    if (f.v && via(o) !== f.v) return false;
+    if (f.tipo && o.tipo !== f.tipo) return false;
+    if (f.mine && m !== f.mine) return false;
+    return true;
+  }
+  // Base + situação
+  function passaTudo(o, f = filtrosAtuais()) {
+    const ph = phase(o).k;
+    if (!passaBase(o, f)) return false;
+    if (f.sit === 'abertas' && !(ph === 'aberta' || ph === 'prazo')) return false;
+    if (f.sit === 'prazo' && ph !== 'prazo') return false;
+    if (f.sit === 'futuras' && ph !== 'futura') return false;
+    if (f.sit === 'encerradas' && ph !== 'enc') return false;
+    return true;
+  }
+  function nFiltros() { const f = filtrosAtuais(); return [f.q, f.sit, state.uf, f.v, f.tipo, f.mine].filter(Boolean).length; }
+  function renderFiltroResumo() {
+    const n = nFiltros();
+    $('#fb-sum').textContent = n ? `${plural(n, 'filtro ativo', 'filtros ativos')} · valendo para todas as seções abaixo` : 'Os filtros valem para todas as seções abaixo.';
+    $('#fb-clear').hidden = !n;
+    $('.filterbar').classList.toggle('on', !!n);
+  }
+  function aplicarFiltros() {
+    state.destAll = false;
+    // Se a ficha aberta ficou fora dos filtros, troca pelo edital prioritário do recorte
+    const vis = filtrados(), atual = vis.find(o => o.id === state.sel);
+    if (!atual && vis.length) state.sel = (vis.filter(o => via(o) !== 'D' && phase(o).k !== 'enc').sort(byPriority)[0] || vis.slice().sort(byPriority)[0]).id;
+    renderDest(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderFiltroResumo();
+  }
   function filtrados() {
-    const q = $('#q').value.trim().toLowerCase(), sit = $('#f-sit').value, v = $('#f-via').value, tipo = $('#f-tipo').value, mine = $('#f-mine').value, hide = $('#f-hide').checked;
+    const f = filtrosAtuais();
     return state.opps.filter(o => {
-      const ph = phase(o).k, m = state.mine[o.id]?.status || 'none';
-      if (hide && sit !== 'encerradas' && ph === 'enc') return false;
-      if (!matchUF(o)) return false;
-      if (q && ![o.curso, o.instituicao, o.estado, o.edital, o.area].join(' ').toLowerCase().includes(q)) return false;
-      if (sit === 'abertas' && !(ph === 'aberta' || ph === 'prazo')) return false;
-      if (sit === 'prazo' && !(ph === 'prazo')) return false;
-      if (sit === 'futuras' && ph !== 'futura') return false;
-      if (sit === 'encerradas' && ph !== 'enc') return false;
-      if (v && via(o) !== v) return false;
-      if (tipo && o.tipo !== tipo) return false;
-      if (mine && m !== mine) return false;
-      return true;
+      const ph = phase(o).k;
+      if (f.hide && f.sit !== 'encerradas' && ph === 'enc') return false;
+      return passaTudo(o, f);
     });
   }
   function renderTable() {
@@ -390,8 +418,8 @@
 
   // ---------- registros de referência (encerrados) ----------
   function renderRefs() {
-    const list = state.opps.filter(o => phase(o).k === 'enc' && matchUF(o)).sort((a, b) => String(b.inscricaoFim).localeCompare(String(a.inscricaoFim)));
-    $('#refs-sub').textContent = list.length ? `${plural(list.length, 'edital encerrado mantido', 'editais encerrados mantidos')} para acompanhar as próximas turmas de cada instituição.` : state.uf ? `Nenhum edital encerrado registrado em ${nomeFiltro(state.uf)}.` : 'Nenhum edital encerrado registrado ainda.';
+    const list = state.opps.filter(o => phase(o).k === 'enc' && passaBase(o)).sort((a, b) => String(b.inscricaoFim).localeCompare(String(a.inscricaoFim)));
+    $('#refs-sub').textContent = list.length ? `${plural(list.length, 'edital encerrado mantido', 'editais encerrados mantidos')} para acompanhar as próximas turmas de cada instituição.` : nFiltros() ? `Nenhum edital encerrado${state.uf ? ` em ${nomeFiltro(state.uf)}` : ''} para os filtros escolhidos.` : 'Nenhum edital encerrado registrado ainda.';
     $('#refs').innerHTML = list.length ? list.map(o => `<tr data-id="${esc(o.id)}" aria-current="${o.id === state.sel}">
         <td><span class="grade g-${esc(via(o))}" title="${esc(VIAB[via(o)])}">${esc(via(o))}</span></td>
         <td class="c-op"><div class="op-name">${esc(inst(o))}${campus(o) ? ` <span class="op-meta">· ${esc(campus(o))}</span>` : ''}</div><div class="op-meta">${esc(o.curso)}</div></td>
@@ -406,10 +434,14 @@
     state.sel = id; renderGantt(); renderTable(); renderSheet(); renderRefs();
     if (scroll && matchMedia('(max-width:1060px)').matches) $('#sheet').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
-  function renderAll() { renderKpis(); renderDest(); renderUF(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
+  function renderAll() { renderKpis(); renderFiltroResumo(); renderDest(); renderUF(); renderGantt(); renderTable(); renderSheet(); renderRefs(); renderLog(); }
 
   // ---------- eventos ----------
-  ['#q', '#f-sit', '#f-via', '#f-tipo', '#f-mine', '#f-hide'].forEach(s => $(s).addEventListener('input', renderTable));
+  ['#q', '#f-sit', '#f-via', '#f-tipo', '#f-mine', '#f-hide'].forEach(s => $(s).addEventListener('input', aplicarFiltros));
+  $('#fb-clear').addEventListener('click', () => {
+    $('#q').value = ''; ['#f-sit', '#f-via', '#f-tipo', '#f-mine'].forEach(s => { $(s).value = ''; }); $('#f-hide').checked = true;
+    if (state.uf) setUF(state.uf); else aplicarFiltros();
+  });
   $('#g-d').addEventListener('change', renderGantt);
   montarSelectUF();
   $('#f-uf').addEventListener('input', e => { state.uf = ''; setUF(e.target.value); });

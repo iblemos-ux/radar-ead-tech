@@ -54,6 +54,41 @@
 <main class="wrap">
   <p class="toast-line" id="refresh-msg" role="status"></p>
 
+  <section class="panel filterbar" aria-labelledby="fb-title">
+    <div class="fb-head">
+      <h2 id="fb-title">Filtrar o painel</h2>
+      <span class="sub" id="fb-sum">Os filtros valem para todas as seções abaixo.</span>
+      <button type="button" class="btn ghost small" id="fb-clear" hidden>Limpar filtros</button>
+    </div>
+  <div class="filters" role="search">
+    <input type="search" id="q" placeholder="Buscar curso, instituição, UF ou edital" aria-label="Buscar">
+    <select id="f-sit" aria-label="Situação">
+      <option value="">Todas as situações</option>
+      <option value="abertas">Inscrições abertas</option>
+      <option value="prazo">Encerram em até 7 dias</option>
+      <option value="futuras">Inscrições futuras</option>
+      <option value="encerradas">Encerradas (referência)</option>
+    </select>
+    <select id="f-uf" aria-label="Estado ou região">
+      <option value="">Todos os estados</option>
+    </select>
+    <select id="f-via" aria-label="Viabilidade">
+      <option value="">Toda viabilidade</option>
+      <option value="A">A · Alta</option><option value="B">B · Condicionada</option>
+      <option value="C">C · Pendente</option><option value="D">D · Incompatível</option>
+    </select>
+    <select id="f-tipo" aria-label="Tipo">
+      <option value="">Todos os tipos</option>
+      <option>Graduação</option><option>Especialização</option><option>Técnico</option><option>FIC</option><option>Livre</option><option>Extensão</option>
+    </select>
+    <select id="f-mine" aria-label="Meu acompanhamento">
+      <option value="">Todo acompanhamento</option>
+      <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar encerradas</label>
+  </div>
+  </section>
+
   <section class="panel" aria-labelledby="uf-title">
     <div class="panel-head">
       <div>
@@ -105,33 +140,6 @@
           <p class="sub" id="count">&nbsp;</p>
         </div>
         <span class="uf-flag" hidden></span>
-      </div>
-      <div class="filters" role="search">
-        <input type="search" id="q" placeholder="Buscar curso, instituição, UF ou edital" aria-label="Buscar">
-        <select id="f-sit" aria-label="Situação">
-          <option value="">Todas as situações</option>
-          <option value="abertas">Inscrições abertas</option>
-          <option value="prazo">Encerram em até 7 dias</option>
-          <option value="futuras">Inscrições futuras</option>
-          <option value="encerradas">Encerradas (registro de referência)</option>
-        </select>
-        <select id="f-uf" aria-label="Estado ou região">
-          <option value="">Todos os estados</option>
-        </select>
-        <select id="f-via" aria-label="Viabilidade">
-          <option value="">Toda viabilidade</option>
-          <option value="A">A · Alta</option><option value="B">B · Condicionada</option>
-          <option value="C">C · Pendente</option><option value="D">D · Incompatível</option>
-        </select>
-        <select id="f-tipo" aria-label="Tipo">
-          <option value="">Todos os tipos</option>
-          <option>Graduação</option><option>Especialização</option><option>Técnico</option><option>FIC</option><option>Livre</option><option>Extensão</option>
-        </select>
-        <select id="f-mine" aria-label="Meu acompanhamento">
-          <option value="">Todo acompanhamento</option>
-          <option value="interesse">Tenho interesse</option><option value="inscrito">Inscrito</option><option value="descartado">Descartado</option><option value="none">Sem marcação</option>
-        </select>
-        <label class="chk"><input type="checkbox" id="f-hide" checked> Ocultar encerradas</label>
       </div>
       <div class="table-scroll">
         <table class="table" id="table">
