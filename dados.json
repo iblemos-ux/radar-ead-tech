@@ -3351,18 +3351,355 @@
         "https://ingresso.iffarroupilha.edu.br/subsequentes"
       ],
       "primeiraDeteccao": "2026-10-21"
+    },
+    {
+      "id": "iffar-340-2026-ads-alegrete",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (presencial)",
+      "instituicao": "IFFar · Campus Alegrete",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "30 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus Alegrete (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus Alegrete (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus Alegrete, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-ads-svs",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (presencial)",
+      "instituicao": "IFFar · Campus São Vicente do Sul",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "35 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus São Vicente do Sul (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus São Vicente do Sul (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus São Vicente do Sul, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-ads-uruguaiana",
+      "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas (presencial)",
+      "instituicao": "IFFar · Campus Uruguaiana",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "35 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus Uruguaiana (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus Uruguaiana (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus Uruguaiana, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-cc-fw",
+      "curso": "Bacharelado em Ciência da Computação (presencial)",
+      "instituicao": "IFFar · Campus Frederico Westphalen",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Ciência da Computação",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "40 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus Frederico Westphalen (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus Frederico Westphalen (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus Frederico Westphalen, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-tsi-panambi",
+      "curso": "Tecnologia em Sistemas para Internet (presencial)",
+      "instituicao": "IFFar · Campus Panambi",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Desenvolvimento Web",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "35 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus Panambi (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus Panambi (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus Panambi, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-tsi-santoangelo",
+      "curso": "Tecnologia em Sistemas para Internet (presencial)",
+      "instituicao": "IFFar · Campus Santo Ângelo",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Desenvolvimento Web",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "35 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus Santo Ângelo (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus Santo Ângelo (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus Santo Ângelo, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
+    },
+    {
+      "id": "iffar-340-2026-si-saoborja",
+      "curso": "Bacharelado em Sistemas de Informação (presencial)",
+      "instituicao": "IFFar · Campus São Borja",
+      "estado": "RS",
+      "tipo": "Graduação",
+      "area": "Sistemas de Informação",
+      "edital": "Edital nº 340/2026 (Processo Seletivo 2027, Cursos Superiores de Graduação)",
+      "situacao": "INSCRIÇÕES ABERTAS",
+      "inscricaoInicio": "2026-10-14",
+      "inscricaoFim": "2026-12-18",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "30 (turno da noite), Anexo II do edital e página de ingresso",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de graduação (IFFar)",
+      "polos": "IFFar Campus São Borja (RS)",
+      "pePodeParticipar": "Inscrição aberta a qualquer candidato com Enem (sem restrição de residência no edital), mas o curso é presencial no RS",
+      "atividadesPresenciais": "Sim: curso presencial, turno da noite, no campus São Borja (RS). O edital não menciona oferta EaD (Anexo II traz campus e turno)",
+      "aulasSincronas": "Não se aplica (curso presencial)",
+      "provasPresenciais": "Não há prova no processo seletivo (nota do Enem)",
+      "processoSeletivo": "Média simples das notas do Enem, incluindo redação, de 2009 em diante (itens 1.3 e 10.1); inscrição e confirmação de vaga on-line (itens 3.3 e 11.1); 1ª chamada em 21/01/2027, confirmação até 01/02, resultado definitivo em 12/02/2027",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+      "linkInscricao": "https://sis.iffarroupilha.edu.br/candidato",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Incluído a pedido. Gratuito e com seleção pelo Enem, mas incompatível com residência em Recife: aulas presenciais à noite no campus São Borja, no Rio Grande do Sul. Ingresso no 1º semestre de 2027.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.pebsp.com/?p=51292"
+      ],
+      "primeiraDeteccao": "2026-10-21",
+      "marcos": [
+        {
+          "evento": "Publicação da 1ª chamada",
+          "data": "2027-01-21"
+        },
+        {
+          "evento": "Confirmação da vaga (1ª chamada, on-line)",
+          "data": "2027-02-01"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-02-12"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-21",
-      "resumo": "01h30 (verificação manual do IFFar a pedido): +3 registros de referência D (técnicos EaD de TI do Edital 296/2026: Manutenção e Suporte em Informática, Redes de Computadores e Informática para Internet; inscrições encerradas em 09/10; exigem 20% presencial nos polos do RS). Especializações do Edital 326/2026 sem curso de TI. Graduações de TI 2027 (ADS, Sistemas para Internet, Ciência da Computação, Sistemas de Informação) são presenciais no RS, fora do escopo.",
-      "novas": 3,
+      "resumo": "01h30 (verificação manual do IFFar a pedido): +3 registros de referência D (técnicos EaD de TI do Edital 296/2026: Manutenção e Suporte em Informática, Redes de Computadores e Informática para Internet; inscrições encerradas em 09/10; exigem 20% presencial nos polos do RS). Especializações do Edital 326/2026 sem curso de TI. Graduações de TI 2027 (ADS, Sistemas para Internet, Ciência da Computação, Sistemas de Informação) são presenciais no RS, fora do escopo. 01h40 (a pedido): +7 graduações de TI do IFFar (Edital 340/2026, inscrições até 18/12, Enem): ADS em Alegrete, São Vicente do Sul e Uruguaiana; Ciência da Computação em Frederico Westphalen; Sistemas para Internet em Panambi e Santo Ângelo; Sistemas de Informação em São Borja. Todas presenciais no RS, viabilidade D.",
+      "novas": 10,
       "fontesConsultadas": [
         "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
         "https://ingresso.iffarroupilha.edu.br/subsequentes",
         "https://www.iffarroupilha.edu.br/ultimas-noticias/item/48336-iffar-abre-inscri%C3%A7%C3%B5es-para-cursos-gratuitos-de-especializa%C3%A7%C3%A3o-presenciais-e-ead",
-        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o"
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o",
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60363/9cb98145b56878d2e18295a5c79bf5da"
       ]
     },
     {
@@ -3568,5 +3905,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-21T01:30:00-03:00"
+  "ultimaExecucao": "2026-10-21T01:40:00-03:00"
 }
