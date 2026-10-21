@@ -3696,7 +3696,7 @@
       "tipo": "Graduação",
       "area": "Inteligência Artificial",
       "edital": "Edital nº 023/2026-PROEG/UFMT (PSE 2ª etapa, vagas remanescentes do Edital 017/2026)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-19",
       "inscricaoFim": "2026-11-05",
       "cargaHoraria": "1.760 h (1.116 h a distância, 204 h síncronas mediadas, 440 h presenciais no polo)",
@@ -3714,11 +3714,12 @@
       "linkEdital": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "linkInscricao": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "dataVerificacao": "2026-10-21",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial da UFMT (ingressoead) e o PDF do Edital 023/2026-PROEG não puderam ser lidos nesta execução (06h58 de 21/10). Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata (ADS, SI, CC, Redes etc.). Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o edital na página https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados.",
+      "observacoes": "Atualização 21/10 (12h58): oferta e período de inscrição (19/10 a 05/11/2026) CONFIRMADOS na Central de Ingresso EaD da UFMT (página do curso e notícia 'Estão abertas as inscrições'), que lista o Processo Seletivo Específico do Bacharelado de 2º Ciclo da FCT/UFMT (EaD) em Engenharia de Software, Inteligência Artificial e Ciência de Dados. Vagas, taxa, requisitos, polos, residência e encontros presenciais continuam vindo de fonte secundária (PEBSP): a aba 'Editais' da página oficial estava vazia e o PDF do Edital 023/2026-PROEG não foi localizado; viabilidade segue C. Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata. Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o PDF do Edital 023/2026-PROEG (não publicado em https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais nesta verificação).",
       "fontes": [
         "https://www.pebsp.com/3-bacharelados-ead-da-ufmt-abrem-vagas-em-inteligencia-artificial-ciencia-de-dados-e-engenharia-de-software/",
         "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
-        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes"
+        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes",
+        "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais"
       ],
       "primeiraDeteccao": "2026-10-21",
       "marcos": [
@@ -3756,7 +3757,7 @@
       "tipo": "Graduação",
       "area": "Ciência de Dados",
       "edital": "Edital nº 023/2026-PROEG/UFMT (PSE 2ª etapa, vagas remanescentes do Edital 017/2026)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-19",
       "inscricaoFim": "2026-11-05",
       "cargaHoraria": "1.760 h (1.116 h a distância, 204 h síncronas mediadas, 440 h presenciais no polo)",
@@ -3774,11 +3775,12 @@
       "linkEdital": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "linkInscricao": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "dataVerificacao": "2026-10-21",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial da UFMT (ingressoead) e o PDF do Edital 023/2026-PROEG não puderam ser lidos nesta execução (06h58 de 21/10). Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata (ADS, SI, CC, Redes etc.). Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o edital na página https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados.",
+      "observacoes": "Atualização 21/10 (12h58): oferta e período de inscrição (19/10 a 05/11/2026) CONFIRMADOS na Central de Ingresso EaD da UFMT (página do curso e notícia 'Estão abertas as inscrições'), que lista o Processo Seletivo Específico do Bacharelado de 2º Ciclo da FCT/UFMT (EaD) em Engenharia de Software, Inteligência Artificial e Ciência de Dados. Vagas, taxa, requisitos, polos, residência e encontros presenciais continuam vindo de fonte secundária (PEBSP): a aba 'Editais' da página oficial estava vazia e o PDF do Edital 023/2026-PROEG não foi localizado; viabilidade segue C. Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata. Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o PDF do Edital 023/2026-PROEG (não publicado em https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais nesta verificação).",
       "fontes": [
         "https://www.pebsp.com/3-bacharelados-ead-da-ufmt-abrem-vagas-em-inteligencia-artificial-ciencia-de-dados-e-engenharia-de-software/",
         "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
-        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes"
+        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes",
+        "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais"
       ],
       "primeiraDeteccao": "2026-10-21",
       "marcos": [
@@ -3816,7 +3818,7 @@
       "tipo": "Graduação",
       "area": "Engenharia de Software",
       "edital": "Edital nº 023/2026-PROEG/UFMT (PSE 2ª etapa, vagas remanescentes do Edital 017/2026)",
-      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "situacao": "INSCRIÇÕES ABERTAS",
       "inscricaoInicio": "2026-10-19",
       "inscricaoFim": "2026-11-05",
       "cargaHoraria": "1.760 h (1.116 h a distância, 204 h síncronas mediadas, 440 h presenciais no polo)",
@@ -3834,11 +3836,12 @@
       "linkEdital": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "linkInscricao": "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
       "dataVerificacao": "2026-10-21",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: a página oficial da UFMT (ingressoead) e o PDF do Edital 023/2026-PROEG não puderam ser lidos nesta execução (06h58 de 21/10). Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata (ADS, SI, CC, Redes etc.). Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o edital na página https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados.",
+      "observacoes": "Atualização 21/10 (12h58): oferta e período de inscrição (19/10 a 05/11/2026) CONFIRMADOS na Central de Ingresso EaD da UFMT (página do curso e notícia 'Estão abertas as inscrições'), que lista o Processo Seletivo Específico do Bacharelado de 2º Ciclo da FCT/UFMT (EaD) em Engenharia de Software, Inteligência Artificial e Ciência de Dados. Vagas, taxa, requisitos, polos, residência e encontros presenciais continuam vindo de fonte secundária (PEBSP): a aba 'Editais' da página oficial estava vazia e o PDF do Edital 023/2026-PROEG não foi localizado; viabilidade segue C. Curso de 2º ciclo: exige graduação concluída na área de Computação ou correlata. Se confirmados os 25% presenciais no polo em MT com encontros a cada 10 semanas, a viabilidade para residente de PE tende a D. Falta ler o PDF do Edital 023/2026-PROEG (não publicado em https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais nesta verificação).",
       "fontes": [
         "https://www.pebsp.com/3-bacharelados-ead-da-ufmt-abrem-vagas-em-inteligencia-artificial-ciencia-de-dados-e-engenharia-de-software/",
         "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
-        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes"
+        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes",
+        "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados/editais"
       ],
       "primeiraDeteccao": "2026-10-21",
       "marcos": [
@@ -3872,7 +3875,7 @@
   "verificacoes": [
     {
       "data": "2026-10-21",
-      "resumo": "01h30 (verificação manual do IFFar a pedido): +3 registros de referência D (técnicos EaD de TI do Edital 296/2026: Manutenção e Suporte em Informática, Redes de Computadores e Informática para Internet; inscrições encerradas em 09/10; exigem 20% presencial nos polos do RS). Especializações do Edital 326/2026 sem curso de TI. Graduações de TI 2027 (ADS, Sistemas para Internet, Ciência da Computação, Sistemas de Informação) são presenciais no RS, fora do escopo. 01h40 (a pedido): +7 graduações de TI do IFFar (Edital 340/2026, inscrições até 18/12, Enem): ADS em Alegrete, São Vicente do Sul e Uruguaiana; Ciência da Computação em Frederico Westphalen; Sistemas para Internet em Panambi e Santo Ângelo; Sistemas de Informação em São Borja. Todas presenciais no RS, viabilidade D. 06h58 (portais Norte/Nordeste por buscas restritas — IFPE, IFSertãoPE, UFPE, UFRPE, UPE, IF Baiano, IFRN, IFPB, IFCE, IFMA, IFPI, IFAL, IFS, IFPA, IFAM, IFTO, IFRO; 12 itens de agregadores conferidos — PEBSP, Portal de Prefeitura): +3 bacharelados EaD de 2º ciclo da UFMT (IA, Ciência de Dados, Eng. de Software; Edital 023/2026-PROEG, inscrições até 05/11) como AGUARDANDO CONFIRMAÇÃO OFICIAL (C; página oficial não lida; 25% presencial no polo em MT segundo a fonte, tende a D). Pendências C (IF Baiano Catu, IFRS Bento manutenção, IFMS cursos livres, IFRS Moodle, SECTI-PE) sem confirmação: páginas oficiais não puderam ser lidas. Conferidos e descartados: IFSertãoPE Edital 114/2026 (integrados presenciais no Sertão), IF Baiano Itapetinga Edital 12/2026 (encerrado em 16/10, cursos de TI não confirmados), IFSC qualificação Editais 26 e 27/2026/2 (sem TI), IFG Anápolis Esp. IA (já registrada), IFSP Itapetininga MOOC (encerrado em jun/2026).",
+      "resumo": "01h30 (verificação manual do IFFar a pedido): +3 registros de referência D (técnicos EaD de TI do Edital 296/2026: Manutenção e Suporte em Informática, Redes de Computadores e Informática para Internet; inscrições encerradas em 09/10; exigem 20% presencial nos polos do RS). Especializações do Edital 326/2026 sem curso de TI. Graduações de TI 2027 (ADS, Sistemas para Internet, Ciência da Computação, Sistemas de Informação) são presenciais no RS, fora do escopo. 01h40 (a pedido): +7 graduações de TI do IFFar (Edital 340/2026, inscrições até 18/12, Enem): ADS em Alegrete, São Vicente do Sul e Uruguaiana; Ciência da Computação em Frederico Westphalen; Sistemas para Internet em Panambi e Santo Ângelo; Sistemas de Informação em São Borja. Todas presenciais no RS, viabilidade D. 06h58 (portais Norte/Nordeste por buscas restritas — IFPE, IFSertãoPE, UFPE, UFRPE, UPE, IF Baiano, IFRN, IFPB, IFCE, IFMA, IFPI, IFAL, IFS, IFPA, IFAM, IFTO, IFRO; 12 itens de agregadores conferidos — PEBSP, Portal de Prefeitura): +3 bacharelados EaD de 2º ciclo da UFMT (IA, Ciência de Dados, Eng. de Software; Edital 023/2026-PROEG, inscrições até 05/11) como AGUARDANDO CONFIRMAÇÃO OFICIAL (C; página oficial não lida; 25% presencial no polo em MT segundo a fonte, tende a D). Pendências C (IF Baiano Catu, IFRS Bento manutenção, IFMS cursos livres, IFRS Moodle, SECTI-PE) sem confirmação: páginas oficiais não puderam ser lidas. Conferidos e descartados: IFSertãoPE Edital 114/2026 (integrados presenciais no Sertão), IF Baiano Itapetinga Edital 12/2026 (encerrado em 16/10, cursos de TI não confirmados), IFSC qualificação Editais 26 e 27/2026/2 (sem TI), IFG Anápolis Esp. IA (já registrada), IFSP Itapetininga MOOC (encerrado em jun/2026). 12h58 (portais CO/SE por buscas restritas — UFMT, IFMG, IFSP, IFES, IFRJ, IFG, IF Goiano, IFB, IFMS, IFMT, IFSULDEMINAS, IFNMG, IFTM, IF Sudeste MG, CEFET-MG, UnB, UFG, UFMG, UFJF, UFF; 14 itens de agregadores conferidos — PEBSP, Hora Brasil via busca, InfoEducação, F5 Cariri, VestibulandoWeb; página inicial do Hora Brasil não pôde ser lida): pendência resolvida em parte — os 3 bacharelados EaD de 2º ciclo da UFMT (Edital 023/2026) tiveram oferta e inscrições (19/10 a 05/11) confirmadas na Central de Ingresso EaD da UFMT e passaram a INSCRIÇÕES ABERTAS (viabilidade segue C; PDF do edital ainda não publicado na página). IFMS cursos livres sem nova confirmação. Conferidos e descartados: UFRGS Especialização em IA Avançada (paga, R$ 19.200), IFMG Edital 956/2026 (pós EaD em Gestão, ênfase Tecnologia e Inovação, fora da área; encerrado), IF Sudeste MG técnicos EaD 2027 (sem curso de TI), UnB/UAB 2027 (sem curso de TI), PBH cursos de tecnologia (programa municipal de jan/2026). Não registrados por falta de confirmação oficial (portais não lidos): IFSP Barretos Edital 13/2026 (9 extensões EaD de TI, encerrado em 20/03), IFSP São José do Rio Preto Edital 41/2026 (SQL e CCNA I EaD, encerrado em 12/08), IFMA técnicos EaD 2026.2 (Desenvolvimento de Sistemas, Informática, Informática para Internet; encerrado em 27/05).",
       "novas": 13,
       "fontesConsultadas": [
         "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
@@ -3885,7 +3888,19 @@
         "https://www.pebsp.com/instituto-federal-lanca-edital-com-1-330-vagas-em-5-cursos-tecnicos-ead/",
         "https://www.pebsp.com/instituto-federal-abre-vagas-em-cursos-de-qualificacao-gratuitos/",
         "https://portaldeprefeitura.com.br/oportunidades/ifsertaope-abre-1632-vagas-em-cursos-tecnicos-para-2027-veja-como-se/633153/",
-        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/09/Edital-No-12.pdf"
+        "https://ingresso.ifbaiano.edu.br/wp-content/uploads/2026/09/Edital-No-12.pdf",
+        "https://www.ufmt.br/ingressoead/",
+        "https://www.ufmt.br/ingressoead/cursos/2o-ciclo-engenharia-de-software-inteligencia-artificial-e-ciencia-de-dados",
+        "https://www.ufmt.br/ingressoead/noticias/estao-abertas-as-inscricoes",
+        "https://www.pebsp.com/",
+        "https://www.horabrasil.com.br/2026/10/20/ifmg-pos-inteligencia-artificial",
+        "https://www.pebsp.com/?p=49087",
+        "https://www.pebsp.com/ifsp-abre-inscricoes-para-9-cursos-100-ead-na-area-de-tecnologia-e-ti/",
+        "https://www.inf.ufrgs.br/site/wp-content/uploads/2026/08/Especializacao-IAA-Edital-de-Selecao-2026.pdf",
+        "https://www.pebsp.com/?p=49912",
+        "https://www.vestibulandoweb.com.br/vestibular/inscricao-ifsudestemg-ead-2027/amp/",
+        "https://www.vestibulandoweb.com.br/vestibular/inscricao-unb-ead-2027/amp/",
+        "https://oimparcial.com.br/noticias/2026/04/ifma-abre-inscricoes-para-mais-de-3-000-vagas-em-cursos-tecnicos-gratuitos-na-modalidade-ead/"
       ]
     },
     {
@@ -4091,5 +4106,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-21T06:59:00-03:00"
+  "ultimaExecucao": "2026-10-21T12:59:00-03:00"
 }
