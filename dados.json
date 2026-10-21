@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20",
+  "atualizadoEm": "2026-10-21",
   "oportunidades": [
     {
       "id": "ifsuldeminas-inconfidentes-50-2026-fic-ia",
@@ -3249,9 +3249,122 @@
           "data": "2026-03-10"
         }
       ]
+    },
+    {
+      "id": "iffar-296-2026-manutencao-suporte-informatica",
+      "curso": "Técnico em Manutenção e Suporte em Informática (EaD, subsequente)",
+      "instituicao": "IFFar · Campus Alegrete",
+      "estado": "RS",
+      "tipo": "Técnico",
+      "area": "Informática",
+      "edital": "Edital nº 296/2026 (Processo Seletivo 2027, Cursos Técnicos Subsequentes)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-14",
+      "inscricaoFim": "2026-10-09",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "60 (30 no polo Santiago e 30 no Centro de Referência São Gabriel), Anexo II",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de técnico de nível médio (IFFar)",
+      "polos": "Polo Santiago e Centro de Referência São Gabriel (RS)",
+      "pePodeParticipar": "Inscrição sem restrição de residência no edital, mas exige comparecer aos encontros presenciais no polo, no RS (item 1.2)",
+      "atividadesPresenciais": "Sim, obrigatórias: no mínimo 20% da carga horária em encontros presenciais nos polos ou centros de referência, conforme calendário acadêmico (itens 1.2.1 e 1.2.2)",
+      "aulasSincronas": "NÃO INFORMADO (atividades no ambiente virtual, item 1.2.1)",
+      "provasPresenciais": "NÃO INFORMADO no edital (avaliações não citadas; encontros presenciais obrigatórios no polo)",
+      "processoSeletivo": "Sorteio eletrônico em 09/11/2026, sem prova; confirmação de vaga com envio de documentos pelo sistema de inscrição (item 12.1); 1ª chamada: confirmação de 17 a 27/11/2026, homologação em 09/12/2026",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+      "linkInscricao": "https://ingresso.iffarroupilha.edu.br/subsequentes",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Registro de referência. Gratuito, mas incompatível com residência em Recife: exige pelo menos 20% da carga horária em encontros presenciais no polo, no Rio Grande do Sul (itens 1.2.1 e 1.2.2). Ingresso no 1º semestre de 2027; sorteio em 09/11/2026. Periodicidade: o IFFar abre o processo seletivo de técnicos subsequentes uma vez por ano (este, de 14/09 a 09/10/2026, para 2027); próxima seleção NÃO CONFIRMADA.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+        "https://ingresso.iffarroupilha.edu.br/subsequentes"
+      ],
+      "primeiraDeteccao": "2026-10-21"
+    },
+    {
+      "id": "iffar-296-2026-redes-alegrete",
+      "curso": "Técnico em Redes de Computadores (EaD, subsequente)",
+      "instituicao": "IFFar · Campus Alegrete",
+      "estado": "RS",
+      "tipo": "Técnico",
+      "area": "Redes de Computadores",
+      "edital": "Edital nº 296/2026 (Processo Seletivo 2027, Cursos Técnicos Subsequentes)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-14",
+      "inscricaoFim": "2026-10-09",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "80 (polo Alegrete), Anexo II",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de técnico de nível médio (IFFar)",
+      "polos": "Polo Campus Alegrete (RS)",
+      "pePodeParticipar": "Inscrição sem restrição de residência no edital, mas exige comparecer aos encontros presenciais no polo, no RS (item 1.2)",
+      "atividadesPresenciais": "Sim, obrigatórias: no mínimo 20% da carga horária em encontros presenciais nos polos ou centros de referência, conforme calendário acadêmico (itens 1.2.1 e 1.2.2)",
+      "aulasSincronas": "NÃO INFORMADO (atividades no ambiente virtual, item 1.2.1)",
+      "provasPresenciais": "NÃO INFORMADO no edital (avaliações não citadas; encontros presenciais obrigatórios no polo)",
+      "processoSeletivo": "Sorteio eletrônico em 09/11/2026, sem prova; confirmação de vaga com envio de documentos pelo sistema de inscrição (item 12.1); 1ª chamada: confirmação de 17 a 27/11/2026, homologação em 09/12/2026",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+      "linkInscricao": "https://ingresso.iffarroupilha.edu.br/subsequentes",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Registro de referência. Gratuito, mas incompatível com residência em Recife: exige pelo menos 20% da carga horária em encontros presenciais no polo, no Rio Grande do Sul (itens 1.2.1 e 1.2.2). Ingresso no 1º semestre de 2027; sorteio em 09/11/2026. Periodicidade: o IFFar abre o processo seletivo de técnicos subsequentes uma vez por ano (este, de 14/09 a 09/10/2026, para 2027); próxima seleção NÃO CONFIRMADA.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+        "https://ingresso.iffarroupilha.edu.br/subsequentes"
+      ],
+      "primeiraDeteccao": "2026-10-21"
+    },
+    {
+      "id": "iffar-296-2026-informatica-internet-svs",
+      "curso": "Técnico em Informática para Internet (EaD, subsequente)",
+      "instituicao": "IFFar · Campus São Vicente do Sul",
+      "estado": "RS",
+      "tipo": "Técnico",
+      "area": "Desenvolvimento Web",
+      "edital": "Edital nº 296/2026 (Processo Seletivo 2027, Cursos Técnicos Subsequentes)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-14",
+      "inscricaoFim": "2026-10-09",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "80 (polo São Vicente do Sul), Anexo II",
+      "mensalidade": "Gratuito",
+      "taxa": "Sem taxa de inscrição (item 3.2)",
+      "certificado": "Diploma de técnico de nível médio (IFFar)",
+      "polos": "Polo Campus São Vicente do Sul (RS)",
+      "pePodeParticipar": "Inscrição sem restrição de residência no edital, mas exige comparecer aos encontros presenciais no polo, no RS (item 1.2)",
+      "atividadesPresenciais": "Sim, obrigatórias: no mínimo 20% da carga horária em encontros presenciais nos polos ou centros de referência, conforme calendário acadêmico (itens 1.2.1 e 1.2.2)",
+      "aulasSincronas": "NÃO INFORMADO (atividades no ambiente virtual, item 1.2.1)",
+      "provasPresenciais": "NÃO INFORMADO no edital (avaliações não citadas; encontros presenciais obrigatórios no polo)",
+      "processoSeletivo": "Sorteio eletrônico em 09/11/2026, sem prova; confirmação de vaga com envio de documentos pelo sistema de inscrição (item 12.1); 1ª chamada: confirmação de 17 a 27/11/2026, homologação em 09/12/2026",
+      "viabilidade": "D",
+      "linkEdital": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+      "linkInscricao": "https://ingresso.iffarroupilha.edu.br/subsequentes",
+      "dataVerificacao": "2026-10-21",
+      "observacoes": "Registro de referência. Gratuito, mas incompatível com residência em Recife: exige pelo menos 20% da carga horária em encontros presenciais no polo, no Rio Grande do Sul (itens 1.2.1 e 1.2.2). Ingresso no 1º semestre de 2027; sorteio em 09/11/2026. Periodicidade: o IFFar abre o processo seletivo de técnicos subsequentes uma vez por ano (este, de 14/09 a 09/10/2026, para 2027); próxima seleção NÃO CONFIRMADA.",
+      "fontes": [
+        "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
+        "https://www.iffarroupilha.edu.br/component/k2/attachments/download/60029/0006fc70745cecf44f55f599d0ff3e12",
+        "https://ingresso.iffarroupilha.edu.br/subsequentes"
+      ],
+      "primeiraDeteccao": "2026-10-21"
     }
   ],
   "verificacoes": [
+    {
+      "data": "2026-10-21",
+      "resumo": "01h30 (verificação manual do IFFar a pedido): +3 registros de referência D (técnicos EaD de TI do Edital 296/2026: Manutenção e Suporte em Informática, Redes de Computadores e Informática para Internet; inscrições encerradas em 09/10; exigem 20% presencial nos polos do RS). Especializações do Edital 326/2026 sem curso de TI. Graduações de TI 2027 (ADS, Sistemas para Internet, Ciência da Computação, Sistemas de Informação) são presenciais no RS, fora do escopo.",
+      "novas": 3,
+      "fontesConsultadas": [
+        "https://www.iffarroupilha.edu.br/component/k2/item/48119-Edital%20n%C2%BA%20296/2026%20-%20Processo%20Seletivo%202027%20-%20Cursos%20T%C3%A9cnicos%20Subsequentes",
+        "https://ingresso.iffarroupilha.edu.br/subsequentes",
+        "https://www.iffarroupilha.edu.br/ultimas-noticias/item/48336-iffar-abre-inscri%C3%A7%C3%B5es-para-cursos-gratuitos-de-especializa%C3%A7%C3%A3o-presenciais-e-ead",
+        "https://ingresso.iffarroupilha.edu.br/gradua%C3%A7%C3%A3o"
+      ]
+    },
     {
       "data": "2026-10-20",
       "resumo": "12h58 (portais CO/SE por buscas restritas; 14 itens de agregadores conferidos — PEBSP, Hora Brasil, VestibulandoWeb, guiadaposgraduacao): nenhuma novidade aberta compatível; IFPB Cajazeiras Esp. Ciência de Dados marcada como encerrada (19/10). Pendências C (IFRS Bento manutenção, IF Baiano Catu) sem confirmação: página/PDF oficiais inacessíveis. Conferidos e descartados: IFSC Esp. Computação Científica para a Indústria (Edital 14/DEING/2027/1, presencial em Florianópolis, até 20/10; edital oficial não lido e foco fora de dados/IA), IFSC técnicos 2027/1 e IFS 2027 (presenciais fora de PE), IFFar Edital 340/2026 graduações de TI (presenciais no RS), IF Sudeste MG 36/2026 (sem TI), UFG Esp. Gestão de Projetos, BPM e IA (paga), UNIFAP Esp. Projetos em IA (encerrada em mar/2026, página oficial não lida), IFMG Itabirito FIC IA (2024), UFRJ Máquinas Afetivas (encerrada, foco em comunicação). Alerta: IFRS Bento extensões IA local e Python/dados (A) encerram em 7 dias (27/10). 17h58 (portais Sul e programas nacionais por buscas restritas — IFRS, IFSC, IFPR, IFC, IFSul, IFFar, UFRGS, UTFPR, UAB, CEDERJ, UNIVESP, CPS, EV.G, SECTI-PE; 9 itens de agregadores conferidos): nenhuma novidade; páginas iniciais de PEBSP/Hora Brasil e portal de editais do IFSC não puderam ser abertos diretamente. Pendências C (IFRS Bento manutenção, IFMS cursos livres, SECTI-PE IA para Todos) sem confirmação oficial nova. Conferidos e descartados: IFSP Edital 74/2026 (técnicos 2º sem./2026, encerrado em 18/05; edital não confirma EaD e Anexo I com cursos não lido; prova presencial no município do campus), IFSC FIC IA São José Edital 26/2026/1 (encerrado em jan/2026; edital oficial não lido), IFPR 2027 (presencial, encerrado em ago/2026), UFRGS InfoCom 'Educação em Informação em Tempos de IA' (foco em ciência da informação; página bloqueada).",
@@ -3455,5 +3568,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-20T17:59:00-03:00"
+  "ultimaExecucao": "2026-10-21T01:30:00-03:00"
 }
