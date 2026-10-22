@@ -3927,13 +3927,67 @@
       ],
       "primeiraDeteccao": "2026-10-22",
       "marcos": []
+    },
+    {
+      "id": "ifb-24-2026-desenvolvimento-sistemas-ead-brasilia",
+      "curso": "Técnico Subsequente em Desenvolvimento de Sistemas – EaD (semipresencial, encontros presenciais no Campus Brasília/DF)",
+      "instituicao": "IFB · Campus Brasília",
+      "estado": "DF",
+      "tipo": "Técnico",
+      "area": "Desenvolvimento de Sistemas",
+      "edital": "Edital nº 24/2026-RIFB/IFBRASILIA (Seleção para Cursos Técnicos 2027/1, retificado em 20/10/2026)",
+      "situacao": "INSCRIÇÕES FUTURAS CONFIRMADAS",
+      "inscricaoInicio": "2026-10-23",
+      "inscricaoFim": "2026-11-22",
+      "cargaHoraria": "3 semestres, turno noturno",
+      "vagas": "90",
+      "mensalidade": "Gratuito (instituição pública)",
+      "taxa": "Sem taxa (inscrição online com login gov.br)",
+      "certificado": "Diploma de técnico de nível médio (IFB)",
+      "polos": "Campus Brasília (DF)",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO (páginas oficiais lidas não citam restrição de residência; edital em PDF não pôde ser lido)",
+      "atividadesPresenciais": "Sim: oferta semipresencial (EaD) com encontros presenciais no Campus Brasília, segundo o quadro de vagas oficial; dia e frequência dos encontros deste curso não confirmados na página lida",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "Sorteio eletrônico, sem prova; requisito: ensino médio concluído (subsequente); uma inscrição por candidato",
+      "viabilidade": "D",
+      "linkEdital": "https://www.ifb.edu.br/estude-no-ifb/noticias/48835-editais-selecao-para-cursos-tecnicos-2027-1",
+      "linkInscricao": "https://candidato.ifb.edu.br",
+      "dataVerificacao": "2026-10-22",
+      "observacoes": "Viabilidade D: curso semipresencial com encontros presenciais obrigatórios em Brasília (DF), incompatível com residência em PE. Datas do cronograma oficial (Anexo A retificado em 20/10/2026). Matrícula da 1ª chamada de 04 a 08/01/2027 e início das aulas previsto para 27/01/2027. O PDF do edital retificado não pôde ser lido nesta execução (acesso automático bloqueado); a modalidade e as vagas vêm do quadro de vagas oficial do IFB. O IFB também oferta Desenvolvimento de Sistemas subsequente presencial (vespertino, 40 vagas) no mesmo campus.",
+      "fontes": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48835-editais-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
+        "https://www.pebsp.com/sem-taxas-e-sem-provas-o-ifb-abre-2-396-vagas-em-cursos-tecnicos-gratuitos/"
+      ],
+      "primeiraDeteccao": "2026-10-22",
+      "marcos": [
+        {
+          "evento": "Sorteio eletrônico",
+          "data": "2026-11-24"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-11-26"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-04"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-01-27"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-22",
-      "resumo": "06h58 (portais Norte/Nordeste por buscas — IFPE, UFPE, UFRPE, UPE, IFs do Nordeste, UFOPA; 22 itens de agregadores conferidos — PEBSP página inicial (posts de 15 a 21/10), F5 Cariri, Hora Brasil via busca; página inicial do Hora Brasil não lida): +1 FIC EaD do IFSULDEMINAS Muzambinho (IA Essencial: Comece do Zero, Edital 113/2026, inscrições até 23/10) como AGUARDANDO CONFIRMAÇÃO OFICIAL (C); +1 registro de referência: Especialização EaD em Ciências Sociais de Dados da Fundaj (Recife, Edital 05/2026, encerrada em 18/06; B). Pendências C (UFMT 023/2026, IFRS Bento manutenção, IF Baiano Catu, IFMS cursos livres) sem confirmação: páginas oficiais não puderam ser lidas nesta execução (acesso automático não autorizado); marco de isenção vencido da UFMT removido. Conferidos e descartados: IFSULDEMINAS Edital 238/2026 Capacita Sul de Minas (FIC presenciais em MG, só informática básica), UFOPA PSR 2027 (graduações presenciais no PA, incl. IA e Ciência de Dados), IFSC vestibular 2027/1 (presencial), UNIFAP Esp. Projetos em IA (encerrada em 02/03/2026, presencial em Macapá), UFMA Esp. Análise de Dados e IA (já registrada).",
-      "novas": 2,
+      "resumo": "06h58 (portais Norte/Nordeste por buscas — IFPE, UFPE, UFRPE, UPE, IFs do Nordeste, UFOPA; 22 itens de agregadores conferidos — PEBSP página inicial (posts de 15 a 21/10), F5 Cariri, Hora Brasil via busca; página inicial do Hora Brasil não lida): +1 FIC EaD do IFSULDEMINAS Muzambinho (IA Essencial: Comece do Zero, Edital 113/2026, inscrições até 23/10) como AGUARDANDO CONFIRMAÇÃO OFICIAL (C); +1 registro de referência: Especialização EaD em Ciências Sociais de Dados da Fundaj (Recife, Edital 05/2026, encerrada em 18/06; B). Pendências C (UFMT 023/2026, IFRS Bento manutenção, IF Baiano Catu, IFMS cursos livres) sem confirmação: páginas oficiais não puderam ser lidas nesta execução (acesso automático não autorizado); marco de isenção vencido da UFMT removido. Conferidos e descartados: IFSULDEMINAS Edital 238/2026 Capacita Sul de Minas (FIC presenciais em MG, só informática básica), UFOPA PSR 2027 (graduações presenciais no PA, incl. IA e Ciência de Dados), IFSC vestibular 2027/1 (presencial), UNIFAP Esp. Projetos em IA (encerrada em 02/03/2026, presencial em Macapá), UFMA Esp. Análise de Dados e IA (já registrada). 12h58 (portais CO/SE por buscas — IFMG, IFES, IFSP, IFRJ, IFG, IF Goiano, IFMS, IFMT, IFNMG, IFTM, IF Sudeste MG, IFSULDEMINAS, IFB; 14 itens de agregadores conferidos — PEBSP página inicial e posts de 22/10, F5 Cariri; Hora Brasil não lido): +1 técnico subsequente EaD semipresencial em Desenvolvimento de Sistemas do IFB Campus Brasília (Edital 24/2026, inscrições 23/10 a 22/11; D, encontros presenciais no DF). Pendências C (IFSULDEMINAS Muzambinho 113/2026, UFMT 023/2026) sem confirmação: páginas e PDFs oficiais não puderam ser lidos. Conferidos e descartados: UFVJM Esp. Didática e Gestão Municipal (fora de TI), IFSC 9 cursos (presenciais em SC ou IA para ensino de Geografia sem página oficial lida), IF Sudeste MG JF vagas remanescentes (presenciais), UFMT BCT 022/2026 (não é TI), IFSULDEMINAS Inconfidentes 50/2026 (já registrado).",
+      "novas": 3,
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.pebsp.com/instituto-federal-abre-100-vagas-gratuitas-para-aprender-inteligencia-artificial-do-zero/",
@@ -3943,7 +3997,11 @@
         "https://www.f5cariri.com.br/2026/10/instituto-federal-abre-inscricoes-para.html",
         "https://www.pebsp.com/federal-prorroga-inscricoes-para-especializacao-em-inteligencia-artificial-gratuita-e-ead/",
         "https://www.pebsp.com/procurando-uma-especializacao-100-gratuita-e-ead-mec-e-fundaj-lancam-pos-graduacao-em-ciencias-de-dados-dcs/",
-        "https://www.gov.br/fundaj/pt-br/composicao/difor/editais"
+        "https://www.gov.br/fundaj/pt-br/composicao/difor/editais",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48835-editais-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.pebsp.com/ultimo-dia-7-oportunidades-para-cursos-tecnicos-superiores-e-extensoes-encerram-inscricoes-nesta-sexta/",
+        "https://www.pebsp.com/9-cursos-gratuitos-do-ifsc-tem-260-vagas-com-inscricao-ate-27-de-outubro/",
+        "https://www.pebsp.com/2-especializacoes-ead-da-ufvjm-recebem-inscricoes-nesta-seman/"
       ]
     },
     {
@@ -4182,5 +4240,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-22T06:58:00-03:00"
+  "ultimaExecucao": "2026-10-22T12:58:00-03:00"
 }
