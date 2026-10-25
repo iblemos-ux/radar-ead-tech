@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24",
+  "atualizadoEm": "2026-10-25",
   "oportunidades": [
     {
       "id": "ifsuldeminas-inconfidentes-50-2026-fic-ia",
@@ -551,7 +551,7 @@
       "cargaHoraria": "NÃO INFORMADO",
       "certificado": "Diploma de Tecnólogo",
       "curso": "Tecnologia em Sistemas para Internet (graduação EaD)",
-      "dataVerificacao": "2026-10-24",
+      "dataVerificacao": "2026-10-25",
       "edital": "Edital nº 55/2026-PROEN/RE/IFRN",
       "estado": "RN",
       "fontes": [
@@ -570,7 +570,7 @@
       "primeiraDeteccao": "2026-10-11",
       "processoSeletivo": "Notas do ENEM 2021–2025 (média das 5 provas padronizadas; nota > 0 em todas), itens 33–35. Inscrição só online. Resultado final 01/12/2026; pré-matrícula online via gov.br 09–16/12/2026",
       "provasPresenciais": "Sim, no campus Natal-Zona Leste ou polo (Anexo I, nota 1)",
-      "situacao": "INSCRIÇÕES ABERTAS",
+      "situacao": "PRAZO ENCERRANDO",
       "taxa": "R$ 25,00 (boleto até 26/10/2026). Isenção via CadÚnico já encerrada (pedidos 21–29/09/2026)",
       "tipo": "Graduação",
       "vagas": "50",
@@ -4068,6 +4068,21 @@
   ],
   "verificacoes": [
     {
+      "data": "2026-10-25",
+      "resumo": "06h58 (portais Norte/Nordeste; 8 itens de agregadores conferidos — PEBSP via busca, páginas iniciais do PEBSP e Hora Brasil não puderam ser lidas): nenhuma novidade. Conferidos e já registrados ou fora do escopo: IFMG Ouro Preto 1100/2026 Esp. IA, IFNMG 1631/2026 (encerrado), IFCE 5/2026 IA (encerrado), IFSP Campinas 34/2026, IFPA PSU 2027 (Edital 08/2026; único curso de TI não presencial é a Licenciatura em Computação semipresencial em Marabá, já registrada); descartados: IFRO Edital 08/2026 graduações 2027/1 (todos os cursos presenciais em RO), IFCE seleção de professor/mediador EaD (não é oferta a estudantes). Pendência C do IFPA 08/2026 sem confirmação: prosel.ifpa.edu.br/psu2027 não pôde ser lido. Alertas de prazo: isenção da taxa do IFPE 41/2026 termina em 26/10; pagamento da taxa do IFRN 55/2026 em 26/10 (inscrição termina hoje).",
+      "novas": 0,
+      "fontesConsultadas": [
+        "https://www.pebsp.com/?p=51351",
+        "https://www.pebsp.com/?p=51422",
+        "https://www.pebsp.com/?p=50934",
+        "https://www.pebsp.com/?p=50996",
+        "https://www.pebsp.com/?p=51231",
+        "https://www.pebsp.com/ifro-abre-1-306-vagas-gratuitas-em-33-cursos-de-graduacao-com-selecao-pelo-historico-escolar-dcs/",
+        "buscas site:ifpe.edu.br, ifsertao-pe.edu.br, ifce.edu.br, ifrn.edu.br, ifpb.edu.br, ifpi.edu.br, ifba.edu.br, ifma.edu.br, ifal.edu.br, ifs.edu.br, ifam.edu.br",
+        "buscas temáticas UFPE/UFRPE/UPE extensão TI"
+      ]
+    },
+    {
       "data": "2026-10-24",
       "resumo": "06h59 (portais Norte/Nordeste; 14 itens de agregadores conferidos — PEBSP, Hora Brasil, F5 Cariri, Portal de Prefeitura, VestibulandoWeb): nenhuma novidade. Conferidos e já registrados ou fora do escopo: IFG Anápolis Esp. IA, IFPB Cajazeiras Esp. Ciência de Dados, UFMA Esp. Dados e IA, IFSULDEMINAS Inconfidentes FIC IA, IF Goiano Cerfor 13/2026 ADS, IF Baiano Guanambi 32/2026; descartados: IFRN subsequentes 2027 (presenciais no RN), IFS 2027 (integrados presenciais), IFSertãoPE 114/2026 (TI só presencial integrado), UEMS Vestibular 2027 (presencial no MS), IF Baiano Alagoinhas 21/2026 e Itapetinga 12/2026 (sem TI), IFPE extensão em Olinda (fora de TI), IFMA Esp. Informática na Educação (edital de 2020). Encerradas: IFNMG 1631/2026, IFCE 22/2026, IFSULDEMINAS Muzambinho 110 e 113/2026. Pendências C (IFRS Bento manutenção, IFPA 08/2026, UFMT 023/2026) sem confirmação: páginas oficiais não puderam ser lidas. 12h58 (portais Centro-Oeste/Sudeste; 12 itens de agregadores conferidos — PEBSP, VestibulandoWeb, Midiamax, Folha PE): nenhuma novidade. Conferidos e já registrados ou fora do escopo: IFG Anápolis Esp. IA, IFCE 5/2026 IA, UFMS 344/2026, IFMS cursos livres, UFMT BCT 022/2026 (não é TI); descartados: UFRGS Esp. IA Avançada 2026 e UFMG Esp. Ciência de Dados 2026 (pagas), IF Goiano Rio Verde Téc. Integrado em IA (presencial, edital 2025), UnB/UAB 2027 (sem TI), IFB CP 4/2026 IA na Educação e IFSP Itapetininga MOOCs 10/2026 (encerrados, fora da janela de verificação oficial), UFRRJ extensão IA na Educação (encerrada), bootcamp Santander (privado). Pendências C (UFMT 023/2026, IFMS cursos livres) sem confirmação: páginas oficiais não puderam ser lidas. 17h58 (portais Sul e programas nacionais; 9 itens de agregadores conferidos — PEBSP, F5 Cariri, VestibulandoWeb): nenhuma novidade. Conferidos e já registrados ou fora do escopo: UFMT 023/2026 (2º ciclo IA/Dados/Eng. Software), IFPA PSU 2027 (Edital 08/2026), IFSULDEMINAS Muzambinho 108–115/2026 e Inconfidentes 50/2026 (encerrados), IFCE 5/2026, IFNMG 1631/2026, UTFPR Ponta Grossa Esp. IA (paga); descartados: IFSP Capivari Introdução à IA (edital de 2025). Pendências C (IFRS Bento manutenção, UFMT 023/2026, IFPA 08/2026) sem confirmação: páginas oficiais não puderam ser lidas. 23h10 (a pedido): Edital 55/2026 do IFRN (Sistemas para Internet EaD) conferido de novo no PDF; mantida a viabilidade B (avaliações presenciais em Natal); inscrições terminam em 25/10.",
       "novas": 0,
@@ -4394,5 +4409,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-24T23:10:00-03:00"
+  "ultimaExecucao": "2026-10-25T06:58:00-03:00"
 }
