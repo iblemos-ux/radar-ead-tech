@@ -4133,13 +4133,47 @@
       ],
       "primeiraDeteccao": "2026-10-26",
       "marcos": []
+    },
+    {
+      "id": "ufpel-129-2026-esp-computacao-educacao-basica",
+      "curso": "Especialização em Computação na Educação Básica (PGCEB) — EaD/UAB",
+      "instituicao": "UFPel",
+      "estado": "RS",
+      "tipo": "Especialização",
+      "area": "Computação / Educação",
+      "edital": "Edital nº 129/2026 (Estudante Regular), retificado pelo Edital nº 35/2026",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-09-01",
+      "inscricaoFim": "2026-09-15",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "150",
+      "mensalidade": "Gratuito (oferta UAB)",
+      "taxa": "Taxa via GRU (ref. 1292026); valor não informado na página oficial — R$ 75,00 segundo fonte secundária (PEBSP)",
+      "certificado": "Certificado de especialização lato sensu (UFPel)",
+      "polos": "Esteio, Novo Hamburgo e Santo Antônio da Patrulha (RS)",
+      "pePodeParticipar": "Página oficial informa que o curso pode ser feito por estudantes de qualquer lugar do Brasil",
+      "atividadesPresenciais": "Nenhuma, segundo a página oficial (100% online)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Nenhuma, segundo a página oficial",
+      "processoSeletivo": "Avaliação curricular (formação acadêmica e experiência profissional)",
+      "viabilidade": "C",
+      "linkEdital": "https://wp.ufpel.edu.br/pgceb/2026/08/26/edital-129-2026-estudante-regular/",
+      "linkInscricao": "https://forms.gle/VJqADuZm8Zk1rXKv6",
+      "dataVerificacao": "2026-10-26",
+      "observacoes": "Registro de referência. Especialização EaD gratuita da UFPel/UAB voltada à computação na educação básica (formação docente em computação). Página oficial: 100% online, sem atividades presenciais, aberta a estudantes de qualquer lugar do Brasil; início previsto em nov/2026 e demais disciplinas pelo calendário UAB 2027. Viabilidade C porque o público-alvo não foi confirmado no edital (fonte secundária fala em vagas para professores da educação básica; PDF do edital no Google Drive não lido). Ofertas UAB da UFPel ocorrem por turma, sem periodicidade fixa.",
+      "fontes": [
+        "https://wp.ufpel.edu.br/pgceb/2026/08/26/edital-129-2026-estudante-regular/",
+        "https://www.pebsp.com/?p=50328"
+      ],
+      "primeiraDeteccao": "2026-10-26",
+      "marcos": []
     }
   ],
   "verificacoes": [
     {
       "data": "2026-10-26",
-      "resumo": "06h59 (portais Norte/Nordeste; 14 itens de agregadores conferidos — listagem de especializações do PEBSP e buscas no Hora Brasil/F5 Cariri): 1 nova — UFGD Esp. Tecnologias de Sistemas de Informação EaD/UAB (Edital 02/2026, inscrições até hoje 26/10, viabilidade C). Atualizados: IFRN 55/2026 e IFG Anápolis 44/2026 encerrados em 25/10; IFB 24/2026 passou a inscrições abertas; IFRS Bento (IA local e Python) com prazo encerrando em 27/10. Conferidos e não registrados: IFSP Bragança Paulista Esp. Gestão Estratégica de TI (Edital 68/2026, presencial em SP, gestão de TI fora do foco IA/dados; edital oficial não lido); IFRN Edital 57/2026 especializações (sem TI); UFGD Esp. Português L2 (sem TI); IFPE Abreu e Lima Extensão 14/2026 (sem TI, encerrado); IFAM PS 2027 (sem curso EaD de TI identificado); IFSULDEMINAS Inconfidentes/Muzambinho FIC IA e IFB CP 11/2026 (já registrados). Pendências C (IFRS Bento manutenção, UFMT 023/2026, IF Baiano Catu 21/2026, IFPA 08/2026) sem confirmação: páginas e PDFs oficiais não puderam ser lidos. 12h58 (portais CO/SE por buscas restritas — IFMG, IFNMG, IFTM, IF Sudeste MG, IFSP, IFRJ, IFF, IFES, IFG, IFB, IFMS, IFMT, IF Goiano, UnB, UFG, UFMS, UFMG, UFOP, UFJF, UFU, UFF, UFRJ, UFSCar, UNIFESP, CEFET-MG/RJ; 12 itens de agregadores conferidos — PEBSP via busca; acesso direto às páginas iniciais do PEBSP e Hora Brasil bloqueado): +1 registro de referência — UFRN/CERES Esp. Cibersegurança e Gestão da Informação EaD/UAB (Edital 001/2026, encerrado em 22/05, viabilidade B). Conferidos e não registrados: UTFPR Ponta Grossa Esp. IA Aplicada (Edital 50/2025, síncrona online; gratuidade das mensalidades não confirmada — inscrição via FUNTEF, não lida); UFRRJ Esp. Estatística Aplicada (presencial em Seropédica, encerrada em 12/02/2026; edital oficial não lido); IFTO Pedro Afonso Pós em TI para Educação (Edital 10/2026; PDF com URL longa demais para leitura — pendente); IFTO Lagoa Esp. Gestão Escolar, IFRO PS 2027 integrado, IF Sudeste MG PS 2027.1, UnB UAB 2027 (sem TI EaD); IFGoiano Cerfor 13, UFMT 023 e IFPB Cajazeiras (já registrados). Pendências C (UFMT 023/2026 e UFGD 02/2026) sem confirmação: páginas oficiais bloqueadas.",
-      "novas": 2,
+      "resumo": "06h59 (portais Norte/Nordeste; 14 itens de agregadores conferidos — listagem de especializações do PEBSP e buscas no Hora Brasil/F5 Cariri): 1 nova — UFGD Esp. Tecnologias de Sistemas de Informação EaD/UAB (Edital 02/2026, inscrições até hoje 26/10, viabilidade C). Atualizados: IFRN 55/2026 e IFG Anápolis 44/2026 encerrados em 25/10; IFB 24/2026 passou a inscrições abertas; IFRS Bento (IA local e Python) com prazo encerrando em 27/10. Conferidos e não registrados: IFSP Bragança Paulista Esp. Gestão Estratégica de TI (Edital 68/2026, presencial em SP, gestão de TI fora do foco IA/dados; edital oficial não lido); IFRN Edital 57/2026 especializações (sem TI); UFGD Esp. Português L2 (sem TI); IFPE Abreu e Lima Extensão 14/2026 (sem TI, encerrado); IFAM PS 2027 (sem curso EaD de TI identificado); IFSULDEMINAS Inconfidentes/Muzambinho FIC IA e IFB CP 11/2026 (já registrados). Pendências C (IFRS Bento manutenção, UFMT 023/2026, IF Baiano Catu 21/2026, IFPA 08/2026) sem confirmação: páginas e PDFs oficiais não puderam ser lidos. 12h58 (portais CO/SE por buscas restritas — IFMG, IFNMG, IFTM, IF Sudeste MG, IFSP, IFRJ, IFF, IFES, IFG, IFB, IFMS, IFMT, IF Goiano, UnB, UFG, UFMS, UFMG, UFOP, UFJF, UFU, UFF, UFRJ, UFSCar, UNIFESP, CEFET-MG/RJ; 12 itens de agregadores conferidos — PEBSP via busca; acesso direto às páginas iniciais do PEBSP e Hora Brasil bloqueado): +1 registro de referência — UFRN/CERES Esp. Cibersegurança e Gestão da Informação EaD/UAB (Edital 001/2026, encerrado em 22/05, viabilidade B). Conferidos e não registrados: UTFPR Ponta Grossa Esp. IA Aplicada (Edital 50/2025, síncrona online; gratuidade das mensalidades não confirmada — inscrição via FUNTEF, não lida); UFRRJ Esp. Estatística Aplicada (presencial em Seropédica, encerrada em 12/02/2026; edital oficial não lido); IFTO Pedro Afonso Pós em TI para Educação (Edital 10/2026; PDF com URL longa demais para leitura — pendente); IFTO Lagoa Esp. Gestão Escolar, IFRO PS 2027 integrado, IF Sudeste MG PS 2027.1, UnB UAB 2027 (sem TI EaD); IFGoiano Cerfor 13, UFMT 023 e IFPB Cajazeiras (já registrados). Pendências C (UFMT 023/2026 e UFGD 02/2026) sem confirmação: páginas oficiais bloqueadas. 17h58 (portais Sul e programas nacionais por buscas — IFSC, IFC, IFPR, IFRS, IFSul, IFFar, UTFPR, UFSC, UFRGS, UFSM, UFPel, UAB/CAPES, UNIVESP, EV.G, SEE-PE/SECTI-PE; 11 itens de agregadores conferidos — PEBSP via busca/listagem de especializações; página inicial do PEBSP e Hora Brasil sem acesso direto): +1 registro de referência — UFPel Esp. Computação na Educação Básica EaD/UAB (Edital 129/2026, encerrado em 15/09, viabilidade C por público-alvo não confirmado). Conferidos e não registrados: IFSC Qualifica (São Carlos FIC 'IA Generativa aplicada ao ensino de Geografia' EaD, foco docente fora do escopo de TI, inscrições até 27/10; 'Programação Básica em ADVPL' presencial em Tubarão/SC); UFRGS Esp. IA Avançada (paga, R$ 19.200); IFPR PS 2027 (presencial, encerrado); IFG Anápolis Esp. IA, IFPB Cajazeiras Esp. Ciência de Dados, IFSULDEMINAS Muzambinho FIC e UFMS 344 (já registrados); IFRO Esp. Geoprocessamento e ES/Ufes Esp. IA (2024) fora do prazo/escopo. Pendências C (IFRS Bento manutenção, IFMS cursos livres, SECTI-PE IA para Todos) sem confirmação: páginas oficiais não puderam ser lidas.",
+      "novas": 3,
       "fontesConsultadas": [
         "https://www.pebsp.com/cursos/especializacao/",
         "https://portal.ufgd.edu.br/noticias/ufgd-abre-inscricoes-para-300-vagas-em-duas-especializacoes-gratuitas-a-distancia",
@@ -4154,7 +4188,11 @@
         "https://www.utfpr.edu.br/campus/pontagrossa/avisos/campus-ponta-grossa-oferta-especializacao-em-inteligencia-artificial",
         "https://www.pebsp.com/ifro-abre-2-mil-vagas-em-cursos-tecnicos-gratuitos-sem-prova/",
         "https://www.pebsp.com/?p=51447",
-        "https://www.vestibulandoweb.com.br/vestibular/inscricao-processo-seletivo-2027-ifsudestemg/"
+        "https://www.vestibulandoweb.com.br/vestibular/inscricao-processo-seletivo-2027-ifsudestemg/",
+        "https://www.ifsc.edu.br/qualifica",
+        "https://wp.ufpel.edu.br/pgceb/2026/08/26/edital-129-2026-estudante-regular/",
+        "https://www.inf.ufrgs.br/site/wp-content/uploads/2026/08/Especializacao-IAA-Edital-de-Selecao-2026.pdf",
+        "https://www.vestibulandoweb.com.br/vestibular/ifpr-2027-abre-inscricoes-para-cursos-tecnicos-e-superiores-veja-regras/"
       ]
     },
     {
@@ -4522,5 +4560,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-10-26T12:58:00-03:00"
+  "ultimaExecucao": "2026-10-26T17:58:00-03:00"
 }
