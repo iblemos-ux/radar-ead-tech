@@ -6740,13 +6740,46 @@
       ],
       "primeiraDeteccao": "2026-11-05",
       "marcos": []
+    },
+    {
+      "id": "ifsudestemg-cataguases-11-2026-fic-bncc-computacao",
+      "curso": "BNCC Computação (FIC, EaD)",
+      "instituicao": "IF Sudeste MG · Campus Avançado Cataguases",
+      "estado": "MG",
+      "tipo": "FIC",
+      "area": "Computação na Educação Básica (formação de professores)",
+      "edital": "Edital nº 11/2026, de 25/06/2026 (Processo 23223.002044/2026-01)",
+      "situacao": "INSCRIÇÕES ENCERRADAS",
+      "inscricaoInicio": "2026-06-29",
+      "inscricaoFim": "2026-07-10",
+      "cargaHoraria": "160 h, em 16 semanas; integralização em 4 meses (Quadro 2 e item 2.5)",
+      "vagas": "100, turma única; oferta depende de ao menos 30% das vagas preenchidas (item 4.2)",
+      "mensalidade": "PENDENTE DE CONFIRMAÇÃO (edital não menciona mensalidade nem declara gratuidade)",
+      "taxa": "PENDENTE DE CONFIRMAÇÃO (edital não menciona taxa)",
+      "certificado": "NÃO INFORMADO",
+      "polos": "NÃO INFORMADO (aulas à distância; oferta pelo Campus Avançado Cataguases)",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO: edital sem restrição expressa de residência; público é quem tem formação completa ou cursa pedagogia ou licenciatura, com 18 anos ou mais (Quadro 1)",
+      "atividadesPresenciais": "Nenhuma descrita: \"as aulas ocorrerão à distância\" (Quadro 1 e item 2.6)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "NÃO INFORMADO (aprovação com nota 6,0 em cada disciplina, item 2.9)",
+      "processoSeletivo": "Ordem de inscrição (item 4.1), por formulário on-line (item 3.1)",
+      "viabilidade": "C",
+      "linkEdital": "https://www.ifsudestemg.edu.br/editais/cataguases/ensino/2026/edital-2026-11-oferta-de-vagas-para-curso-de-formacao-inicial-e-continuada-2013-fic-bncc-computacao/edital-curso-fic-bncc-computacao.pdf",
+      "linkInscricao": "",
+      "dataVerificacao": "2026-11-08",
+      "observacoes": "Registro de referência. Edital oficial lido em 08/11/2026 (12h58): resultado provisório em 16/07 e início das aulas em 03/08/2026. Curso voltado a professores da Educação Básica (item 1.2.1), com aderência parcial à área de TI. Sem informação sobre periodicidade de novas ofertas.",
+      "fontes": [
+        "https://www.ifsudestemg.edu.br/editais/cataguases/ensino/2026/edital-2026-11-oferta-de-vagas-para-curso-de-formacao-inicial-e-continuada-2013-fic-bncc-computacao/edital-curso-fic-bncc-computacao.pdf"
+      ],
+      "primeiraDeteccao": "2026-11-08",
+      "marcos": []
     }
   ],
   "verificacoes": [
     {
       "data": "2026-11-08",
-      "resumo": "06h58 (portais Norte/Nordeste por buscas restritas e temáticas — IFPE, IFSertãoPE, UFPE/CIn, UFRPE/UAEADTec, UPE, IFCE, IFRN, IFPB, IFPI, IFMA, IFAL, IFBA, IF Baiano, IFS, IFAC, IFAP, IFAM, IFPA, IFRO, IFRR, IFTO, UFRN, UFPB, UFC, UFBA, UFMA, UFPI, UFAL, UFS, UFPA, UFAM; SEE-PE/ETEs; 12 itens de agregadores conferidos — home do PEBSP e posts de 07–08/11, ?p=51927, ?p=51756, ?p=51546, ?p=51565, IFRO 3.806 vagas, tag Vestibular 2027; Eu Ideal sobre IFRO; Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade nova e nenhuma prorrogação ou retificação localizada (Centro Paula Souza segue até 10/11; UFMS e IFPE 41/2026 até 12/11, sem confirmação em página oficial nesta execução). Conferidos e fora do escopo: IFCE Edital 25/2026 ('Desenvolvimento' é Técnico em Desenvolvimento Comunitário, presencial), IFRO PSU 2027/1 (Editais 7 e 8/2026, até 13/12; segundo matéria secundária, técnicos EaD só em Libras e Administração, com polos em PE, e ADS/Sistemas para Internet presenciais em RO; editais oficiais bloqueados por robots), ETE-PE 2027 (integrado), IFPE Olinda complementar (2026.1, encerrado). Sem verificação: IFBA Vitória da Conquista, minicursos on-line de Python (página oficial bloqueada por robots, data e prazo desconhecidos; não registrado). Pendências C: 5 tentadas (IFPA 08/2026, IFSULDEMINAS Muzambinho 116/2026 e Poços 229/2026, IFS 19/2026, Secti-PE), nenhuma resolvida (leitura automática não autorizada).",
-      "novas": 0,
+      "resumo": "06h58 (portais Norte/Nordeste por buscas restritas e temáticas — IFPE, IFSertãoPE, UFPE/CIn, UFRPE/UAEADTec, UPE, IFCE, IFRN, IFPB, IFPI, IFMA, IFAL, IFBA, IF Baiano, IFS, IFAC, IFAP, IFAM, IFPA, IFRO, IFRR, IFTO, UFRN, UFPB, UFC, UFBA, UFMA, UFPI, UFAL, UFS, UFPA, UFAM; SEE-PE/ETEs; 12 itens de agregadores conferidos — home do PEBSP e posts de 07–08/11, ?p=51927, ?p=51756, ?p=51546, ?p=51565, IFRO 3.806 vagas, tag Vestibular 2027; Eu Ideal sobre IFRO; Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade nova e nenhuma prorrogação ou retificação localizada (Centro Paula Souza segue até 10/11; UFMS e IFPE 41/2026 até 12/11, sem confirmação em página oficial nesta execução). Conferidos e fora do escopo: IFCE Edital 25/2026 ('Desenvolvimento' é Técnico em Desenvolvimento Comunitário, presencial), IFRO PSU 2027/1 (Editais 7 e 8/2026, até 13/12; segundo matéria secundária, técnicos EaD só em Libras e Administração, com polos em PE, e ADS/Sistemas para Internet presenciais em RO; editais oficiais bloqueados por robots), ETE-PE 2027 (integrado), IFPE Olinda complementar (2026.1, encerrado). Sem verificação: IFBA Vitória da Conquista, minicursos on-line de Python (página oficial bloqueada por robots, data e prazo desconhecidos; não registrado). Pendências C: 5 tentadas (IFPA 08/2026, IFSULDEMINAS Muzambinho 116/2026 e Poços 229/2026, IFS 19/2026, Secti-PE), nenhuma resolvida (leitura automática não autorizada). 12h58 (portais Centro-Oeste/Sudeste por buscas restritas e temáticas, com cobertura parcial porque os resultados vieram sobretudo de PEBSP e PDFs indexados — IFMG, IFSULDEMINAS, IFES, IFG, IF Goiano, IFMT, IFMS, IFSP, IFRJ, IFF, CEFET-RJ, IFNMG, IF Sudeste MG, IFTM, CEFET-MG, IFB, UFMG, UFOP, UFJF, UFU, UnB, UFG, UFMT, UFMS, UFF, UFRJ, UFSCar, Unifesp; 14 itens de agregadores conferidos — home do PEBSP e 4 Especializações/384 vagas (sem TI), IFSULDEMINAS 800 vagas (Edital 229, já registrado), UFRJ licenciaturas e IFSertãoPB integrados (fora do escopo), IFCE 25/2026 (Desenvolvimento Comunitário), IF Sudeste MG 32/2026 (saúde), PEBSP ?p=51750, 51057, 51014, 51358 e 51977 (já registrados), Correio sobre IF Baiano Santo Estêvão (já registrado); Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade aberta nova, nenhuma prorrogação ou retificação localizada. +1 registro de referência: IF Sudeste MG Cataguases FIC BNCC Computação (Edital 11/2026, encerrado em 10/07). Conferidos e pagos, sem registro: UFG Sistemas e Agentes Inteligentes (R$ 9.750), Banco de Dados com Big Data (R$ 9.000) e Data Science e Estatística Aplicada (R$ 7.650). Pendências C: 5 tentadas (IFSULDEMINAS 229/2026 e Muzambinho 116/2026, IFS 19/2026, IFPA 08/2026, Secti-PE), nenhuma resolvida (leitura automática dos documentos oficiais não autorizada).",
+      "novas": 1,
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.pebsp.com/?p=51927",
@@ -6756,7 +6789,11 @@
         "https://www.pebsp.com/800-vagas-abertas-em-pos-graduacoes-ead-no-ifsuldeminas-confira-cursos-e-vagas/",
         "https://www.euideal.com/noticia/65153/rondonia/oportunidades/ifro-abre-1-806-vagas-gratuitas-em-cursos-superiores-e-tecnicos-para-2027-sem-prova-e-sem-taxa-de-inscricao.html",
         "buscas restritas: portais Norte/Nordeste (IFs e universidades federais)",
-        "buscas temáticas: especialização IA/dados, ADS EaD, técnico DS EaD, SEE-PE"
+        "buscas temáticas: especialização IA/dados, ADS EaD, técnico DS EaD, SEE-PE",
+        "ifsudestemg.edu.br (Cataguases, Edital 11/2026)",
+        "files.cercomp.ufg.br (editais UFG)",
+        "pebsp.com (home e matérias de 05 a 08/11)",
+        "correio24horas.com.br (IF Baiano Santo Estêvão)"
       ]
     },
     {
@@ -7502,5 +7539,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-08T06:58:00-03:00"
+  "ultimaExecucao": "2026-11-08T12:58:00-03:00"
 }
