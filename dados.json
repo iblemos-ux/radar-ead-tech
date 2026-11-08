@@ -5137,8 +5137,8 @@
       "viabilidade": "C",
       "linkEdital": "https://portal.saude.pe.gov.br/ses-pe-abre-inscricoes-para-curso-autoinstrucional-de-inteligencia-artificial-na-saude/",
       "linkInscricao": "https://esppe.saude.pe.gov.br/",
-      "dataVerificacao": "2026-11-03",
-      "observacoes": "Lançado em 22/12/2025 (CONASS, 23/12/2025). A notícia oficial da SES-PE não informa gratuidade nem prazo; falta confirmar no AVA da ESPPE se a inscrição segue aberta e se é gratuita. Módulos: transformação digital em saúde, tipos de problemas e aprendizado, engenharia de prompts e ferramentas hardcode, lowcode e nocode. 02/11 (06h58): esppe.saude.pe.gov.br não pôde ser lido; segue sem confirmação. 03/11 (17h58): AVA da ESPPE segue sem leitura; pendência mantida.",
+      "dataVerificacao": "2026-11-08",
+      "observacoes": "Lançado em 22/12/2025 (CONASS, 23/12/2025). A notícia oficial da SES-PE não informa gratuidade nem prazo; falta confirmar no AVA da ESPPE se a inscrição segue aberta e se é gratuita. Módulos: transformação digital em saúde, tipos de problemas e aprendizado, engenharia de prompts e ferramentas hardcode, lowcode e nocode. 02/11 (06h58): esppe.saude.pe.gov.br não pôde ser lido; segue sem confirmação. 03/11 (17h58): AVA da ESPPE segue sem leitura; pendência mantida. 08/11 (17h58): página do AVA da ESPPE segue sem leitura automática; pendência mantida.",
       "fontes": [
         "https://portal.saude.pe.gov.br/ses-pe-abre-inscricoes-para-curso-autoinstrucional-de-inteligencia-artificial-na-saude/",
         "https://www.conass.org.br/?p=53328"
@@ -5512,7 +5512,7 @@
       "atividadesPresenciais": "Nenhuma informada (curso on-line)",
       "provasPresenciais": "Não informado; curso on-line",
       "processoSeletivo": "Sem seleção: criar conta ou fazer login na plataforma e entrar no curso",
-      "dataVerificacao": "2026-11-04",
+      "dataVerificacao": "2026-11-08",
       "primeiraDeteccao": "2026-11-02",
       "marcos": [],
       "id": "serpro-cidadaodigital-2026-introducao-ia",
@@ -5525,7 +5525,7 @@
       "viabilidade": "C",
       "linkEdital": "https://www.serpro.gov.br/menu/noticias/noticias-2026/curso-ia-fundamentos",
       "linkInscricao": "https://cidadaodigital.serpro.gov.br/enrol/index.php?id=1965",
-      "observacoes": "Parceria com a Microsoft, divulgada em 20/08/2026. Oferta contínua, sem prazo. Falta confirmar certificado e carga horária na página do curso (link de inscrição), que não pôde ser lida nesta execução. 04/11 (12h58): notícia oficial do Serpro relida; página do curso segue sem leitura e pendência mantida.",
+      "observacoes": "Parceria com a Microsoft, divulgada em 20/08/2026. Oferta contínua, sem prazo. Falta confirmar certificado e carga horária na página do curso (link de inscrição), que não pôde ser lida nesta execução. 04/11 (12h58): notícia oficial do Serpro relida; página do curso segue sem leitura e pendência mantida. 08/11 (17h58): página do curso no Cidadão Digital (Serpro) segue sem leitura automática; pendência mantida.",
       "fontes": [
         "https://www.serpro.gov.br/menu/noticias/noticias-2026/curso-ia-fundamentos",
         "https://agenciagov.ebc.com.br/noticias/202608/quer-entender-de-ia-curso-gratuito-do-serpro-apresenta-fundamentos-da-tecnologia"
@@ -5546,7 +5546,7 @@
       "atividadesPresenciais": "Nenhuma informada (curso on-line)",
       "provasPresenciais": "Não informado; curso on-line",
       "processoSeletivo": "Sem seleção: criar conta ou fazer login na plataforma e entrar no curso",
-      "dataVerificacao": "2026-11-04",
+      "dataVerificacao": "2026-11-08",
       "primeiraDeteccao": "2026-11-02",
       "marcos": [],
       "id": "serpro-cidadaodigital-2026-ia-servidores",
@@ -5559,7 +5559,7 @@
       "viabilidade": "C",
       "linkEdital": "https://www.serpro.gov.br/menu/noticias/noticias-2026/curso-ia-servico-publico",
       "linkInscricao": "https://cidadaodigital.serpro.gov.br/enrol/index.php?id=2076",
-      "observacoes": "Conteúdo: conceitos de IA, usos na administração pública (análise de dados, automação, documentos, atendimento), ética, viés, privacidade e governança. Inscrição a qualquer momento. Falta confirmar na página do curso se aceita quem não é servidor; se restringir, passa a D. 02/11 (17h58): página do curso segue sem leitura; a Agência Gov confirma 3 h, certificado e inscrição a qualquer momento, sem citar restrição a servidores. 03/11 (12h59): página do curso segue sem leitura; pendência mantida. 04/11 (12h58): notícia oficial do Serpro relida; página do curso segue sem leitura e pendência mantida.",
+      "observacoes": "Conteúdo: conceitos de IA, usos na administração pública (análise de dados, automação, documentos, atendimento), ética, viés, privacidade e governança. Inscrição a qualquer momento. Falta confirmar na página do curso se aceita quem não é servidor; se restringir, passa a D. 02/11 (17h58): página do curso segue sem leitura; a Agência Gov confirma 3 h, certificado e inscrição a qualquer momento, sem citar restrição a servidores. 03/11 (12h59): página do curso segue sem leitura; pendência mantida. 04/11 (12h58): notícia oficial do Serpro relida; página do curso segue sem leitura e pendência mantida. 08/11 (17h58): página do curso no Cidadão Digital (Serpro) segue sem leitura automática; pendência mantida.",
       "fontes": [
         "https://www.serpro.gov.br/menu/noticias/noticias-2026/curso-ia-servico-publico",
         "https://agenciagov.ebc.com.br/noticias/202608/inteligencia-artificial-no-servico-publico-e-tema-de-curso-gratuito-do-serpro"
@@ -5860,8 +5860,8 @@
       "viabilidade": "C",
       "linkEdital": "https://www2.recife.pe.gov.br/noticias/17/03/2026/prefeitura-do-recife-abre-10-mil-vagas-gratuitas-em-capacitacao-de-inteligencia",
       "linkInscricao": "https://conecta.recife.pe.gov.br/servico/1427",
-      "dataVerificacao": "2026-11-03",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: as páginas da Prefeitura do Recife bloqueiam leitura automática; só os títulos da notícia de 17/03/2026 e do serviço 'Programa Treina AI Recife' foram vistos. Lançado em março; não se sabe se as inscrições seguem abertas nem o prazo. Público citado: estudantes, jovens em vulnerabilidade, profissionais, empreendedores, pequenas e médias empresas e terceiro setor. O Portal de Prefeitura indica inscrição em domínio de terceiro (ontidwit.com, Instituto Gabriel Gastal): confirmar no portal Conecta Recife antes de enviar dados. 03/11 (17h58): nova busca não trouxe prazo nem fonte oficial legível; pendência mantida.",
+      "dataVerificacao": "2026-11-08",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: as páginas da Prefeitura do Recife bloqueiam leitura automática; só os títulos da notícia de 17/03/2026 e do serviço 'Programa Treina AI Recife' foram vistos. Lançado em março; não se sabe se as inscrições seguem abertas nem o prazo. Público citado: estudantes, jovens em vulnerabilidade, profissionais, empreendedores, pequenas e médias empresas e terceiro setor. O Portal de Prefeitura indica inscrição em domínio de terceiro (ontidwit.com, Instituto Gabriel Gastal): confirmar no portal Conecta Recife antes de enviar dados. 03/11 (17h58): nova busca não trouxe prazo nem fonte oficial legível; pendência mantida. 08/11 (17h58): página da Prefeitura do Recife segue sem leitura automática; pendência mantida.",
       "fontes": [
         "https://www2.recife.pe.gov.br/noticias/17/03/2026/prefeitura-do-recife-abre-10-mil-vagas-gratuitas-em-capacitacao-de-inteligencia",
         "https://conecta.recife.pe.gov.br/servico/1427",
@@ -6731,8 +6731,8 @@
       "viabilidade": "C",
       "linkEdital": "https://agenciagov.ebc.com.br/noticias/202608/mec-oferece-nove-cursos-gratuitos-de-inteligencia-artificial-para-professores",
       "linkInscricao": "https://avamec.mec.gov.br/v2/#/instituicao/seb/curso/16073/informacoes",
-      "dataVerificacao": "2026-11-05",
-      "observacoes": "Curso confirmado na Agência Gov (18/08/2026), uma das nove formações de IA do MEC no AVAMEC. As fontes divergem: a data de 31/12/2026 e as 5.000 vagas vêm do PEBSP de 05/11/2026; o PEBSP de 18/08 disse que não havia data-limite e a Agência Gov, que não há limite de vagas. A página do AVAMEC e a notícia em gov.br/mec não puderam ser lidas. Falta confirmar na página do curso se quem não é professor pode participar; se for exclusivo para docentes, passa a D. 05/11 (17h58): página do AVAMEC segue sem leitura. PEBSP de 05/11 diz que o curso é destinado prioritariamente a professores e gestores; Agência Gov cita só professores da educação básica. Vedação a outros públicos não confirmada.",
+      "dataVerificacao": "2026-11-08",
+      "observacoes": "Curso confirmado na Agência Gov (18/08/2026), uma das nove formações de IA do MEC no AVAMEC. As fontes divergem: a data de 31/12/2026 e as 5.000 vagas vêm do PEBSP de 05/11/2026; o PEBSP de 18/08 disse que não havia data-limite e a Agência Gov, que não há limite de vagas. A página do AVAMEC e a notícia em gov.br/mec não puderam ser lidas. Falta confirmar na página do curso se quem não é professor pode participar; se for exclusivo para docentes, passa a D. 05/11 (17h58): página do AVAMEC segue sem leitura. PEBSP de 05/11 diz que o curso é destinado prioritariamente a professores e gestores; Agência Gov cita só professores da educação básica. Vedação a outros públicos não confirmada. 08/11 (17h58): página do curso no AVAMEC segue sem leitura automática; pendência mantida.",
       "fontes": [
         "https://agenciagov.ebc.com.br/noticias/202608/mec-oferece-nove-cursos-gratuitos-de-inteligencia-artificial-para-professores",
         "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-extensao-gratuito-de-inteligencia-artificial-para-professores-dcs/",
@@ -6778,7 +6778,7 @@
   "verificacoes": [
     {
       "data": "2026-11-08",
-      "resumo": "06h58 (portais Norte/Nordeste por buscas restritas e temáticas — IFPE, IFSertãoPE, UFPE/CIn, UFRPE/UAEADTec, UPE, IFCE, IFRN, IFPB, IFPI, IFMA, IFAL, IFBA, IF Baiano, IFS, IFAC, IFAP, IFAM, IFPA, IFRO, IFRR, IFTO, UFRN, UFPB, UFC, UFBA, UFMA, UFPI, UFAL, UFS, UFPA, UFAM; SEE-PE/ETEs; 12 itens de agregadores conferidos — home do PEBSP e posts de 07–08/11, ?p=51927, ?p=51756, ?p=51546, ?p=51565, IFRO 3.806 vagas, tag Vestibular 2027; Eu Ideal sobre IFRO; Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade nova e nenhuma prorrogação ou retificação localizada (Centro Paula Souza segue até 10/11; UFMS e IFPE 41/2026 até 12/11, sem confirmação em página oficial nesta execução). Conferidos e fora do escopo: IFCE Edital 25/2026 ('Desenvolvimento' é Técnico em Desenvolvimento Comunitário, presencial), IFRO PSU 2027/1 (Editais 7 e 8/2026, até 13/12; segundo matéria secundária, técnicos EaD só em Libras e Administração, com polos em PE, e ADS/Sistemas para Internet presenciais em RO; editais oficiais bloqueados por robots), ETE-PE 2027 (integrado), IFPE Olinda complementar (2026.1, encerrado). Sem verificação: IFBA Vitória da Conquista, minicursos on-line de Python (página oficial bloqueada por robots, data e prazo desconhecidos; não registrado). Pendências C: 5 tentadas (IFPA 08/2026, IFSULDEMINAS Muzambinho 116/2026 e Poços 229/2026, IFS 19/2026, Secti-PE), nenhuma resolvida (leitura automática não autorizada). 12h58 (portais Centro-Oeste/Sudeste por buscas restritas e temáticas, com cobertura parcial porque os resultados vieram sobretudo de PEBSP e PDFs indexados — IFMG, IFSULDEMINAS, IFES, IFG, IF Goiano, IFMT, IFMS, IFSP, IFRJ, IFF, CEFET-RJ, IFNMG, IF Sudeste MG, IFTM, CEFET-MG, IFB, UFMG, UFOP, UFJF, UFU, UnB, UFG, UFMT, UFMS, UFF, UFRJ, UFSCar, Unifesp; 14 itens de agregadores conferidos — home do PEBSP e 4 Especializações/384 vagas (sem TI), IFSULDEMINAS 800 vagas (Edital 229, já registrado), UFRJ licenciaturas e IFSertãoPB integrados (fora do escopo), IFCE 25/2026 (Desenvolvimento Comunitário), IF Sudeste MG 32/2026 (saúde), PEBSP ?p=51750, 51057, 51014, 51358 e 51977 (já registrados), Correio sobre IF Baiano Santo Estêvão (já registrado); Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade aberta nova, nenhuma prorrogação ou retificação localizada. +1 registro de referência: IF Sudeste MG Cataguases FIC BNCC Computação (Edital 11/2026, encerrado em 10/07). Conferidos e pagos, sem registro: UFG Sistemas e Agentes Inteligentes (R$ 9.750), Banco de Dados com Big Data (R$ 9.000) e Data Science e Estatística Aplicada (R$ 7.650). Pendências C: 5 tentadas (IFSULDEMINAS 229/2026 e Muzambinho 116/2026, IFS 19/2026, IFPA 08/2026, Secti-PE), nenhuma resolvida (leitura automática dos documentos oficiais não autorizada).",
+      "resumo": "06h58 (portais Norte/Nordeste por buscas restritas e temáticas — IFPE, IFSertãoPE, UFPE/CIn, UFRPE/UAEADTec, UPE, IFCE, IFRN, IFPB, IFPI, IFMA, IFAL, IFBA, IF Baiano, IFS, IFAC, IFAP, IFAM, IFPA, IFRO, IFRR, IFTO, UFRN, UFPB, UFC, UFBA, UFMA, UFPI, UFAL, UFS, UFPA, UFAM; SEE-PE/ETEs; 12 itens de agregadores conferidos — home do PEBSP e posts de 07–08/11, ?p=51927, ?p=51756, ?p=51546, ?p=51565, IFRO 3.806 vagas, tag Vestibular 2027; Eu Ideal sobre IFRO; Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade nova e nenhuma prorrogação ou retificação localizada (Centro Paula Souza segue até 10/11; UFMS e IFPE 41/2026 até 12/11, sem confirmação em página oficial nesta execução). Conferidos e fora do escopo: IFCE Edital 25/2026 ('Desenvolvimento' é Técnico em Desenvolvimento Comunitário, presencial), IFRO PSU 2027/1 (Editais 7 e 8/2026, até 13/12; segundo matéria secundária, técnicos EaD só em Libras e Administração, com polos em PE, e ADS/Sistemas para Internet presenciais em RO; editais oficiais bloqueados por robots), ETE-PE 2027 (integrado), IFPE Olinda complementar (2026.1, encerrado). Sem verificação: IFBA Vitória da Conquista, minicursos on-line de Python (página oficial bloqueada por robots, data e prazo desconhecidos; não registrado). Pendências C: 5 tentadas (IFPA 08/2026, IFSULDEMINAS Muzambinho 116/2026 e Poços 229/2026, IFS 19/2026, Secti-PE), nenhuma resolvida (leitura automática não autorizada). 12h58 (portais Centro-Oeste/Sudeste por buscas restritas e temáticas, com cobertura parcial porque os resultados vieram sobretudo de PEBSP e PDFs indexados — IFMG, IFSULDEMINAS, IFES, IFG, IF Goiano, IFMT, IFMS, IFSP, IFRJ, IFF, CEFET-RJ, IFNMG, IF Sudeste MG, IFTM, CEFET-MG, IFB, UFMG, UFOP, UFJF, UFU, UnB, UFG, UFMT, UFMS, UFF, UFRJ, UFSCar, Unifesp; 14 itens de agregadores conferidos — home do PEBSP e 4 Especializações/384 vagas (sem TI), IFSULDEMINAS 800 vagas (Edital 229, já registrado), UFRJ licenciaturas e IFSertãoPB integrados (fora do escopo), IFCE 25/2026 (Desenvolvimento Comunitário), IF Sudeste MG 32/2026 (saúde), PEBSP ?p=51750, 51057, 51014, 51358 e 51977 (já registrados), Correio sobre IF Baiano Santo Estêvão (já registrado); Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade aberta nova, nenhuma prorrogação ou retificação localizada. +1 registro de referência: IF Sudeste MG Cataguases FIC BNCC Computação (Edital 11/2026, encerrado em 10/07). Conferidos e pagos, sem registro: UFG Sistemas e Agentes Inteligentes (R$ 9.750), Banco de Dados com Big Data (R$ 9.000) e Data Science e Estatística Aplicada (R$ 7.650). Pendências C: 5 tentadas (IFSULDEMINAS 229/2026 e Muzambinho 116/2026, IFS 19/2026, IFPA 08/2026, Secti-PE), nenhuma resolvida (leitura automática dos documentos oficiais não autorizada). 17h58 (portais Sul e programas nacionais por buscas restritas e temáticas, com cobertura parcial porque os resultados vieram sobretudo de PEBSP e PDFs indexados — IFPR, IFSC, IFC, IFRS, IFSul, IFFar, UTFPR, UFPR, UFSC, UFRGS, UFSM, UFPel, FURG, UAB/CAPES, CEDERJ, UNIVESP, EV.G, Aprenda Mais, Centro Paula Souza, SEE-PE; 17 itens de agregadores conferidos — lateral da home do PEBSP com posts de 08/11, ?p=51838, 51770, 51670, 51351, 51341, 51857, 51509, 51497, 50156, 4 Especializações/384 vagas, tag Curso Gratuito EAD, arquivo IFFar, Estratégia Fatec, Sou Brasília e Jornal de Brasília sobre Egov-DF; Hora Brasil e Guia da Pós não abriram): nenhuma oportunidade nova, nenhuma prorrogação ou retificação localizada em registros existentes. Conferidos e fora do escopo: IFRR 26/2026 (ADS em Boa Vista, com prova presencial, até 15/11; modalidade não declarada como EaD), Fatec 1º/2027 (sem curso de TI em EaD citado nominalmente; fontes secundárias divergem entre fim em 06/11 e prorrogação até 16/11), IFSP Catanduva IoT 99/2026 (presencial em SP, fora do recorte IA/dados), Egov-DF fluêncIA (capacitação voltada a servidores públicos), UTFPR Ponta Grossa Edital 50/2025 (encerrado; custo não esclarecido). Pendências C: 5 tentadas (Serpro Introdução à IA e IA para Servidores, AVAMEC 16073, Treina AI Recife, ESPPE), nenhuma resolvida (páginas oficiais sem leitura automática).",
       "novas": 1,
       "fontesConsultadas": [
         "https://www.pebsp.com/",
@@ -6793,7 +6793,27 @@
         "ifsudestemg.edu.br (Cataguases, Edital 11/2026)",
         "files.cercomp.ufg.br (editais UFG)",
         "pebsp.com (home e matérias de 05 a 08/11)",
-        "correio24horas.com.br (IF Baiano Santo Estêvão)"
+        "correio24horas.com.br (IF Baiano Santo Estêvão)",
+        "ifpr.edu.br",
+        "ifsc.edu.br",
+        "ifc.edu.br",
+        "ifrs.edu.br",
+        "ifsul.edu.br",
+        "iffarroupilha.edu.br",
+        "utfpr.edu.br",
+        "ufpr.br",
+        "ufsc.br",
+        "ufrgs.br",
+        "ufsm.br",
+        "ufpel.edu.br",
+        "furg.br",
+        "gov.br/capes",
+        "cecierj.edu.br",
+        "univesp.br",
+        "escolavirtual.gov.br",
+        "aprendamais.mec.gov.br",
+        "cps.sp.gov.br",
+        "portal.educacao.pe.gov.br"
       ]
     },
     {
@@ -7539,5 +7559,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-08T12:58:00-03:00"
+  "ultimaExecucao": "2026-11-08T17:58:00-03:00"
 }
