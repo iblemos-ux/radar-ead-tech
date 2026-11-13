@@ -7595,13 +7595,133 @@
       ],
       "primeiraDeteccao": "2026-11-12",
       "marcos": []
+    },
+    {
+      "curso": "Introdução à Análise de Dados no R (Curso POLEN)",
+      "instituicao": "USP · Instituto de Relações Internacionais (IRI)",
+      "estado": "SP",
+      "tipo": "Extensão",
+      "area": "Análise de Dados / Programação em R",
+      "cargaHoraria": "30 horas (6 aulas com roteiros em PDF, vídeos e scripts R)",
+      "vagas": "100 por edição",
+      "mensalidade": "Gratuito",
+      "taxa": "Gratuito",
+      "certificado": "Certificado da Pró-Reitoria de Cultura e Extensão da USP, exige inscrição/matrícula no Apolo, acesso a 75% do curso e envio de avaliação final (gráfico em R, código e base de dados)",
+      "polos": "100% on-line (plataforma do projeto POLEN/Moodle)",
+      "pePodeParticipar": "Sim. A página oficial não traz restrição de público nem de residência; curso introdutório aberto a interessados",
+      "atividadesPresenciais": "Nenhuma (curso 100% assíncrono, segundo a página oficial)",
+      "aulasSincronas": "Não (100% assíncrono)",
+      "provasPresenciais": "Não; avaliação final enviada on-line",
+      "processoSeletivo": "Ordem de inscrição no sistema Apolo da USP, até preencher 100 vagas por edição",
+      "viabilidade": "A",
+      "linkEdital": "https://sites.usp.br/pen/?p=6951",
+      "linkInscricao": "https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W&codund=87",
+      "dataVerificacao": "2026-11-13",
+      "fontes": [
+        "https://sites.usp.br/pen/?p=6951",
+        "https://www.pebsp.com/3-cursos-da-usp-com-inscricoes-abertas-nesta-sexta-feira-13/"
+      ],
+      "primeiraDeteccao": "2026-11-13",
+      "id": "usp-iri-polen-26002-2026-analise-dados-r",
+      "edital": "Curso de extensão POLEN, edição 26.002 (Apolo/USP)",
+      "situacao": "PRAZO ENCERRANDO",
+      "inscricaoInicio": "2026-11-09",
+      "inscricaoFim": "2026-11-13",
+      "marcos": [
+        {
+          "evento": "Início das aulas",
+          "data": "2026-11-16"
+        },
+        {
+          "evento": "Fim do curso",
+          "data": "2026-11-27"
+        }
+      ],
+      "observacoes": "Edição 26.002: inscrições até 13/11/2026 às 23h59; realização de 16/11 a 27/11/2026. Seleção por ordem de inscrição, as 100 vagas podem já estar preenchidas. Há nova edição (26.003) com inscrições de 23/11 a 27/11/2026, registrada separadamente. Página oficial informa que novas edições serão ofertadas em 2027. Página secundária sites.usp.br/pen/curso-polen/ não pôde ser lida."
+    },
+    {
+      "curso": "Introdução à Análise de Dados no R (Curso POLEN)",
+      "instituicao": "USP · Instituto de Relações Internacionais (IRI)",
+      "estado": "SP",
+      "tipo": "Extensão",
+      "area": "Análise de Dados / Programação em R",
+      "cargaHoraria": "30 horas (6 aulas com roteiros em PDF, vídeos e scripts R)",
+      "vagas": "100 por edição",
+      "mensalidade": "Gratuito",
+      "taxa": "Gratuito",
+      "certificado": "Certificado da Pró-Reitoria de Cultura e Extensão da USP, exige inscrição/matrícula no Apolo, acesso a 75% do curso e envio de avaliação final (gráfico em R, código e base de dados)",
+      "polos": "100% on-line (plataforma do projeto POLEN/Moodle)",
+      "pePodeParticipar": "Sim. A página oficial não traz restrição de público nem de residência; curso introdutório aberto a interessados",
+      "atividadesPresenciais": "Nenhuma (curso 100% assíncrono, segundo a página oficial)",
+      "aulasSincronas": "Não (100% assíncrono)",
+      "provasPresenciais": "Não; avaliação final enviada on-line",
+      "processoSeletivo": "Ordem de inscrição no sistema Apolo da USP, até preencher 100 vagas por edição",
+      "viabilidade": "A",
+      "linkEdital": "https://sites.usp.br/pen/?p=6951",
+      "linkInscricao": "https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W&codund=87",
+      "dataVerificacao": "2026-11-13",
+      "fontes": [
+        "https://sites.usp.br/pen/?p=6951",
+        "https://www.pebsp.com/3-cursos-da-usp-com-inscricoes-abertas-nesta-sexta-feira-13/"
+      ],
+      "primeiraDeteccao": "2026-11-13",
+      "id": "usp-iri-polen-26003-2026-analise-dados-r",
+      "edital": "Curso de extensão POLEN, edição 26.003 (Apolo/USP)",
+      "situacao": "INSCRIÇÕES FUTURAS CONFIRMADAS",
+      "inscricaoInicio": "2026-11-23",
+      "inscricaoFim": "2026-11-27",
+      "marcos": [
+        {
+          "evento": "Início das aulas",
+          "data": "2026-11-30"
+        },
+        {
+          "evento": "Fim do curso",
+          "data": "2026-12-14"
+        }
+      ],
+      "observacoes": "Edição 26.003: inscrições de 23/11 a 27/11/2026 no Apolo (USP); realização de 30/11 a 14/12/2026. 100 vagas por ordem de inscrição: inscrever-se logo na abertura. Atenção: na página do POLEN o link da edição 26.003 aponta para o código 26002; usar a listagem de cursos do IRI no Apolo (codund=87). Classificação A com base na página oficial (100% assíncrono, gratuito, sem restrição de público)."
+    },
+    {
+      "id": "usp-fea-25001-ia-generativa-marketing",
+      "curso": "Fundamentos de Inteligência Artificial Generativa em Marketing",
+      "instituicao": "USP · Faculdade de Economia, Administração, Contabilidade e Atuária (FEA)",
+      "estado": "SP",
+      "tipo": "Extensão",
+      "area": "Inteligência Artificial Generativa",
+      "edital": "Curso de extensão FEA-USP (Apolo, código 120400067, edição 25001)",
+      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "inscricaoInicio": "",
+      "inscricaoFim": "2026-12-08",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "5.000 (fonte secundária)",
+      "mensalidade": "Gratuito (fonte secundária)",
+      "taxa": "Gratuito (fonte secundária)",
+      "certificado": "Segundo a fonte secundária, exige presença em 100% das sessões e questionário de avaliação",
+      "polos": "On-line (fonte secundária)",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
+      "atividadesPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO (exigência de 100% de presença nas sessões sugere encontros em horário fixo)",
+      "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
+      "processoSeletivo": "Ordem de inscrição até 5.000 vagas (fonte secundária)",
+      "viabilidade": "C",
+      "linkEdital": "",
+      "linkInscricao": "https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=12&codcurceu=120400067&codedicurceu=25001&numseqofeedi=1&oriins=W",
+      "dataVerificacao": "2026-11-13",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. PEBSP (18/10/2026) informa inscrições até 08/12/2026, mas notícia da Catraca Livre de 07/11/2025 traz o mesmo curso, o mesmo link (edição 25001) e o mesmo prazo, o que sugere possível edição de 2025 com prazo trocado. Falta ler a página do curso no Apolo (link de inscrição acima), que não abriu na leitura automática, para confirmar ano, datas, horário das sessões e público.",
+      "fontes": [
+        "https://www.pebsp.com/usp-libera-5-mil-vagas-gratuitas-para-curso-de-ia-inscricoes-terminam-em-dezembro/",
+        "https://catracalivre.com.br/educacao/usp-abre-5-mil-vagas-em-curso-gratuito-sobre-ia-generativa/"
+      ],
+      "primeiraDeteccao": "2026-11-13",
+      "marcos": []
     }
   ],
   "verificacoes": [
     {
       "data": "2026-11-13",
-      "resumo": "06h58 (portais N/NE; agregadores: PEBSP lido pela barra lateral, cerca de 15 itens conferidos; Hora Brasil e Guia da Pós sem leitura automática): nenhuma oportunidade nova. Encerradas por prazo: IFPE Edital 41/2026 (todos os cursos), UFMS Edital 344/2026 (ADS, Ciência de Dados, IA) e FIC Computação Quântica do IFSULDEMINAS Muzambinho; sem prorrogação encontrada (CBN Recife, 12/11). CRIAR/CIn-UFPE em último dia. Conferidos e descartados: IFSertãoPE transferência/reingresso 2027 (cursos presenciais no Sertão), IFSP Santos técnico em informática (presencial), itens não-TI do PEBSP (IFRN, UFSCar, CEFET-RJ, UENF, IFMS idiomas). CEDERJ Sistemas de Computação já registrado (prorrogado até 15/11). Pendências C (IFPA 08/2026, IFS 19/2026, IFCE RESTIC-61, USP/EEL): nenhuma resolvida, fontes oficiais sem leitura automática. 12h58 (portais CO/SE: buscas site: ifes, ifg, ifgoiano, ifmg, ifsuldeminas, iftm, cefetmg, ifrj, iff, ifsp, ifmt, ifms, ifb, unb, ufg, ufmg, ufu, uff, ufrj, ufscar, unifesp; PEBSP e VestibulandoWeb: 9 itens conferidos): nenhuma oportunidade nova no escopo. Descartados: IFB São Sebastião Edital 11/2026 (ADS presencial em Brasília), IFG Pronatec Empreender 22/2026 (FIC presenciais, encerrado), USP Encontro USP Escola 2027 (formação docente presencial em SP), 4 IFs com especializações EaD sem TI (IFSC, IFSP Birigui, IFRN 62/2026, IF Baiano 203/2026), IF Sudeste MG 36/2026 e IF Goiano Ipameri 12/2026 (técnicos EaD sem TI), IFNMG 2027 (graduações presenciais), Vestibulinho Etec 2027 (presencial). Cetam 011/2026 e IFB CP 11/2026 já registrados. Pendências C (IFPA 08/2026, USP/EEL): sem confirmação oficial nova.",
-      "novas": 0,
+      "resumo": "06h58 (portais N/NE; agregadores: PEBSP lido pela barra lateral, cerca de 15 itens conferidos; Hora Brasil e Guia da Pós sem leitura automática): nenhuma oportunidade nova. Encerradas por prazo: IFPE Edital 41/2026 (todos os cursos), UFMS Edital 344/2026 (ADS, Ciência de Dados, IA) e FIC Computação Quântica do IFSULDEMINAS Muzambinho; sem prorrogação encontrada (CBN Recife, 12/11). CRIAR/CIn-UFPE em último dia. Conferidos e descartados: IFSertãoPE transferência/reingresso 2027 (cursos presenciais no Sertão), IFSP Santos técnico em informática (presencial), itens não-TI do PEBSP (IFRN, UFSCar, CEFET-RJ, UENF, IFMS idiomas). CEDERJ Sistemas de Computação já registrado (prorrogado até 15/11). Pendências C (IFPA 08/2026, IFS 19/2026, IFCE RESTIC-61, USP/EEL): nenhuma resolvida, fontes oficiais sem leitura automática. 12h58 (portais CO/SE: buscas site: ifes, ifg, ifgoiano, ifmg, ifsuldeminas, iftm, cefetmg, ifrj, iff, ifsp, ifmt, ifms, ifb, unb, ufg, ufmg, ufu, uff, ufrj, ufscar, unifesp; PEBSP e VestibulandoWeb: 9 itens conferidos): nenhuma oportunidade nova no escopo. Descartados: IFB São Sebastião Edital 11/2026 (ADS presencial em Brasília), IFG Pronatec Empreender 22/2026 (FIC presenciais, encerrado), USP Encontro USP Escola 2027 (formação docente presencial em SP), 4 IFs com especializações EaD sem TI (IFSC, IFSP Birigui, IFRN 62/2026, IF Baiano 203/2026), IF Sudeste MG 36/2026 e IF Goiano Ipameri 12/2026 (técnicos EaD sem TI), IFNMG 2027 (graduações presenciais), Vestibulinho Etec 2027 (presencial). Cetam 011/2026 e IFB CP 11/2026 já registrados. Pendências C (IFPA 08/2026, USP/EEL): sem confirmação oficial nova. 17h58 (portais Sul e programas nacionais: buscas em IFPR, IFSC, IFC, IFSul, IFFar, UFRGS, UDESC, UAB/CAPES, CEDERJ, USP/Apolo; PEBSP e VestibulandoWeb: 12 itens conferidos): 3 registros novos. USP/IRI curso POLEN 'Introdução à Análise de Dados no R' (100% assíncrono, gratuito, A): edição 26.002 encerra hoje e edição 26.003 com inscrições de 23/11 a 27/11. USP/FEA 'IA Generativa em Marketing' registrado como aguardando confirmação (C; possível edição 2025). Descartados: IFSC editais 19-21/2027-1 (especializações sem TI), USP Encontro USP Escola 2027 (presencial, só docentes), cursos USP FFLCH e EERP (fora da área), UnB/UAB 2027 (Turismo e Libras, encerrado), UFMS 344/2026 (já registrado, encerrado). UDESC EaD 2027 não conferido em detalhe (notícia cita Pedagogia e bacharelado). Pendência C IFPA 08/2026: sem fonte oficial nova.",
+      "novas": 3,
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.cbnrecife.com/2026/11/12/inscricoes-para-processo-seletivo-do-ifpe-terminam-nesta-quinta-feira/",
@@ -7613,7 +7733,12 @@
         "https://www.pebsp.com/?p=52141",
         "https://www.ifg.edu.br/attachments/article/46758/Edital%2022:2026:PROEX.pdf",
         "https://www.vestibulandoweb.com.br/vestibular/inscricao-ifsudestemg-ead-2027/amp/",
-        "busca site: portais CO/SE (12h58)"
+        "busca site: portais CO/SE (12h58)",
+        "https://sites.usp.br/pen/?p=6951",
+        "https://www.pebsp.com/",
+        "https://www.pebsp.com/?p=51911",
+        "https://www.pebsp.com/usp-libera-5-mil-vagas-gratuitas-para-curso-de-ia-inscricoes-terminam-em-dezembro/",
+        "https://www.vestibulandoweb.com.br/vestibular/inscricao-unb-ead-2027/"
       ]
     },
     {
@@ -8510,5 +8635,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-13T13:16:00-03:00"
+  "ultimaExecucao": "2026-11-13T17:58:00-03:00"
 }
