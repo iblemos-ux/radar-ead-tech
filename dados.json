@@ -7794,19 +7794,80 @@
           "data": "2027-03-03"
         }
       ]
+    },
+    {
+      "id": "ifms-077-2026-tecnico-manutencao-suporte-informatica",
+      "curso": "Técnico em Manutenção e Suporte em Informática (subsequente, EaD semipresencial, encontro presencial semanal em MS)",
+      "instituicao": "IFMS · CREAD (campi e polos de MS)",
+      "estado": "MS",
+      "tipo": "Técnico",
+      "area": "Informática / Suporte e manutenção",
+      "edital": "Edital CREAD/IFMS nº 077/2026 (Técnico Subsequente EaD Semipresencial 2027, semestres 1 e 2), publicado em 10/11/2026 (fonte secundária)",
+      "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
+      "inscricaoInicio": "2026-11-13",
+      "inscricaoFim": "2026-12-06",
+      "cargaHoraria": "NÃO INFORMADO",
+      "vagas": "295 em 9 ofertas: CR Amambai 30, Campus Campo Grande 40, Polo Cassilândia 40, Polo Costa Rica 40, Polo Nova Alvorada do Sul 25, Campus Ponta Porã 30, Polo Ribas do Rio Pardo 30, Polo São Gabriel do Oeste 40, Polo Sidrolândia 20 (fonte secundária)",
+      "mensalidade": "Gratuito (fonte secundária)",
+      "taxa": "Sem taxa de inscrição (fonte secundária)",
+      "certificado": "Diploma de técnico de nível médio (IFMS)",
+      "polos": "Somente em Mato Grosso do Sul (campi Campo Grande e Ponta Porã, Centro de Referência de Amambai e polos listados em vagas); nenhum em PE",
+      "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO: restrição de residência não citada pela fonte secundária, mas exige comparecimento semanal ao polo em MS",
+      "atividadesPresenciais": "Um encontro presencial obrigatório por semana, à noite, no campus/polo escolhido em MS; candidato declara na inscrição que comparecerá; faltas nas duas primeiras semanas podem levar ao desligamento (fonte secundária)",
+      "aulasSincronas": "NÃO INFORMADO",
+      "provasPresenciais": "Sem prova na seleção (sorteio); avaliações do curso NÃO INFORMADO",
+      "processoSeletivo": "Sorteio eletrônico em 14/12/2026 (10h, YouTube), sem prova; 50% das vagas por cotas; resultado do sorteio 16/12/2026; resultado final e 1ª chamada 13/01/2027; matrícula 18 a 22/01/2027 (fonte secundária)",
+      "viabilidade": "C",
+      "linkEdital": "https://selecao.ifms.edu.br/edital/files/edital-no-077-2026-tecnico-subsequente-ead-semipresencial-2027-semestres-1-e-2-edital-077-2026-cursos-tecnicos-subsequentes-ead-2027-semestres-1-e-2.pdf",
+      "linkInscricao": "https://selecao.ifms.edu.br/perfil/estudantes/edital-no-077-2026-tecnico-subsequente-ead-semipresencial-2027-semestres-1-e-2",
+      "dataVerificacao": "2026-11-16",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: o PDF do Edital 077/2026 e a página do candidato em selecao.ifms.edu.br não puderam ser lidos nesta execução (acesso automático não autorizado). Se confirmado o encontro presencial semanal em MS, a viabilidade passa a D. Mesmo formato da oferta 2026.1 (Edital 084/2025, inscrições até 14/12/2025). Há 2º semestre de 2027 no mesmo edital, com inscrições previstas de 17/05 a 13/06/2027 (fonte secundária).",
+      "fontes": [
+        "https://www.pebsp.com/ifms-abre-2-365-vagas-gratuitas-em-cursos-tecnicos-semipresenciais-dcs/",
+        "https://selecao.ifms.edu.br",
+        "https://www.campograndenews.com.br/educacao-e-tecnologia/ifms-amplia-vagas-para-cursos-tecnicos-semipresenciais-em-20-municipios"
+      ],
+      "primeiraDeteccao": "2026-11-16",
+      "marcos": [
+        {
+          "evento": "Prova (sorteio eletrônico, sem prova presencial)",
+          "data": "2026-12-14"
+        },
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-12-16"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2027-01-13"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-22"
+        },
+        {
+          "evento": "Início das aulas",
+          "data": "2027-02-22"
+        }
+      ]
     }
   ],
   "verificacoes": [
     {
       "data": "2026-11-16",
-      "novas": 1,
-      "resumo": "06h59 (portais N/NE por busca restrita: IFPE, IFSertãoPE, IFCE, UFPE, UFRPE, UPE; ~12 itens de agregadores conferidos no PEBSP, incluindo a lista '7 especializações gratuitas em novembro', todas encerradas ou já registradas; Hora Brasil e Guia da Pós sem leitura automática): 1 nova, IF Goiano Urutaí Especialização em IA Aplicada a Dados Corporativos EaD (aguardando confirmação oficial, C, inscrições de 18/11/2026 a 18/01/2027). CEDERJ 2027.1 e USP/EEL marcados como encerrados. Pendências C (IFCE RESTIC-61, IFPA 08/2026, UnB IA na Pesquisa): portais oficiais sem leitura automática; nenhuma resolvida. Conferidos e já registrados/encerrados: IFB Chamada 4/2026 (IA, encerrada em fev.), IFMG Ouro Preto 1100/2026, IFSP Catanduva 99/2026 (IoT presencial, encerrada em 09/11). Sem alertas de prazo 7/3/1 dias para A/B/C.",
+      "novas": 2,
+      "resumo": "06h59 (portais N/NE por busca restrita: IFPE, IFSertãoPE, IFCE, UFPE, UFRPE, UPE; ~12 itens de agregadores conferidos no PEBSP, incluindo a lista '7 especializações gratuitas em novembro', todas encerradas ou já registradas; Hora Brasil e Guia da Pós sem leitura automática): 1 nova, IF Goiano Urutaí Especialização em IA Aplicada a Dados Corporativos EaD (aguardando confirmação oficial, C, inscrições de 18/11/2026 a 18/01/2027). CEDERJ 2027.1 e USP/EEL marcados como encerrados. Pendências C (IFCE RESTIC-61, IFPA 08/2026, UnB IA na Pesquisa): portais oficiais sem leitura automática; nenhuma resolvida. Conferidos e já registrados/encerrados: IFB Chamada 4/2026 (IA, encerrada em fev.), IFMG Ouro Preto 1100/2026, IFSP Catanduva 99/2026 (IoT presencial, encerrada em 09/11). Sem alertas de prazo 7/3/1 dias para A/B/C. 12h58 (portais CO/SE por busca restrita: IF Goiano, IFG, IFMS, IFMG, IFES, IFSP, IFTM; 9 itens de agregadores conferidos no PEBSP, Hora Brasil sem leitura automática): 1 nova, IFMS Edital 077/2026 Técnico em Manutenção e Suporte em Informática semipresencial (encontro semanal obrigatório em MS; aguardando confirmação oficial, C, provável D; inscrições 13/11 a 06/12/2026). Conferidos e descartados: Petrobras/Autonomia e Renda (sem TI, só moradores locais), IFMS EJA 73/2026 (presencial em MS), IF Goiano Rio Verde técnico IA integrado (encerrado, integrado ao EM), IFG Anápolis 44/2026 (já registrado). Pendências C (IF Goiano Urutaí 33/2026, IFCE RESTIC-61): portais ifgoiano e ifce sem leitura automática; o PDF 'SEI_8241701_Edital_61' do IFCE é o Pibid 61/2025, não o RESTIC-61. Nenhuma resolvida.",
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.pebsp.com/7-editais-abertos-para-especializacoes-gratuitas-em-novembro/",
         "https://conectaprofessores.com/2026/11/15/if-goiano-abre-45-vagas-para-pos-graduacao-gratuita-em-inteligencia-artificial-ead-inscricoes-comecam-em-novembro/",
         "https://diariodonordeste.verdesmares.com.br/papo-carreira/ifce-oferta-500-vagas-para-curso-gratuito-de-desenvolvimento-de-jogos-veja-como-participar-1.3804928",
-        "https://www.pebsp.com/ia-e-neurociencia-ifb-abre-inscricoes-para-cursos-gratuitos-e-ead/"
+        "https://www.pebsp.com/ia-e-neurociencia-ifb-abre-inscricoes-para-cursos-gratuitos-e-ead/",
+        "https://www.pebsp.com/ifms-abre-2-365-vagas-gratuitas-em-cursos-tecnicos-semipresenciais-dcs/",
+        "https://www.pebsp.com/petrobras-e-4-institutos-federais-tem-editais-para-cursos-de-qualificacao-e-bolsas-que-chegam-a-r-1-100/",
+        "https://www.pebsp.com/ifms-abre-inscricoes-para-395-vagas-em-cursos-tecnicos-integrados-eja-dcs/",
+        "https://www.pebsp.com/if-goiano-abre-vagas-para-curso-tecnico-em-inteligencia-artificial-integrado-ao-ensino-medio-dcs/",
+        "https://portal.ifce.edu.br/documents/16308/SEI_8241701_Edital_61.pdf"
       ]
     },
     {
@@ -8778,5 +8839,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-16T06:59:00-03:00"
+  "ultimaExecucao": "2026-11-16T12:58:00-03:00"
 }
