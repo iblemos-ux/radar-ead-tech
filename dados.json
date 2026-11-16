@@ -6595,20 +6595,34 @@
       "certificado": "Diploma de licenciatura (IFS)",
       "polos": "Campus Itabaiana (SE)",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
-      "atividadesPresenciais": "PENDENTE DE CONFIRMAÇÃO (curso semipresencial; parte presencial em Itabaiana-SE, frequência não informada na notícia)",
-      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO",
+      "atividadesPresenciais": "Momentos presenciais obrigatórios na sede/polos do IFS em Sergipe (PEBSP, 10/11/2026; frequência e % da carga horária não informadas). PENDENTE DE CONFIRMAÇÃO no edital",
+      "aulasSincronas": "Há encontros síncronos remotos (aulas ao vivo) segundo PEBSP; obrigatoriedade e gravação PENDENTE DE CONFIRMAÇÃO",
       "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
       "processoSeletivo": "Média do Enem nas cinco provas, incluindo redação; nota zero desclassifica (notícia oficial do IFS). Enem de 2016 a 2025",
       "viabilidade": "C",
       "linkEdital": "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70",
       "linkInscricao": "https://selecaoaluno.ifs.edu.br/",
-      "dataVerificacao": "2026-11-13",
-      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 06/11 (06h58): nova tentativa de leitura do documento oficial sem sucesso (acesso automático não autorizado nesta execução); busca não trouxe página oficial alternativa. Pendência mantida. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 09/11 (17h58): busca pelo Edital 19/2026 não trouxe documento do IFS; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida. 13/11 (06h58): nova tentativa de leitura das fontes oficiais bloqueada (acesso automático não autorizado); pendência mantida.",
+      "dataVerificacao": "2026-11-16",
+      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 06/11 (06h58): nova tentativa de leitura do documento oficial sem sucesso (acesso automático não autorizado nesta execução); busca não trouxe página oficial alternativa. Pendência mantida. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 09/11 (17h58): busca pelo Edital 19/2026 não trouxe documento do IFS; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida. 13/11 (06h58): nova tentativa de leitura das fontes oficiais bloqueada (acesso automático não autorizado); pendência mantida. 16/11 (17h58): PEBSP (10/11, fonte secundária) informa momentos presenciais obrigatórios na sede/polos e encontros síncronos remotos; inscrições gratuitas 05 a 30/11 no SGC; seleção só por nota do Enem (2016 em diante); resultado preliminar 03/12, final 10/12/2026; pré-matrícula da 1ª chamada 13 a 19/01/2027 via gov.br; aulas em fev/2027. A matéria lista o curso só em Itabaiana, Glória e Estância (30 vagas cada), sem Tobias Barreto. Tende a D; falta ler o Edital 19/2026 (linkEdital) para a frequência presencial e residência.",
       "fontes": [
-        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html"
+        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html",
+        "https://www.pebsp.com/ifs-abre-600-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-pela-nota-do-enem-dcs/"
       ],
       "primeiraDeteccao": "2026-11-05",
-      "marcos": []
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-12-03"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-10"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-13"
+        }
+      ]
     },
     {
       "id": "ifs-19-2026-licenciatura-computacao-tobias-barreto",
@@ -6628,20 +6642,34 @@
       "certificado": "Diploma de licenciatura (IFS)",
       "polos": "Campus Tobias Barreto (SE)",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
-      "atividadesPresenciais": "PENDENTE DE CONFIRMAÇÃO (curso semipresencial; parte presencial em Tobias Barreto-SE, frequência não informada na notícia)",
-      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO",
+      "atividadesPresenciais": "Momentos presenciais obrigatórios na sede/polos do IFS em Sergipe (PEBSP, 10/11/2026; frequência e % da carga horária não informadas). PENDENTE DE CONFIRMAÇÃO no edital",
+      "aulasSincronas": "Há encontros síncronos remotos (aulas ao vivo) segundo PEBSP; obrigatoriedade e gravação PENDENTE DE CONFIRMAÇÃO",
       "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
       "processoSeletivo": "Média do Enem nas cinco provas, incluindo redação; nota zero desclassifica (notícia oficial do IFS). Enem de 2016 a 2025",
       "viabilidade": "C",
       "linkEdital": "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70",
       "linkInscricao": "https://selecaoaluno.ifs.edu.br/",
-      "dataVerificacao": "2026-11-11",
-      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida.",
+      "dataVerificacao": "2026-11-16",
+      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida. 16/11 (17h58): PEBSP (10/11, fonte secundária) informa momentos presenciais obrigatórios na sede/polos e encontros síncronos remotos; inscrições gratuitas 05 a 30/11 no SGC; seleção só por nota do Enem (2016 em diante); resultado preliminar 03/12, final 10/12/2026; pré-matrícula da 1ª chamada 13 a 19/01/2027 via gov.br; aulas em fev/2027. A matéria lista o curso só em Itabaiana, Glória e Estância (30 vagas cada), sem Tobias Barreto. Tende a D; falta ler o Edital 19/2026 (linkEdital) para a frequência presencial e residência.",
       "fontes": [
-        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html"
+        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html",
+        "https://www.pebsp.com/ifs-abre-600-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-pela-nota-do-enem-dcs/"
       ],
       "primeiraDeteccao": "2026-11-05",
-      "marcos": []
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-12-03"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-10"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-13"
+        }
+      ]
     },
     {
       "id": "ifs-19-2026-licenciatura-computacao-gloria",
@@ -6661,20 +6689,34 @@
       "certificado": "Diploma de licenciatura (IFS)",
       "polos": "Campus Nossa Senhora da Glória (SE)",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
-      "atividadesPresenciais": "PENDENTE DE CONFIRMAÇÃO (curso semipresencial; parte presencial em Nossa Senhora da Glória-SE, frequência não informada na notícia)",
-      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO",
+      "atividadesPresenciais": "Momentos presenciais obrigatórios na sede/polos do IFS em Sergipe (PEBSP, 10/11/2026; frequência e % da carga horária não informadas). PENDENTE DE CONFIRMAÇÃO no edital",
+      "aulasSincronas": "Há encontros síncronos remotos (aulas ao vivo) segundo PEBSP; obrigatoriedade e gravação PENDENTE DE CONFIRMAÇÃO",
       "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
       "processoSeletivo": "Média do Enem nas cinco provas, incluindo redação; nota zero desclassifica (notícia oficial do IFS). Enem de 2016 a 2025",
       "viabilidade": "C",
       "linkEdital": "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70",
       "linkInscricao": "https://selecaoaluno.ifs.edu.br/",
-      "dataVerificacao": "2026-11-11",
-      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida.",
+      "dataVerificacao": "2026-11-16",
+      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida. 16/11 (17h58): PEBSP (10/11, fonte secundária) informa momentos presenciais obrigatórios na sede/polos e encontros síncronos remotos; inscrições gratuitas 05 a 30/11 no SGC; seleção só por nota do Enem (2016 em diante); resultado preliminar 03/12, final 10/12/2026; pré-matrícula da 1ª chamada 13 a 19/01/2027 via gov.br; aulas em fev/2027. A matéria lista o curso só em Itabaiana, Glória e Estância (30 vagas cada), sem Tobias Barreto. Tende a D; falta ler o Edital 19/2026 (linkEdital) para a frequência presencial e residência.",
       "fontes": [
-        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html"
+        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html",
+        "https://www.pebsp.com/ifs-abre-600-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-pela-nota-do-enem-dcs/"
       ],
       "primeiraDeteccao": "2026-11-05",
-      "marcos": []
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-12-03"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-10"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-13"
+        }
+      ]
     },
     {
       "id": "ifs-19-2026-licenciatura-computacao-estancia",
@@ -6694,20 +6736,34 @@
       "certificado": "Diploma de licenciatura (IFS)",
       "polos": "Campus Estância (SE)",
       "pePodeParticipar": "PENDENTE DE CONFIRMAÇÃO",
-      "atividadesPresenciais": "PENDENTE DE CONFIRMAÇÃO (curso semipresencial; parte presencial em Estância-SE, frequência não informada na notícia)",
-      "aulasSincronas": "PENDENTE DE CONFIRMAÇÃO",
+      "atividadesPresenciais": "Momentos presenciais obrigatórios na sede/polos do IFS em Sergipe (PEBSP, 10/11/2026; frequência e % da carga horária não informadas). PENDENTE DE CONFIRMAÇÃO no edital",
+      "aulasSincronas": "Há encontros síncronos remotos (aulas ao vivo) segundo PEBSP; obrigatoriedade e gravação PENDENTE DE CONFIRMAÇÃO",
       "provasPresenciais": "PENDENTE DE CONFIRMAÇÃO",
       "processoSeletivo": "Média do Enem nas cinco provas, incluindo redação; nota zero desclassifica (notícia oficial do IFS). Enem de 2016 a 2025",
       "viabilidade": "C",
       "linkEdital": "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70",
       "linkInscricao": "https://selecaoaluno.ifs.edu.br/",
-      "dataVerificacao": "2026-11-11",
-      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida.",
+      "dataVerificacao": "2026-11-16",
+      "observacoes": "Oferta confirmada na notícia oficial do IFS de 03/11/2026; o edital não foi lido (processoseletivo.ifs.edu.br e selecaoaluno.ifs.edu.br sem acesso automático). Falta ler o Edital 19/2026 (link em linkEdital) para saber a frequência presencial, residência, matrícula e início das aulas. Por ter parte presencial em Sergipe, tende a D se os encontros forem frequentes. Os demais cursos de TI do edital (Sistemas de Informação, Ciência da Computação, Gestão da TI) não têm modalidade ou campus indicados na notícia, e os técnicos de Informática e Redes do Edital 20/2026 são presenciais em SE (fora do escopo). 05/11 (17h58): notícia oficial do IFS relida, sem carga presencial nem cronograma; Enem aceito de 2016 a 2025 (notícia oficial). Edital 19/2026 segue sem leitura. 08/11 (06h58): leitura automática de processoseletivo.ifs.edu.br não autorizada nesta execução; pendência mantida. Falta ler o Edital 19/2026 (linkEdital). 09/11 (06h58): pendência mantida; o Edital 19/2026 (linkEdital) não pôde ser lido. 09/11 (12h58): Edital 19/2026 (linkEdital) segue sem leitura automática; pendência mantida. 11/11 (06h58): nova tentativa de leitura do edital oficial (linkEdital) sem sucesso — acesso automático não autorizado nesta execução; pendência mantida. 16/11 (17h58): PEBSP (10/11, fonte secundária) informa momentos presenciais obrigatórios na sede/polos e encontros síncronos remotos; inscrições gratuitas 05 a 30/11 no SGC; seleção só por nota do Enem (2016 em diante); resultado preliminar 03/12, final 10/12/2026; pré-matrícula da 1ª chamada 13 a 19/01/2027 via gov.br; aulas em fev/2027. A matéria lista o curso só em Itabaiana, Glória e Estância (30 vagas cada), sem Tobias Barreto. Tende a D; falta ler o Edital 19/2026 (linkEdital) para a frequência presencial e residência.",
       "fontes": [
-        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html"
+        "https://www.ifs.edu.br/ultimas-noticias/146-processo-seletivo/13024-ifs-abre-1-494-vagas-para-cursos-tecnicos-e-de-graduacao-em-2027-inscricoes-comecam-nesta-quinta-feira-5.html",
+        "https://www.pebsp.com/ifs-abre-600-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-pela-nota-do-enem-dcs/"
       ],
       "primeiraDeteccao": "2026-11-05",
-      "marcos": []
+      "marcos": [
+        {
+          "evento": "Lista preliminar",
+          "data": "2026-12-03"
+        },
+        {
+          "evento": "Resultado final",
+          "data": "2026-12-10"
+        },
+        {
+          "evento": "Matrícula",
+          "data": "2027-01-13"
+        }
+      ]
     },
     {
       "id": "mec-avamec-16073-2026-formacao-professores-ia",
@@ -7856,7 +7912,7 @@
     {
       "data": "2026-11-16",
       "novas": 2,
-      "resumo": "06h59 (portais N/NE por busca restrita: IFPE, IFSertãoPE, IFCE, UFPE, UFRPE, UPE; ~12 itens de agregadores conferidos no PEBSP, incluindo a lista '7 especializações gratuitas em novembro', todas encerradas ou já registradas; Hora Brasil e Guia da Pós sem leitura automática): 1 nova, IF Goiano Urutaí Especialização em IA Aplicada a Dados Corporativos EaD (aguardando confirmação oficial, C, inscrições de 18/11/2026 a 18/01/2027). CEDERJ 2027.1 e USP/EEL marcados como encerrados. Pendências C (IFCE RESTIC-61, IFPA 08/2026, UnB IA na Pesquisa): portais oficiais sem leitura automática; nenhuma resolvida. Conferidos e já registrados/encerrados: IFB Chamada 4/2026 (IA, encerrada em fev.), IFMG Ouro Preto 1100/2026, IFSP Catanduva 99/2026 (IoT presencial, encerrada em 09/11). Sem alertas de prazo 7/3/1 dias para A/B/C. 12h58 (portais CO/SE por busca restrita: IF Goiano, IFG, IFMS, IFMG, IFES, IFSP, IFTM; 9 itens de agregadores conferidos no PEBSP, Hora Brasil sem leitura automática): 1 nova, IFMS Edital 077/2026 Técnico em Manutenção e Suporte em Informática semipresencial (encontro semanal obrigatório em MS; aguardando confirmação oficial, C, provável D; inscrições 13/11 a 06/12/2026). Conferidos e descartados: Petrobras/Autonomia e Renda (sem TI, só moradores locais), IFMS EJA 73/2026 (presencial em MS), IF Goiano Rio Verde técnico IA integrado (encerrado, integrado ao EM), IFG Anápolis 44/2026 (já registrado). Pendências C (IF Goiano Urutaí 33/2026, IFCE RESTIC-61): portais ifgoiano e ifce sem leitura automática; o PDF 'SEI_8241701_Edital_61' do IFCE é o Pibid 61/2025, não o RESTIC-61. Nenhuma resolvida.",
+      "resumo": "06h59 (portais N/NE por busca restrita: IFPE, IFSertãoPE, IFCE, UFPE, UFRPE, UPE; ~12 itens de agregadores conferidos no PEBSP, incluindo a lista '7 especializações gratuitas em novembro', todas encerradas ou já registradas; Hora Brasil e Guia da Pós sem leitura automática): 1 nova, IF Goiano Urutaí Especialização em IA Aplicada a Dados Corporativos EaD (aguardando confirmação oficial, C, inscrições de 18/11/2026 a 18/01/2027). CEDERJ 2027.1 e USP/EEL marcados como encerrados. Pendências C (IFCE RESTIC-61, IFPA 08/2026, UnB IA na Pesquisa): portais oficiais sem leitura automática; nenhuma resolvida. Conferidos e já registrados/encerrados: IFB Chamada 4/2026 (IA, encerrada em fev.), IFMG Ouro Preto 1100/2026, IFSP Catanduva 99/2026 (IoT presencial, encerrada em 09/11). Sem alertas de prazo 7/3/1 dias para A/B/C. 12h58 (portais CO/SE por busca restrita: IF Goiano, IFG, IFMS, IFMG, IFES, IFSP, IFTM; 9 itens de agregadores conferidos no PEBSP, Hora Brasil sem leitura automática): 1 nova, IFMS Edital 077/2026 Técnico em Manutenção e Suporte em Informática semipresencial (encontro semanal obrigatório em MS; aguardando confirmação oficial, C, provável D; inscrições 13/11 a 06/12/2026). Conferidos e descartados: Petrobras/Autonomia e Renda (sem TI, só moradores locais), IFMS EJA 73/2026 (presencial em MS), IF Goiano Rio Verde técnico IA integrado (encerrado, integrado ao EM), IFG Anápolis 44/2026 (já registrado). Pendências C (IF Goiano Urutaí 33/2026, IFCE RESTIC-61): portais ifgoiano e ifce sem leitura automática; o PDF 'SEI_8241701_Edital_61' do IFCE é o Pibid 61/2025, não o RESTIC-61. Nenhuma resolvida. 17h58 (portais Sul e programas nacionais por busca restrita: IFSC, IFPR, IFRS, IFSul, IFC, UTFPR, UFRGS, UAB/CAPES; 5 itens de agregadores conferidos no PEBSP, Hora Brasil e Guia da Pós sem leitura automática): nenhuma nova. IFS 19/2026 (Licenciatura em Computação semipresencial) atualizado com dados secundários: momentos presenciais obrigatórios em SE, encontros síncronos, calendário (resultado final 10/12); segue C, tende a D. Conferidos e descartados: IFS 19/2026 demais cursos de TI (presenciais em SE), IF Baiano qualificação em informática para mulheres (presencial na BA), UTFPR UAB Edital 10/2026 (Gestão Escolar, sem TI), IFPR 2027 (presencial, encerrado), IFSC FIC IA EaD (encerrado em jan/2026, edital oficial não verificado), UFRGS Esp. IA Avançada (portal sem leitura automática). Pendências C (IFS 19/2026, IFCE RESTIC-61, IFPA 08/2026, UnB IA na Pesquisa): editais oficiais sem leitura automática; nenhuma resolvida.",
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.pebsp.com/7-editais-abertos-para-especializacoes-gratuitas-em-novembro/",
@@ -7867,7 +7923,13 @@
         "https://www.pebsp.com/petrobras-e-4-institutos-federais-tem-editais-para-cursos-de-qualificacao-e-bolsas-que-chegam-a-r-1-100/",
         "https://www.pebsp.com/ifms-abre-inscricoes-para-395-vagas-em-cursos-tecnicos-integrados-eja-dcs/",
         "https://www.pebsp.com/if-goiano-abre-vagas-para-curso-tecnico-em-inteligencia-artificial-integrado-ao-ensino-medio-dcs/",
-        "https://portal.ifce.edu.br/documents/16308/SEI_8241701_Edital_61.pdf"
+        "https://portal.ifce.edu.br/documents/16308/SEI_8241701_Edital_61.pdf",
+        "https://www.ifsc.edu.br/",
+        "https://ifpr.edu.br/",
+        "https://ifrs.edu.br/",
+        "https://ead.utfpr.edu.br/",
+        "https://www.inf.ufrgs.br/",
+        "https://www.gov.br/capes/"
       ]
     },
     {
@@ -8839,5 +8901,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-16T12:58:00-03:00"
+  "ultimaExecucao": "2026-11-16T17:59:00-03:00"
 }
