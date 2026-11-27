@@ -7727,7 +7727,7 @@
       "viabilidade": "A",
       "linkEdital": "https://sites.usp.br/pen/?p=6951",
       "linkInscricao": "https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W&codund=87",
-      "dataVerificacao": "2026-11-23",
+      "dataVerificacao": "2026-11-27",
       "fontes": [
         "https://sites.usp.br/pen/?p=6951",
         "https://www.pebsp.com/3-cursos-da-usp-com-inscricoes-abertas-nesta-sexta-feira-13/"
@@ -7735,7 +7735,7 @@
       "primeiraDeteccao": "2026-11-13",
       "id": "usp-iri-polen-26003-2026-analise-dados-r",
       "edital": "Curso de extensão POLEN, edição 26.003 (Apolo/USP)",
-      "situacao": "INSCRIÇÕES ABERTAS",
+      "situacao": "PRAZO ENCERRANDO",
       "inscricaoInicio": "2026-11-23",
       "inscricaoFim": "2026-11-27",
       "marcos": [
@@ -8110,7 +8110,7 @@
       "tipo": "Técnico",
       "area": "Desenvolvimento de Sistemas",
       "edital": "Processo seletivo dos cursos técnicos subsequentes presenciais da rede estadual, ingresso 2027 (número NÃO INFORMADO) — fonte secundária",
-      "situacao": "INSCRIÇÕES ABERTAS",
+      "situacao": "PRAZO ENCERRANDO",
       "inscricaoInicio": "2026-11-16",
       "inscricaoFim": "2026-11-27",
       "cargaHoraria": "NÃO INFORMADO",
@@ -8127,7 +8127,7 @@
       "viabilidade": "B",
       "linkEdital": "https://drive.google.com/file/d/1wPUs7BtWIaVuDrScGTCCLt3h7AzR7oNh/view",
       "linkInscricao": "https://sisacad.educacao.pe.gov.br/sissel/",
-      "dataVerificacao": "2026-11-21",
+      "dataVerificacao": "2026-11-27",
       "observacoes": "Motivo: a notícia oficial da SEE-PE, o edital (Google Drive) e o SisSel não puderam ser lidos automaticamente nesta execução (18/11, 17h58). Notícias de 10 e 16/11/2026 (Diario de Pernambuco, Portal de Prefeitura) citam o curso de Desenvolvimento de Sistemas entre os 32 cursos, mas não informam em quais ETEs, municípios e turnos. Falta ler o edital (linkEdital) para confirmar oferta na RMR, turno e vagas. Se confirmado em ETE da RMR, tende a B (presencial em Recife ou região). Recursos da prova em 15 e 16/12/2026. 19/11 (06h58): portal oficial de inscrição indicado pelas notícias: https://sisacad.educacao.pe.gov.br/ (não lido automaticamente). Notícias de 16/11 confirmam prova presencial eletrônica de 1 a 10/12/2026, 1ª classificação em 21/12, matrícula de 21 a 28/12 e início das aulas em 03/02/2027; a relação de ETEs por município segue só no edital (Google Drive), ainda não lido. 19/11 (17h58): notícia OFICIAL da SEE-PE (portal.educacao.pe.gov.br) confirma o processo seletivo dos subsequentes presenciais (9.530 vagas, 32 cursos, 71 ETEs, 50 municípios incluindo a RMR), inscrição gratuita só pela internet de 16 a 27/11/2026, provas de 01 a 10/12, recursos 15 e 16/12, 1ª classificação e matrícula de 21 a 28/12/2026 e início das aulas em 03/02/2027. A notícia NÃO lista quais ETEs ofertam este curso; segue C até ler o edital (linkEdital, Google Drive, não lido) e confirmar ETE na RMR. 20/11 (06h58): edital (Google Drive) e notícia oficial da SEE-PE seguem sem leitura automática; nova matéria de 16/11 (Portal de Prefeitura) confirma oferta presencial em ETEs de 50 municípios, inclusive RMR, mas não lista escolas/turnos do curso. Falta ler o edital (linkEdital) para confirmar ETE na RMR. Inscrições terminam em 27/11/2026. 20/11 (17h58): edital (Google Drive) segue sem leitura automática; matéria do Diario de Pernambuco de 16/11 relida, sem lista de ETEs/turnos do curso e sem citar exigência de residência. Pendência mantida; falta ler o edital (linkEdital). 21/11 (06h58): EDITAL OFICIAL LIDO (Edital ETE Subsequente 2027.1, SEE-PE, arquivo no Google Drive, linkEdital). Confirmado: oferta em ETEs da RMR no turno da noite (item 11.1), sem taxa (item 2.7), inscrição só pela internet (item 2.1), prova eletrônica presencial na escola escolhida (itens 4.2 e 5.6), sem exigência de residência. Reclassificado de C para B (curso presencial gratuito na RMR com elegibilidade confirmada). Situação: INSCRIÇÕES ABERTAS até 27/11/2026.",
       "fontes": [
         "https://www.diariodepernambuco.com.br/vida-urbana/2026/11/11729240-estao-abertas-as-inscricoes-com-mais-de-95-mil-vagas-para-cursos-tecnicos-subsequentes-presenciais-da-rede-estadual.html",
@@ -8165,7 +8165,7 @@
       "tipo": "Técnico",
       "area": "Redes de Computadores",
       "edital": "Processo seletivo dos cursos técnicos subsequentes presenciais da rede estadual, ingresso 2027 (número NÃO INFORMADO) — fonte secundária",
-      "situacao": "INSCRIÇÕES ABERTAS",
+      "situacao": "PRAZO ENCERRANDO",
       "inscricaoInicio": "2026-11-16",
       "inscricaoFim": "2026-11-27",
       "cargaHoraria": "NÃO INFORMADO",
@@ -8182,7 +8182,7 @@
       "viabilidade": "B",
       "linkEdital": "https://drive.google.com/file/d/1wPUs7BtWIaVuDrScGTCCLt3h7AzR7oNh/view",
       "linkInscricao": "https://sisacad.educacao.pe.gov.br/sissel/",
-      "dataVerificacao": "2026-11-21",
+      "dataVerificacao": "2026-11-27",
       "observacoes": "Motivo: a notícia oficial da SEE-PE, o edital (Google Drive) e o SisSel não puderam ser lidos automaticamente nesta execução (18/11, 17h58). Notícias de 10 e 16/11/2026 (Diario de Pernambuco, Portal de Prefeitura) citam o curso de Redes de Computadores entre os 32 cursos, mas não informam em quais ETEs, municípios e turnos. Falta ler o edital (linkEdital) para confirmar oferta na RMR, turno e vagas. Se confirmado em ETE da RMR, tende a B (presencial em Recife ou região). Recursos da prova em 15 e 16/12/2026. 19/11 (06h58): portal oficial de inscrição indicado pelas notícias: https://sisacad.educacao.pe.gov.br/ (não lido automaticamente). Notícias de 16/11 confirmam prova presencial eletrônica de 1 a 10/12/2026, 1ª classificação em 21/12, matrícula de 21 a 28/12 e início das aulas em 03/02/2027; a relação de ETEs por município segue só no edital (Google Drive), ainda não lido. 19/11 (17h58): notícia OFICIAL da SEE-PE (portal.educacao.pe.gov.br) confirma o processo seletivo dos subsequentes presenciais (9.530 vagas, 32 cursos, 71 ETEs, 50 municípios incluindo a RMR), inscrição gratuita só pela internet de 16 a 27/11/2026, provas de 01 a 10/12, recursos 15 e 16/12, 1ª classificação e matrícula de 21 a 28/12/2026 e início das aulas em 03/02/2027. A notícia NÃO lista quais ETEs ofertam este curso; segue C até ler o edital (linkEdital, Google Drive, não lido) e confirmar ETE na RMR. 20/11 (06h58): edital (Google Drive) e notícia oficial da SEE-PE seguem sem leitura automática; nova matéria de 16/11 (Portal de Prefeitura) confirma oferta presencial em ETEs de 50 municípios, inclusive RMR, mas não lista escolas/turnos do curso. Falta ler o edital (linkEdital) para confirmar ETE na RMR. Inscrições terminam em 27/11/2026. 20/11 (17h58): edital (Google Drive) segue sem leitura automática; matéria do Diario de Pernambuco de 16/11 relida, sem lista de ETEs/turnos do curso e sem citar exigência de residência. Pendência mantida; falta ler o edital (linkEdital). 21/11 (06h58): EDITAL OFICIAL LIDO (Edital ETE Subsequente 2027.1, SEE-PE, arquivo no Google Drive, linkEdital). Confirmado: oferta em ETEs da RMR no turno da noite (item 11.1), sem taxa (item 2.7), inscrição só pela internet (item 2.1), prova eletrônica presencial na escola escolhida (itens 4.2 e 5.6), sem exigência de residência. Reclassificado de C para B (curso presencial gratuito na RMR com elegibilidade confirmada). Situação: INSCRIÇÕES ABERTAS até 27/11/2026.",
       "fontes": [
         "https://www.diariodepernambuco.com.br/vida-urbana/2026/11/11729240-estao-abertas-as-inscricoes-com-mais-de-95-mil-vagas-para-cursos-tecnicos-subsequentes-presenciais-da-rede-estadual.html",
@@ -8736,7 +8736,7 @@
       "estado": "MG",
       "tipo": "Técnico",
       "area": "Inteligência Artificial",
-      "edital": "Edital 243/2026 – Cursos Técnicos EaD 2027 (fonte secundária)",
+      "edital": "Edital 243/2026, retificado pelo Edital 244/2026 – Cursos Técnicos EaD 2027 (fonte secundária)",
       "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
       "inscricaoInicio": "2026-11-27",
       "inscricaoFim": "2026-12-08",
@@ -8754,11 +8754,12 @@
       "viabilidade": "C",
       "linkEdital": "https://documento.ifnmg.edu.br/action.php?kt_path_info=ktcore.actions.document.view&fDocumentId=86052",
       "linkInscricao": "https://www.ifnmg.edu.br/ead/editais-de-selecao-de-alunos",
-      "dataVerificacao": "2026-11-26",
+      "dataVerificacao": "2026-11-27",
       "primeiraDeteccao": "2026-11-26",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: páginas e documento do IFNMG não puderam ser lidos automaticamente. Tende a D (presença semanal em polo de MG). Cronograma da fonte: resultado preliminar 15/12, final 17/12, edital de matrícula 18/12/2026. 26/11 (12h58): nova tentativa de leitura das páginas oficiais sem sucesso (leitura automática não autorizada nesta execução); buscas não trouxeram fonte oficial alternativa. Pendência mantida. 26/11 (17h58): páginas oficiais seguem sem leitura automática; pendência mantida.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: páginas e documento do IFNMG não puderam ser lidos automaticamente. Tende a D (presença semanal em polo de MG). Cronograma da fonte: resultado preliminar 15/12, final 17/12, edital de matrícula 18/12/2026. 26/11 (12h58): nova tentativa de leitura das páginas oficiais sem sucesso (leitura automática não autorizada nesta execução); buscas não trouxeram fonte oficial alternativa. Pendência mantida. 26/11 (17h58): páginas oficiais seguem sem leitura automática; pendência mantida. 27/11 (12h58): PEBSP (27/11) informa que o Edital 244/2026 retifica o 243/2026; inscrições on-line e gratuitas de 27/11 a 08/12/2026 (itens 6.8 e 6.18, segundo a fonte); 'momentos presenciais intensivos semanais, obrigatórios para estudos e avaliações' nos polos de MG. Portal e documento oficial do IFNMG seguem sem leitura automática (falta ler o Edital 244/2026 em ifnmg.edu.br/ead/editais-de-selecao-de-alunos). Se confirmado, passa a D.",
       "fontes": [
-        "https://www.f5cariri.com.br/2026/11/instituto-federal-abre-720-vagas-em.html"
+        "https://www.f5cariri.com.br/2026/11/instituto-federal-abre-720-vagas-em.html",
+        "https://www.pebsp.com/ifnmg-abre-selecao-para-curso-tecnico-em-inteligencia-artificial-ead/"
       ],
       "marcos": [
         {
@@ -8778,7 +8779,7 @@
       "estado": "MG",
       "tipo": "Técnico",
       "area": "Informática / Desenvolvimento Web",
-      "edital": "Edital 243/2026 – Cursos Técnicos EaD 2027 (fonte secundária)",
+      "edital": "Edital 243/2026, retificado pelo Edital 244/2026 – Cursos Técnicos EaD 2027 (fonte secundária)",
       "situacao": "AGUARDANDO CONFIRMAÇÃO OFICIAL",
       "inscricaoInicio": "2026-11-27",
       "inscricaoFim": "2026-12-08",
@@ -8796,11 +8797,12 @@
       "viabilidade": "C",
       "linkEdital": "https://documento.ifnmg.edu.br/action.php?kt_path_info=ktcore.actions.document.view&fDocumentId=86052",
       "linkInscricao": "https://www.ifnmg.edu.br/ead/editais-de-selecao-de-alunos",
-      "dataVerificacao": "2026-11-26",
+      "dataVerificacao": "2026-11-27",
       "primeiraDeteccao": "2026-11-26",
-      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: páginas e documento do IFNMG não puderam ser lidos automaticamente. Tende a D (presença semanal em polo de MG). Cronograma da fonte: resultado preliminar 15/12, final 17/12, edital de matrícula 18/12/2026. 26/11 (12h58): nova tentativa de leitura das páginas oficiais sem sucesso (leitura automática não autorizada nesta execução); buscas não trouxeram fonte oficial alternativa. Pendência mantida. 26/11 (17h58): páginas oficiais seguem sem leitura automática; pendência mantida.",
+      "observacoes": "Dados de fonte secundária; edital oficial não verificado. Motivo: páginas e documento do IFNMG não puderam ser lidos automaticamente. Tende a D (presença semanal em polo de MG). Cronograma da fonte: resultado preliminar 15/12, final 17/12, edital de matrícula 18/12/2026. 26/11 (12h58): nova tentativa de leitura das páginas oficiais sem sucesso (leitura automática não autorizada nesta execução); buscas não trouxeram fonte oficial alternativa. Pendência mantida. 26/11 (17h58): páginas oficiais seguem sem leitura automática; pendência mantida. 27/11 (12h58): PEBSP (27/11) informa que o Edital 244/2026 retifica o 243/2026; inscrições on-line e gratuitas de 27/11 a 08/12/2026 (itens 6.8 e 6.18, segundo a fonte); 'momentos presenciais intensivos semanais, obrigatórios para estudos e avaliações' nos polos de MG. Portal e documento oficial do IFNMG seguem sem leitura automática (falta ler o Edital 244/2026 em ifnmg.edu.br/ead/editais-de-selecao-de-alunos). Se confirmado, passa a D.",
       "fontes": [
-        "https://www.f5cariri.com.br/2026/11/instituto-federal-abre-720-vagas-em.html"
+        "https://www.f5cariri.com.br/2026/11/instituto-federal-abre-720-vagas-em.html",
+        "https://www.pebsp.com/ifnmg-abre-selecao-para-curso-tecnico-em-inteligencia-artificial-ead/"
       ],
       "marcos": [
         {
@@ -8893,14 +8895,18 @@
   "verificacoes": [
     {
       "data": "2026-11-27",
-      "resumo": "06h58 (portais Norte/Nordeste e temáticas: buscas restritas em IFPE, IFRN, IFPB, IFAL, IFMA, IFPI, IFCE, IFBA, IFPA, IFAM, IFTO, IFRO e IFS, mais buscas de especializações em IA/dados; 11 itens de agregadores conferidos na página inicial do PEBSP; página 2 do PEBSP e Hora Brasil sem leitura automática): nenhuma oportunidade nova. Conferidos e já registrados ou fora do escopo: Residência TIC 56 Games Cepedi/IFS (já registrada), IFSULDEMINAS 229/2026 especializações sem TI (Educação Matemática, Gestão Escolar, Gestão de Negócios), IFRN técnicos EaD 2027 (Administração e Secretaria Escolar, sem TI), IFRN Sistemas para Internet EaD (já registrado), UERN Auditoria Contábil, UFLA extensão em educação inclusiva, IFSP Ensino da Matemática, IFF Educação (fora de TI). Pendências C (IFSULDEMINAS Vestibular 2027/1 EaD e IFS 19/2026) mantidas: portais oficiais sem leitura automática. Alertas: 7 dias para IFSULDEMINAS Poços 229/2026 (Esp. Informática na Educação); 3 dias para IFS 19/2026 Licenciatura em Computação, IFSULDEMINAS técnicos EaD e AVAMEC 21119/22616.",
+      "resumo": "06h58 (portais Norte/Nordeste e temáticas: buscas restritas em IFPE, IFRN, IFPB, IFAL, IFMA, IFPI, IFCE, IFBA, IFPA, IFAM, IFTO, IFRO e IFS, mais buscas de especializações em IA/dados; 11 itens de agregadores conferidos na página inicial do PEBSP; página 2 do PEBSP e Hora Brasil sem leitura automática): nenhuma oportunidade nova. Conferidos e já registrados ou fora do escopo: Residência TIC 56 Games Cepedi/IFS (já registrada), IFSULDEMINAS 229/2026 especializações sem TI (Educação Matemática, Gestão Escolar, Gestão de Negócios), IFRN técnicos EaD 2027 (Administração e Secretaria Escolar, sem TI), IFRN Sistemas para Internet EaD (já registrado), UERN Auditoria Contábil, UFLA extensão em educação inclusiva, IFSP Ensino da Matemática, IFF Educação (fora de TI). Pendências C (IFSULDEMINAS Vestibular 2027/1 EaD e IFS 19/2026) mantidas: portais oficiais sem leitura automática. Alertas: 7 dias para IFSULDEMINAS Poços 229/2026 (Esp. Informática na Educação); 3 dias para IFS 19/2026 Licenciatura em Computação, IFSULDEMINAS técnicos EaD e AVAMEC 21119/22616. 12h58 (portais CO/SE: buscas restritas em IFG, IF Goiano, IFB, IFMG, IFES, IFSP, IFTM, IFMT, IFMS, IFRJ, IFF e CEFET-MG, mais temáticas; 9 itens de agregadores conferidos no PEBSP): nenhuma oportunidade nova. IFNMG Teófilo Otoni: agregador informa Edital 244/2026 (retifica o 243) com inscrições 27/11 a 08/12; portal oficial segue sem leitura, pendência C mantida (tende a D). Conferidos e fora do escopo: IFAP 19/2026 ADS presencial no AP (reingresso/transferência), IFMS técnicos em Administração e Logística, IFSP Ensino da Matemática, IFF Educação; Residência TIC 56 Games (já registrada; fonte indica residência em SE/BA). Último dia: SEE-PE subsequente 2027 e USP Pólen Análise de Dados com R.",
       "novas": 0,
       "fontesConsultadas": [
         "https://www.pebsp.com/",
         "https://www.horabrasil.com.br/ (sem leitura)",
         "Buscas site:ifpe.edu.br, ifrn.edu.br, ifpb.edu.br, ifal.edu.br, ifma.edu.br, ifpi.edu.br, ifce.edu.br, ifba.edu.br, ifpa.edu.br, ifam.edu.br, ifto.edu.br, ifro.edu.br",
         "https://portal.ifsuldeminas.edu.br/index.php/institucional-geral/7730-vestibular-2027-1-cursos-tecnicos-subsequentes-ead-2 (sem leitura)",
-        "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70 (sem leitura)"
+        "https://processoseletivo.ifs.edu.br/editais/db21c7df-5439-4c85-80b1-4a558c860b70 (sem leitura)",
+        "https://www.pebsp.com/ifnmg-abre-selecao-para-curso-tecnico-em-inteligencia-artificial-ead/",
+        "https://www.pebsp.com/ifnmg-abre-670-vagas-em-cursos-tecnicos-ead-em-cinco-polos/",
+        "https://www.pebsp.com/instituto-federal-e-ministerio-da-ciencia-oferecem-formacao-em-games-que-paga-ate-r-2-mil-por-mes/",
+        "Buscas site:ifg.edu.br, ifgoiano.edu.br, ifb.edu.br, ifmg.edu.br, ifes.edu.br, ifsp.edu.br, iftm.edu.br, ifmt.edu.br, ifms.edu.br, ifrj.edu.br, iff.edu.br, cefetmg.br"
       ]
     },
     {
@@ -10195,5 +10201,5 @@
       "resumo": "16 oportunidades no acervo. Carga inicial: 6 (3 graduações UFMS, 2 técnicos IF Baiano, 1 curso livre EV.G). Madrugada: +8, entre elas Sistemas para Internet EaD do IFRN (até 25/10, B) e técnicos IF Baiano em Catu (até 20/11), Valença, Guanambi (D) e Itaberaba; +1 Técnico em Informática IF Baiano Santa Inês (até 16/10, C). 06h58: +1 Técnico em IA EaD do IFNMG (até 23/10), D por 20% de carga presencial em polos MG/GO. Pendentes de confirmação oficial: FIC IA IFSULDEMINAS e 'IA para Todos os Pernambucanos' (Secti-PE). 10h54 (sob demanda): +2. Técnico em Informática para Internet EaD do IFCE (até 23/10, C, possível 20% presencial no CE) e ADS EaD UAB do IF Goiano (até 27/10, seleção por ordem de inscrição), D por avaliações presenciais em polos de GO. 11h07 (sob demanda): nenhuma novidade. 12h58: +1 Tecnologia em Sistemas de Computação EaD (UFF/CEDERJ 2027/1, até 29/10), D por provas presenciais periódicas em polos do RJ. Conferidos também IF Sudeste MG 2027.1 (sem curso EaD de TI aberto) e Tecnologia em IA EaD do IFCE (inscrições encerradas em 08/10, encontros presenciais no CE). 16h32: nenhuma novidade (sem publicações novas no domingo; conferidos IF Baiano Alagoinhas/Guanambi/Santa Inês, IF Sudeste MG EaD 2027.1, IFNMG, UEG, IFSertãoPE e UFRPE). 17h: incluído como referência o ADS EaD/UAB do IFSertãoPE (Edital 94/2026, polos em PE), encerrado em 01/08/2026. Registros de referência (encerrados): IFCE Tecnologia em IA EaD (Edital 5/2026, até 08/10) e UEG Desenvolvimento de Sistemas para Internet EaD (vestibular 2025/2). 17h15: escopo ampliado para especializações em dados e IA. +2: Especialização em Análise de Dados e IA da UFMA (até 13/10, D por exigência de residência no MA) e, como referência, Especialização em IA do IFMG Formiga (encerrada em 30/09, 100% EaD, viabilidade A). 17h24 (sob demanda, foco em especializações e Hora Brasil): +4 registros de referência (encerrados): Especialização em Análise Estratégica de Dados do IFMG Formiga (100% EaD, até 23/02/2026, A), Especialização em Ciência de Dados EaD do IFSP Campinas/UAB (até 17/05/2026, C, polos em SP), Especialização em IA EaD do IFES São Mateus (até 19/12/2025, C, provável residência no ES) e extensão 'IA-1: Conceitos e Prompts' da UFPB (até 30/08/2026, C). Descartadas por serem presenciais: Especialização em IA Aplicada do IFG Anápolis (até 25/10), IA na Educação do IFRS Erechim e Ciência de Dados do IFRN Natal-Central. FIC Fundamentos de IA do IFSULDEMINAS Inconfidentes (turma 3, até 18/10) segue pendente: portal oficial inacessível. 17h58: nenhuma oportunidade nova aberta; +2 registros de referência (encerrados em 02/10/2026): técnicos subsequentes EaD em Informática/Redes do IF Baiano Xique-Xique (Edital 08/2026) e Governador Mangabeira (Edital 11/2026)."
     }
   ],
-  "ultimaExecucao": "2026-11-27T06:58:00-03:00"
+  "ultimaExecucao": "2026-11-27T12:58:00-03:00"
 }
